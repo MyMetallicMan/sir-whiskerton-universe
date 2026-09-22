@@ -83,7 +83,7 @@ The following themes are the DNA of the universe. Any story that does not engage
 
 These are the unwritten laws of the farm, now written.
 
-1. **Pur before you leap.**
+1. **Purr before you leap.**
 2. **Leave room for snacks.**
 3. **Echo with care.**
 4. **The first bite is always shared.**
@@ -129,6 +129,6 @@ The Steward may also establish a **Guardians Council**—a fellowship of trusted
 
 ---
 
-*Ratified by the Founding Steward on [Date].*
+*Ratified by the Founding Steward on 22SEP26.*
 
 *To be amended only by the Founding Steward or their designated successor.*
