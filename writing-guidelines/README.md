@@ -9,7 +9,7 @@ This folder contains the writing guidelines for the Sir Whiskerton Universe. The
 
 In 1985, the Coca-Cola Company changed its formula to compete with Pepsi. The result was New Coke. The fan base hated it. The formula was reverted. But a trust was broken.
 
-In the 1990s, a quiet town in Massachusetts sold its land to developers. The strip malls and water parks came. The environment was ruined. The town council eventually stopped it. But the place was changed.
+In the 1990s, a quiet town in Massachusetts (Milford) sold its land to developers. The strip malls and water parks came. The environment was ruined. The town council eventually stopped it. But the beauty of the place was forever changed, by the presence of an enormous strip mall and water-park.
 
 In the 2020s, Star Trek was acquired by a corporate streaming platform. The "content mandate" replaced the philosophical foundation. Starfleet Academy was made. The fans noticed. The soul was diluted.
 
