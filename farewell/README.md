@@ -23,7 +23,7 @@ farm was handed to the reader, and the reader was invited to keep it alive.
 
 ## Why These Are Here
 
-The blog was a stream. This repository is a library. These three posts 
+The blog was a stream. This repository is a library. These posts 
 are the bridge between the two—the last words of the stream, now held 
 in permanent water.
 
