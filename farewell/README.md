@@ -14,8 +14,12 @@ farm was handed to the reader, and the reader was invited to keep it alive.
 - **02-the-day-mm-came-to-tea.md** — The moment the author entered the 
   Sir Whiskerton universe, sat in the Farmer's rocking chair, and was 
   welcomed home.
-- **03-advice-from-the-farm.md** — The farm animals offer their counsel 
-  to readers navigating a period of great change.
+- **03-advice-from-the-helmsman.md** — The author's final advice to the 
+  M&M'ers—the community of readers who took the advice and built their 
+  own lifeboats.
+- **04-the-farm-that-was-not-afraid.md** — The farm answers back. Each 
+  animal speaks in turn. The community explains why it survives. And 
+  the farmer loses his shoe.
 
 ## Why These Are Here
 
