@@ -14,61 +14,84 @@ The birds are the ones who react. They are the ones who declare, amplify, gossip
 
 ## Who Lives Here
 
-The birds are organized by species and narrative function. For a full breakdown, see [`_overview.md`](./_overview.md).
+The birds are organized by species and narrative function. For a full breakdown of the narrative logic, see [`_overview.md`](./_overview.md).
 
 ### The Chickens
 
 | Character | Role | File |
 |-----------|------|------|
-| **Doris the Hen** | The Catalyst. Chief Gossipmonger. Declares the crisis. | `doris-the-hen.md` |
-| **Harriet the Hen** | The Amplifier. Broadcasts the rumor. | `harriet-the-hen.md` |
-| **Lillian the Hen** | The Punctuation. Faints at the provocation. | `lillian-the-hen.md` |
-| **Cluckadia** | The Ambient Noise. Clucks about mundane things. | `cluckadia.md` |
-| **The Valley Chicks** | The Fashionistas. Tiffany, Brittany, Madison. | `the-valley-chicks.md` |
-| **The Delusional Fan Sisters** | Prudence, Patience, Priss. Ferdinand's groupies. | `the-delusional-fan-sisters.md` |
+| **Doris the Hen** | The Catalyst. Chief Gossipmonger. Declares the crisis. | [doris-the-hen.md](./doris-the-hen.md) |
+| **Harriet the Hen** | The Amplifier. Broadcasts the rumor. | [harriet-the-hen.md](./harriet-the-hen.md) |
+| **Lillian the Hen** | The Punctuation. Faints at the provocation. | [lillian-the-hen.md](./lillian-the-hen.md) |
+| **The Valley Chicks** | The Fashionistas. Tiffany, Brittany, Madison. | (See `/the-visitors/`) |
+| **The Delusional Fan Sisters** | Prudence, Patience, Priss. Ferdinand's groupies. | (See `/the-visitors/`) |
+| **Cluckadia** | The Ambient Noise. Clucks about mundane things. | (See `/the-farm/`) |
 | **The Racing Hens** | Doris, Harriet, Lillian in their racing phase. | (See the hen files.) |
 
 ### The Geese
 
 | Character | Role | File |
 |-----------|------|------|
-| **Gertrude the Goose** | The Order. The Admiral of the Pond. | `gertrude-the-goose.md` |
-| **Wilma the Goose** | The Myth-Maker. The Prophet of the Pond. | `wilma-the-goose.md` |
+| **Gertrude the Goose** | The Order. The Admiral of the Pond. | [gertrude-the-goose.md](./gertrude-the-goose.md) |
+| **Wilma the Goose** | The Myth-Maker. The Prophet of the Pond. | [wilma-the-goose.md](./wilma-the-goose.md) |
 
 ### The Ducks
 
 | Character | Role | File |
 |-----------|------|------|
-| **Ferdinand the Duck** | The Mood Manager. Scores the emotion. | `ferdinand-the-duck.md` |
-| **Lady Quacka** | The Avant-Garde. The Mistress of Metamorphosis. | `lady-quacka.md` |
-| **Mr. Ducky** | The Disruptor. The Merchant of Maybe. | `mr-ducky.md` |
-| **Molly Quackers** | The Artist. The Genuine Creative. | `molly-quackers.md` |
-| **Professor Quackenstein** | The Mad Scientist. The Genius of Chaos. | `professor-quackenstein.md` |
-| **Comrade Quack Feng** | The Revolutionary. The Auditor of Inefficiency. | `comrade-quack-feng.md` |
-| **Mr. Waddle** | The Bureaucrat. The Imperial Efficiency Inspector. | `mr-waddle.md` |
+| **Ferdinand the Duck** | The Mood Manager. Scores the emotion. | [ferdinand-the-duck.md](./ferdinand-the-duck.md) |
+| **Lady Quacka** | The Avant-Garde. The Mistress of Metamorphosis. | [lady-quacka.md](./lady-quacka.md) |
+| **Mr. Ducky** | The Disruptor. The Merchant of Maybe. | [mr-ducky.md](./mr-ducky.md) |
+| **Molly Quackers** | The Artist. The Genuine Creative. | [molly-quackers.md](./molly-quackers.md) |
+| **Professor Quackenstein** | The Mad Scientist. The Genius of Chaos. | [professor-quackenstein.md](./professor-quackenstein.md) |
+| **Comrade Quack Feng** | The Revolutionary. The Auditor of Inefficiency. | [comrade-quack-feng.md](./comrade-quack-feng.md) |
+| **Mr. Waddle** | The Bureaucrat. The Imperial Efficiency Inspector. | [mr-waddle.md](./mr-waddle.md) |
 
 ### The Roosters
 
 | Character | Role | File |
 |-----------|------|------|
-| **Cluckster the Rooster** | The Ritual. The Dawn's Dedicated Dispatcher. | `cluckster-the-rooster.md` |
-| **Captain Cluckbeard** | The Myth-Bearer. The Scourge of the Seven Barnyards. | `captain-cluckbeard.md` |
-| **Squawk and Pluck** | Cluckbeard's crew. The panicky and the nervous. | `squawk-and-pluck.md` |
+| **Cluckster the Rooster** | The Ritual. The Dawn's Dedicated Dispatcher. | [cluckster-the-rooster.md](./cluckster-the-rooster.md) |
+| **Captain Cluckbeard** | The Myth-Bearer. The Scourge of the Seven Barnyards. | [captain-cluckbeard.md](./captain-cluckbeard.md) |
+| **Squawk and Pluck** | Cluckbeard's crew. The panicky and the nervous. | [squawk-and-pluck.md](./squawk-and-pluck.md) |
 | **Big Red the Rooster** | (Also a dog. See `/the-farm/`.) | — |
 
 ### The Crows
 
 | Character | Role | File |
 |-----------|------|------|
-| **Sedgwick the Crow** | The Philosopher. The Aesthetic Anarchist. | `sedgwick-the-crow.md` |
-| **Cornelius the Crow** | The Chaos Agent. The Chaos Crow King. | `cornelius-the-crow.md` |
-| **Edgar the Crow** | The Trickster. The Bully Crow Bro. | `edgar-the-crow.md` |
+| **Sedgwick the Crow** | The Philosopher. The Aesthetic Anarchist. | [sedgwick-the-crow.md](./sedgwick-the-crow.md) |
+| **Cornelius the Crow** | The Chaos Agent. The Chaos Crow King. | [cornelius-the-crow.md](./cornelius-the-crow.md) |
+| **Edgar the Crow** | The Trickster. The Bully Crow Bro. | [edgar-the-crow.md](./edgar-the-crow.md) |
+
+### The Rat Who Belongs with the Birds
+
+| Character | Role | File |
+|-----------|------|------|
+| **Egor the Hunchback Rat** | The Quiet Fixer. Professor Quackenstein's assistant. | [egor-the-hunchback-rat.md](./egor-the-hunchback-rat.md) |
+
+*Note: Egor is a rat, not a bird. But he belongs with the birds because he belongs to the Professor. He is never out of reach of the one he serves.*
 
 ### The Ensembles
 
 | Group | Role | File |
 |-------|------|------|
-| **The Quacking Kazoo Crew** | The Musical Ensemble. | `the-quacking-kazoo-crew.md` |
+| **The Quacking Kazoo Crew** | The Musical Ensemble. Joyful Noise, Incarnate. | [the-quacking-kazoo-crew.md](./the-quacking-kazoo-crew.md) |
+
+---
+
+## The Complete Index
+
+**Chickens:** Doris, Harriet, Lillian
+**Geese:** Gertrude, Wilma
+**Ducks:** Ferdinand, Lady Quacka, Mr. Ducky, Molly Quackers, Professor Quackenstein, Comrade Quack Feng, Mr. Waddle
+**Roosters:** Cluckster, Captain Cluckbeard, Squawk and Pluck
+**Crows:** Sedgwick, Cornelius, Edgar
+**Plus:** Egor the Hunchback Rat (honorary bird)
+**Ensembles:** The Quacking Kazoo Crew
+
+**Total avian society files:** 20
+**Plus Egor:** 21 files in this folder
 
 ---
 
