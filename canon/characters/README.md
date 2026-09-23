@@ -20,7 +20,8 @@ The characters are grouped by role, not alphabetically. This reflects the social
 |--------|------------------|
 | **[/stewards/](./stewards/)** | The founding characters. Sir Whiskerton, The Farmer, Martha. |
 | **[/apprentices/](./apprentices/)** | The next generation. Ditto, Echo. |
-| **[/the-farm/](./the-farm/)** | Core farm residents. Rufus, Doris, Porkchop, Bessie, Ferdinand, and others. |
+| **[/the-farm/](./the-farm/)** | Core farm residents. Rufus, Porkchop, Bessie, and others. |
+| **[/the-birds/](./the-birds/)** | The avian society. Doris, Harriet, Lillian, Gertrude, Ferdinand, Mr. Ducky, and the crows. |
 | **[/the-cats/](./the-cats/)** | The feline society. Catnip, Genghis, Bigcat, Count Catula, Jazzpurr, and others. |
 | **[/the-magical/](./the-magical/)** | Magical and otherworldly beings. Zephyr, Longwei, the Divine Llama, Slow Bob. |
 | **[/the-henchmen/](./the-henchmen/)** | The antagonists and their crews. Bonbo, Grumbles, the Squirrel Gang. |
@@ -36,6 +37,8 @@ The characters are grouped by role, not alphabetically. This reflects the social
 |------|---------|
 | **[_name-translations.md](./_name-translations.md)** | Every character's English and Chinese name, in one place. |
 | **[_pairings.md](./_pairings.md)** | Established pairs and groups. Quick reference for relationships. |
+| **[_pairings.md](./_pairings.md)** | Established pairs and groups. Quick reference for relationships. |
+| **[the-birds/_overview.md](./the-birds/_overview.md)** | The narrative framework of the avian society. |
 
 ---
 
