@@ -136,7 +136,7 @@ Every ESL edition uses **tooltips** — small, hover-triggered text boxes that e
 <em>Example: [A simple sentence using the word].</em>
 </span></span>
 
-**Category Two — Humor Tooltips**
+### Category Two — Humor Tooltips
 
 What it does: Explains the joke, the meme, or the cultural reference.
 
@@ -151,7 +151,7 @@ Why it works: It transforms confusion into delight. It makes the humor accessibl
 <em>Example: [A real-world parallel or breakdown of the pun].</em>
 </span></span>
 
-**Category Three — Elaboration Tooltips**
+### Category Three — Elaboration Tooltips
 
 What it does: Provides deeper context, background, or "behind the scenes" insight.
 
@@ -166,7 +166,7 @@ Why it works: It rewards curiosity and makes the world feel real and layered.
 <em>Example: [A historical fact or connection to a larger theme].</em>
 </span></span>
 
-**Category Four — English Humor Tooltips**
+### Category Four — English Humor Tooltips
 
 What it does: Explains English-language puns, idioms, slang, and memes.
 
@@ -181,7 +181,7 @@ Why it works: It shows students that English, like Chinese, has its own rich wor
 <em>Example: [A breakdown of the words or a similar joke in Chinese].</em>
 </span></span>
 
-The Rules of Tooltips
+## The Rules of Tooltips
 
     One tooltip per hover instance. Never overload a single tooltip with all four types.
 
@@ -193,7 +193,7 @@ The Rules of Tooltips
 
     Respect the 15-second mind. Every tooltip must be scannable in under 10 seconds.
 
-Section 5 — Humor Localization
+## Section 5 — Humor Localization
 
 The humor of the Sir Whiskerton Universe is not translated into Chinese. It is localized. The jokes are not moved from one language to the other. They are reborn in the other language.
 The Principle
@@ -349,7 +349,7 @@ When you are finished, ask:
 
     Does the story demonstrate the curriculum standards?
 
-The Checklist
+## The Checklist
 
 A final checklist for any ESL edition of a Sir Whiskerton story:
 
