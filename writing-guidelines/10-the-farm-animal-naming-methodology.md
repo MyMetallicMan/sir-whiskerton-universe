@@ -305,3 +305,45 @@ A great name has all three. A good name has two. A weak name has one. A failed n
 ## The Proposal Template
 
 When proposing a new name, use this template:
+
+Proposed Name: [Chinese name]
+Literal Meaning: [What it literally means]
+Rhythm: [How it sounds when read aloud]
+Wink: [What is the hidden joke or reference?]
+Surprise: [What is the unexpected element?]
+Core Truth of Character: [The name should reflect the character's core truth]
+
+
+This template ensures that every proposed name has been *examined* — not just *invented.*
+
+---
+
+## The Author's Veto
+
+**The author has final approval on all names.**
+
+If a name is proposed and the author rejects it, the name does not enter canon — no matter how clever, no matter how rhythmic, no matter how surprising.
+
+The author's *no* is final. This is not a technicality. It is the *covenant.*
+
+---
+
+## The Golden Rule
+
+**Do not create names. Discover them.**
+
+The best Chinese names feel less like *creations* and more like *discoveries* — as if the name was always waiting for the character, and the character was always waiting for the name. When you find a name that fits this well, you will know. The character will stand a little taller. The farm will feel a little fuller. And the reader — somewhere, sometime, opening the book for the first time — will feel, for the first time, that they have come *home.*
+
+---
+
+## A Closing Word
+
+The names of the Sir Whiskerton Universe are not decorations. They are *doors.*
+
+Each name is an invitation. Each name says: *"Come in. You are welcome here. You are seen."*
+
+This is why the methodology matters. Not because names are important in the abstract — but because names are the *first thing a reader touches* when they enter a story. And the reader must feel, in that first touch, that the door has been left open for them.
+
+The farm has always been a place where the lost belong. The names are how we make that promise real.
+
+Jingle on.
