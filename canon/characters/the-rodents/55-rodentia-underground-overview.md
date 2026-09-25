@@ -103,19 +103,19 @@ These rodents operate outside the major factions, driven by personal motives rat
 
 The following chart illustrates the complex and often hostile relationships between the farm's major underground factions:
 
-┌─────────────────────────────┐
-│ Catnip Syndicate │
-│ Freelance Henchmen │
-└─────────────┬───────────────┘
-│
-┌───────────────────┼───────────────────┐
-│ │ │
-▼ ▼ ▼
-┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
-│ Northern Horde │ │ Dairy Mafia │ │ Independents │
-│ Mercenary │ │ Squirrel │ │ (Ratso, Dr. │
-│ Invaders │ │ Rivals │ │ Notorious) │
-└─────────────────┘ └─────────────────┘ └─────────────────┘
+┌─────────────────────────────┐      
+│ Catnip Syndicate │      
+│ Freelance Henchmen │      
+└─────────────┬───────────────┘      
+│       
+┌───────────────────┼───────────────────┐      
+│ │ │       
+▼ ▼ ▼       
+┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐        
+│ Northern Horde │ │ Dairy Mafia │ │ Independents │       
+│ Mercenary │ │ Squirrel │ │ (Ratso, Dr. │        
+│ Invaders │ │ Rivals │ │ Notorious) │       
+└─────────────────┘ └─────────────────┘ └─────────────────┘         
 
 
 **Loyalty Key:**
