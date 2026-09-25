@@ -38,7 +38,7 @@ She does not interfere. Dragon law forbids direct intervention in mortal affairs
 
 She is also, in her own quiet way, the farm's political shield. In the world of dragons, there are roles, expectations, and responsibilities. Longwei's periodic disappearances — his out-of-sight, out-of-mind wanderings — have not gone unnoticed. His other siblings, his extended family, his clan elders — they have questions. They have concerns. They have, on more than one occasion, proposed a formal delegation to investigate.
 
-Long Yi has been particularly important in controlling the potentially problematic outcome were a herd of dragons — a "thunder," as the collective noun goes — to decide to depart from their lairs and descend upon the farm in mass.
+Long Yi has been particularly important in controlling the potentially problematic outcome were a thunder of dragons to decide to depart from their lairs and descend upon the farm in mass.
 
 She has not stopped them with force. She has stopped them with patience. With well-placed words. With the gentle reminder that Longwei is not lost — he is simply... on retreat.
 
@@ -50,21 +50,15 @@ She is the reason the farm has never been visited by a thunder of angry dragons.
 - **Wise.** She has studied dragon law. She knows the boundaries. She knows exactly how far she can go — and she goes precisely that far, and not a whisker more. She is patient. She is deliberate. She is, in her own way, a strategist.
 - **Warm (Beneath the Nagging).** She scolds Longwei about his medicinal mushrooms and his cloud-napping and his questionable choice of friends. But every scold is a love letter. Every nag is a prayer. She would move mountains for him. She has moved mountains for him.
 - **Quietly Proud.** She would never admit it. But she is proud of him. Proud that he found a home. Proud that he found friends. Proud that he chose — of all the things he could have chosen to be — to be gentle. She murmurs to the wind: "He's fine. He's just... making friends with peasants again." And the wind carries the pride she will not speak.
-- **Anxious.** She worries about his bellyaches. She worries about his tendency to nap in thunderstorms. She worries about his love of "peasant food" — especially dumplings. She worries that one day, he will not come back. She worries that one day, he will forget he is a dragon. She worries. It is what she does. It is who she is.
+- **Anxious.** She worries about his bellyaches. She worries about his tendency to nap in thunderstorms. She worries about his love of "peasant food" — especially dumplings. She worries that one day, he will not come back. She worries that one day, he will change form and forget to tell her. She worries. It is what she does. It is who she is.
 
 ## The Origin
 
 Long Yi was not always a guardian. She was a daughter. A sister. A young dragon with more fire than sense — just like Longwei.
 
-But then came the Great Bamboo Storm of the Jade Valley. Their parents vanished. The valley was shattered. The bamboo was broken. The sky was dark for a month.
+But then came the Great Bamboo Storm of the Jade Valley. Their parents did not die — in this universe, nothing truly dies; it only changes form. But they vanished. They changed into something the young Long Yi could not follow, could not reach, could not understand. From her perspective, they were gone. From the universe's perspective, they had simply become something else. The valley was shattered. The bamboo was broken. The sky was dark for a month.
 
 Long Yi was the eldest. She was the one who found Longwei in the rubble, his scales singed, his eyes wide. She was the one who carried him to safety. She was the one who took on the role of guardian — raising him with a mix of ancient dragon wisdom and very human-like nagging.
-
-"You didn't eat your medicinal mushrooms!" she'd chide. "No wonder you're coughing fire!"
-
-"You slept on a cloud again? Your back will ache!"
-
-"And why are you friends with a *cat*? They're so... small."
 
 She never stopped. She never will.
 
@@ -154,7 +148,7 @@ She likes Sir Cattenon. She has never met him. But anyone who was defeated by he
 
 Long Yi is afraid of being forgotten.
 
-She is afraid that one day, Longwei will not come back to the mountains. That he will stay on the farm. That he will forget he is a dragon. That he will forget her.
+She is afraid that one day, Longwei will not come back to the mountains. That he will stay on the farm. That he will change form the way their parents did — not dying, but becoming something else, something unreachable, something she cannot follow. That she will lose him the way she lost them. Not to death. To distance. To change.
 
 She is afraid that the welcome he has found — the warmth, the acceptance, the sunbeams — will replace the home he left behind. That she will become a memory. A story. A shadow on the moon.
 
