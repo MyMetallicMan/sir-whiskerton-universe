@@ -17,7 +17,7 @@ Some of them are magical. Some of them are ordinary. Some of them are human. All
 | Character | Role | File |
 |-----------|------|------|
 | **Gnomeo the Wandering Gnome** | The Chaos Artist. Mischievous, playful, secretly kind. | `48-gnomeo-the-wandering-gnome.md` |
-| **Bartholomew the Piñata** | The Unreliable Oracle. Silent, wise, absurd. | `49-bartholomew-the-pinata.md` |
+| **Bartholomew the Piñata** | The Unreliable Oracle. Silent, wise, absurd. | [`49-bartholomew-the-pinata.md`](49-bartholomew-the-pinata.md) |
 | **Steve the Scarecrow** | The Silent Witness. Observes without speaking. | `50-steve-the-scarecrow.md` |
 | **Throttle the Tractor** | The Grumpy Tractor. Mirror of the Farmer's mood. | `51-throttle-the-tractor.md` |
 | **Chef Remy LeRaccoon** | The Mad Scientist Chef. Experiments with everything. | `52-chef-remy-leraccoon.md` |
