@@ -16,7 +16,7 @@ They are the farm's heart, held low to the ground, beating steady beneath a loud
 |-----------|------|------|
 | Porkchop the Pig | The Porcine Ambassador of Pure Joy. The resident smile in a Hawaiian shirt. | [`60-porkchop-the-pig.md`](60-porkchop-the-pig.md) |
 | The Pigernator | The Cybernetic Swine Enforcement Unit. Reformed enforcer. Reluctant artist. | [`61-the-pigernator.md`](61-the-pigernator.md) |
-| Mr. Wigglesworth | The Porcine Polymath of Perpetual Puzzlement. Grandmaster of Glorious Misunderstanding. | `62-mr-wigglesworth.md` |
+| Mr. Wigglesworth | The Porcine Polymath of Perpetual Puzzlement. Grandmaster of Glorious Misunderstanding. | [`62-mr-wigglesworth.md`](62-mr-wigglesworth.md) |
 | Oinkster | The Copycat Pig. Method actor. Founder of Bigcat's barnyard theater troupe. | `63-oinkster.md` |
 | Zhu Yi (Pig Auntie) | The Guardian of the Eastern Skies. Keeper of Ancient Pig Lore. Professional Worrier. | `64-zhu-yi.md` |
 
