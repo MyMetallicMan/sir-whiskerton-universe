@@ -112,9 +112,9 @@ The following chart illustrates the complex and often hostile relationships betw
 │ │ │       
 ▼ ▼ ▼       
 ┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐        
-│ Northern Horde │ │ Dairy Mafia │ │ Independents │       
-│ Mercenary │ │ Squirrel │ │ (Ratso, Dr. │        
-│ Invaders │ │ Rivals │ │ Notorious) │       
+│ Northern Horde │           │ Dairy Mafia │          │ Independents │       
+│ Mercenary │         │ Squirrel │          │ (Ratso, Dr. │        
+│ Invaders │           │ Rivals │           │ Notorious) │       
 └─────────────────┘ └─────────────────┘ └─────────────────┘         
 
 
