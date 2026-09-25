@@ -16,7 +16,7 @@ The animals call them "the Stewards." They are the keepers of the sanctuary.
 
 | Character | Role | File |
 |-----------|------|------|
-| **Sir Whiskerton** | The Steward & Arbiter. Tuxedo cat. Detective, philosopher, quiet witness. | `01-sir-whiskerton.md` |
+| **Sir Whiskerton** | The Steward & Arbiter. Tuxedo cat. Detective, philosopher, quiet witness. | [`01-sir-whiskerton.md`](01-sir-whiskerton.md) |
 | **The Farmer** | The Axis. The quiet presence upon which everything turns. | [`02-the-farmer.md`](02-the-farmer.md) |
 | **Martha** | The Heart. The anchor of quiet, enduring love. | [`03-martha.md`](03-martha.md) |
 | **Interaction Guidelines for The Farmer and Martha** | The Heart. The anchor of quiet, enduring love. | [`100-interaction-guidelines.md`](100-interaction-guidelines.md) |
