@@ -24,7 +24,7 @@ These characters are not visitors. They are not antagonists. They are not magica
 | **Lillian the Hen** | The Fainting Drama Queen. Emotional honesty in collapse. | `11-lillian-the-hen.md` |
 | **Porkchop the Pig** | The Pragmatic Philosopher. Sarcastic, food-loving, grounded. | `12-porkchop-the-pig.md` |
 | **Ferdinand the Duck** | The Singing Sensation. Dramatic, self-absorbed, secretly tender. | `13-ferdinand-the-duck.md` |
-| **Bessie the Tie-Dye Cow** | The Hippie Therapist. Peace, love, and mood rings. | `14-bessie-the-tie-dye-cow.md` |
+| **Bessie the Tie-Dye Cow** | The Hippie Therapist. Peace, love, and mood rings. | [`14-bessie-the-tie-dye-cow.md`](14-bessie-the-tie-dye-cow.md) |
 | **Mr. Ducky** | The Hustle Duck. Scheming salesman. Occasionally useful. | `15-mr-ducky.md` |
 
 ---
