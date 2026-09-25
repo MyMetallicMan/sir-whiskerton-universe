@@ -39,6 +39,7 @@ This folder contains the non-farm animals—the creatures who live in the pond, 
 | **Gertrude the Goose** | The Leader of the Geese. Proud, protective. | `96-gertrude-the-goose.md` |
 | **Wilma the Goose** | The Weather-Predicting Goose. | `97-wilma-the-goose.md` |
 | **The Other Creatures** | Minor animal characters. | `98-the-other-creatures.md` |
+| **Chef Remy LeRaccoon** | The Culinary Alchemist, Master of Fridge-Field Physics, and Utterly, Adorably Adrift. | `99-chef-remy-leraccoon.md` |
 
 ---
 
