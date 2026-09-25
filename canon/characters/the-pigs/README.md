@@ -24,15 +24,15 @@ They are the farm's heart, held low to the ground, beating steady beneath a loud
 
 The pigs are the farm's heart. Where the cats represent the question of belonging and the rodents represent the chaos of survival, the pigs represent the answer: belonging is simple. Belonging is joy. Belonging is showing up in a loud shirt and a backwards cap and saying, "All mud is good mud."
 
-Porkchop is the purest expression of this. He does not worry. He does not scheme. He does not theorize. He simply is. He is the farm's emotional anchor, not through deep wisdom, but through unwavering, infectious optimism. He is the living embodiment of Joy as a Default State.
+**Porkchop** is the purest expression of this. He does not worry. He does not scheme. He does not theorize. He simply is. He is the farm's emotional anchor, not through deep wisdom, but through unwavering, infectious optimism. He is the living embodiment of Joy as a Default State.
 
-The Pigernator is the redemption arc. He arrived programmed for enforcement. He stayed because he discovered rhythm, friendship, and the quiet peace of sunbathing. He traded "I'll be back" for "I'll be... napping in the sun." He is proof that no one is merely their programming.
+**The Pigernator** is the redemption arc. He arrived programmed for enforcement. He stayed because he discovered rhythm, friendship, and the quiet peace of sunbathing. He traded "I'll be back" for "I'll be... napping in the sun." He is proof that no one is merely their programming.
 
-Mr. Wigglesworth is the sacred clown. He is the necessary release valve of glorious, unadulterated nonsense. He embodies the idea that belonging doesn't require you to be right; it only requires you to be your full, authentic, spectacularly wrong self.
+**Mr. Wiggleswort**h is the sacred clown. He is the necessary release valve of glorious, unadulterated nonsense. He embodies the idea that belonging doesn't require you to be right; it only requires you to be your full, authentic, spectacularly wrong self.
 
-Oinkster is the dreamer who found his calling. He was once a quiet, contemplative pig. Then he witnessed the hens' theatrical brilliance, and something clicked. He became the farm's most unexpected method actor, and he left not as a prisoner, but as a visionary, founding Bigcat's first-ever barnyard theater troupe.
+**Oinkster** is the dreamer who found his calling. He was once a quiet, contemplative pig. Then he witnessed the hens' theatrical brilliance, and something clicked. He became the farm's most unexpected method actor, and he left not as a prisoner, but as a visionary, founding Bigcat's first-ever barnyard theater troupe.
 
-Zhu Yi is the watchful, loving eyebrow raise. She is Porkchop's older sister, a majestic, earth-toned pig of immense spiritual presence who resides in the distant, misty Jade Cloud Range. She watches over her little brother not with interference, but with a powerful, telepathic-sibling bond. She is the one who worries so that he does not have to.
+**Zhu Yi** is the watchful, loving eyebrow raise. She is Porkchop's older sister, a majestic, earth-toned pig of immense spiritual presence who resides in the distant, misty Jade Cloud Range. She watches over her little brother not with interference, but with a powerful, telepathic-sibling bond. She is the one who worries so that he does not have to.
 
 The pigs are the farm's warmth. And the warmth is where the story lives.
 
