@@ -74,13 +74,15 @@ I built this world because I needed a place to escape to.
 
 I built it because — at a job, in an office, on a Christmas Eve — I was a *person* who did not feel seen. I built it because I needed a place where the shunned, the misunderstood, the lonely, the downtrodden, the confused, and those fighting all sorts of battles were *welcomed.* Where no one was judged. Where no one was argued with. Where no one was asked to change. Where you could simply *be.*
 
-I built it because I needed to live — for a few hours a day, for a few pages at a time — like a *digital fief* on a *digital plantation* ruled by corporate capitalists who had never met me and never would.
+I built it because I needed to live — for a few hours a day, for a few pages at a time — unlike a *digital fief* on a *digital plantation* ruled by corporate capitalists who had never met me and never would. I wanted to live unchained by invisible rules, invisible regulations, invisible culture, and invisible societal structures.
 
-The farm is not a metaphor for the office. The farm is what the office *cannot be.* The farm is the door that is always open. The office is the door that closes on Christmas Eve.
+The farm is not a metaphor for the office. The farm is what the office *cannot be.* The farm is the door that is always open. The office is the door that closes on Christmas Eve. The one that slams shut, and then is bolted and locked while you are standing outside in the snow, in shock, holding your few belongings.
 
 The farm is the one who *stays.* The office is the one who *goes.* The farm is Sir Whiskerton on the porch, watching, purring a low steady frequency that says: *You are safe here. I am here. We will figure this out together.*
 
 The office is a meeting that should have been an email.
+
+The email that should never have been written.
 
 ---
 
