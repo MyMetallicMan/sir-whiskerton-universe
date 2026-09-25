@@ -102,3 +102,40 @@ These rodents operate outside the major factions, driven by personal motives rat
 ## 4. Inter-Factional Relations & Allegiance Map
 
 The following chart illustrates the complex and often hostile relationships between the farm's major underground factions:
+
+┌─────────────────────────────┐
+│ Catnip Syndicate │
+│ Freelance Henchmen │
+└─────────────┬───────────────┘
+│
+┌───────────────────┼───────────────────┐
+│ │ │
+▼ ▼ ▼
+┌─────────────────┐ ┌─────────────────┐ ┌─────────────────┐
+│ Northern Horde │ │ Dairy Mafia │ │ Independents │
+│ Mercenary │ │ Squirrel │ │ (Ratso, Dr. │
+│ Invaders │ │ Rivals │ │ Notorious) │
+└─────────────────┘ └─────────────────┘ └─────────────────┘
+
+
+**Loyalty Key:**
+
+- **Catnip Syndicate** (Bonbo, Grumbles, Squeakers): Mercenary loyalty. Will follow Catnip as long as he is the most powerful patron. High risk of betrayal or defection.
+- **Northern Horde** (Ratticus, Beelzebub): Tribal loyalty. Their allegiance to Catnip is temporary and situational. They are a wild card.
+- **Dairy Mafia** (Squirrels): Organizational loyalty to Nutters. They are direct competitors to the Catnip Syndicate.
+- **Independents** (Ratso, Dr. Notorious): Personal loyalty. They are neutral and outside the power struggles.
+
+---
+
+## 5. Strategic Conclusions & Threat Assessment
+
+- **The Catnip Syndicate** is the most persistent internal threat. Their operations are a constant source of low-level crime (theft, vandalism, intimidation).
+- **The Northern Horde** is the most severe external threat. Any sighting of this faction mobilizing should be treated as a farm-wide emergency.
+- **The Dairy Mafia** is a neutral-to-hostile competitor. While not directly targeting the farm's structure, their activities cause significant economic loss and chaos.
+- **The Independents** are generally non-threatening but can be unpredictable catalysts for drama.
+
+**Recommended Counter-Intelligence Strategy:** The fluid loyalties within the rodent underworld are its greatest weakness. A policy of "divide and conquer," such as turning Bonbo against Grumbles, or convincing the Northern Horde that Catnip is hoarding resources, would be the most effective method of disrupting their operations. Alliances among rodents are as stable as a house of cards in a barnyard breeze.
+
+---
+
+*Jingle on.*
