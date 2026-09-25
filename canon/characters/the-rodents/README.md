@@ -23,7 +23,7 @@ They are the farm's mirror held low to the ground—where the crumbs fall, where
 | Billy-Bob the Goat | The Opportunist. Freelance hench-caprine. Contractual chaos agent. | `45-billy-bob-the-goat.md` |
 | Ratso | The Melodramatic Rat. Brooding antihero. Film noir protagonist. | `46-ratso.md` |
 | Doctor Notorious | The Lab Rat. Assistant to Chef Remy. Detached from the underworld. | `47-doctor-notorious.md` |
-| Nutters the Squirrel | The Nut-Obsessed Demon. Leader of the Dairy Mafia. | `48-nutters-the-squirrel.md` |
+| Nutters the Squirrel | The Nut-Obsessed Demon. Leader of the Dairy Mafia. | [`48-nutters-the-squirrel.md`](48-nutters-the-squirrel.md) |
 | Kuazihua (Fast Claw) | The Acrobat. Speed legendary. Spatial awareness abysmal. | `49-kuazihua.md` |
 | Tuntun (Hoardy McHoardface) | The Quartermaster. Bottomless cheek pouches. No curation. | `50-tuntun.md` |
 | Sha Lizi (Dumb Chestnut) | The Muscle. Strong. Pure heart. Mostly static. | `51-sha-lizi.md` |
