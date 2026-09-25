@@ -32,7 +32,7 @@ They are the farm's mirror held low to the ground—where the crumbs fall, where
 | Carlos Conga | The Tango Trio. A tiny, well-dressed hurricane of rhythm. | `54-carlos-conga.md` |
 | The Rodentia Underground Overview | A strategic intelligence brief on the farm's murine elements. | [`55-rodentia-underground-overview.md`](55-rodentia-underground-overview.md) |
 | Lucifer the Chipmunk | The Chipmunk of Chaos, Keeper of the Accidental Manifesto, and Reluctant Revolutionary. | [`56-lucifer-the-chipmunk.md`](56-lucifer-the-chipmunk.md) |
-| The Three Blind Mice | The Tango Trio, Princes of Percussion, and Maestros of Misplaced Enthusiasm. | `57-the-three-blind-mice.md` |
+| The Three Blind Mice | The Tango Trio, Princes of Percussion, and Maestros of Misplaced Enthusiasm. | [`57-the-three-blind-mice.md`](57-the-three-blind-mice.md) |
 
 ## The Factions
 
