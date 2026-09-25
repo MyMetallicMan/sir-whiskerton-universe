@@ -16,7 +16,7 @@ They bring wonder. They bring wisdom. They bring a gentle reminder that the univ
 
 | Character | Role | File |
 |-----------|------|------|
-| **Zephyr the Genie** | The Groovy Guardian. The 1960s genie in the lava lamp. | `31-zephyr-the-genie.md` |
+| **Zephyr the Genie** | The Groovy Guardian. The 1960s genie in the lava lamp. | [`31-zephyr-the-genie.md`](31-zephyr-the-genie.md) |
 | **Karina** | The Genie Matchmaker Sister. Zephyr's older sister. | `32-karina.md` |
 | **Longwei the Dragon** | The Purring Dragon. The gentle dragon with cat tendencies. | `33-longwei-the-dragon.md` |
 | **Long Yi** | The Dragon Auntie. Longwei's protective older sister. | `34-long-yi.md` |
