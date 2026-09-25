@@ -14,7 +14,7 @@ They are the farm's mirror held low to the ground—where the crumbs fall, where
 
 | Character | Role | File |
 |-----------|------|------|
-| Catnip the Stray Cat | The Mirror. The one who cannot believe he is loved. | `16-catnip-the-stray-cat.md` |
+| Catnip the Stray Cat | The Mirror. The one who cannot believe he is loved. | [`16-catnip-the-stray-cat.md`](16-catnip-the-stray-cat.md) |
 | Bonbo the Rat | The Sneaky Bastard. Senior henchman. Cunning opportunist. | `40-bonbo-the-rat.md` |
 | Grumbles the Mouse | The Mob Enforcer. Senior henchman. Loves mob-movie clichés. | `41-grumbles-the-mouse.md` |
 | Squeakers | The Cunning Squeaky. Crafty, talented, purely evil hench-animal. | `42-squeakers.md` |
