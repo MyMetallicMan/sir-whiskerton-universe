@@ -18,7 +18,7 @@ They bring wonder. They bring wisdom. They bring a gentle reminder that the univ
 |-----------|------|------|
 | **Zephyr the Genie** | The Groovy Guardian. The 1960s genie in the lava lamp. | [`31-zephyr-the-genie.md`](31-zephyr-the-genie.md) |
 | **Karina** | The Genie Matchmaker Sister. Zephyr's older sister. | `32-karina.md` |
-| [**Longwei the Dragon**](canon/characters/the-cats/the-honorary-feline/longwei.md) | The Purring Dragon. The gentle dragon with cat tendencies. | `longwei.md` |
+| **Longwei the Dragon** | The Purring Dragon. The gentle dragon with cat tendencies. | `33-longwei-the-Dragon.md` |
 | **Long Yi** | The Dragon Auntie. Longwei's protective older sister. | `34-long-yi.md` |
 | **The Divine Llama** | The Serene Visitor. The llama who brings peace. | `35-the-divine-llama.md` |
 | **Slow Bob the Turtle** | The Time-Traveling Turtle. The Picasso-shelled wanderer. | `36-slow-bob-the-turtle.md` |
