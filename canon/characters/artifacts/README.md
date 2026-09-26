@@ -140,6 +140,19 @@ Things that live *inside* the barn, and that have become more than what they wer
 
 ---
 
+### The Farmer's Quiet Artifacts
+
+The small things that hold the Farmer's world together. Private, patient, and quietly central to who he is.
+
+- **[The Farmer's Single Boot (and the Holy Shoe)](the_farmers_single_boot.md)** — The boot that is always missing. The shoe that became a cult. The relic that is also a running gag.
+- **[The Coffee Can](the_coffee_can.md)** — A rusted coffee can on Old Mable's platform, holding small treasures from someone no one remembers. Untouched. Unopened. Waiting.
+- **[The Unsent Letters](the_unsent_letters.md)** — The letters the Farmer writes but never sends. To Martha. To Dad. To the Company That Made The Good Shovel. To Li Hua.
+- **[The Chipped Ceramic Bowl](the_chipped_ceramic_bowl.md)** — The bowl on the porch that is always clean, never used, waiting for someone who may never come.
+- **[The Single Button](the_single_button.md)** — The pearl button Auntie Clover gave to Catnip. The only gift he has ever accepted. Worn in his collar. Never removed.
+- **[The Eucalyptus Grove](the_eucalyptus_grove.md)** — The grove planted by the farm, for someone they will never meet. Young. Small. Waiting to become a place.
+
+---
+
 ## Recurring Motifs
 
 Small things that recur across the artifacts, and that writers may want to pick up and use.
