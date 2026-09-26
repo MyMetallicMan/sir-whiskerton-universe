@@ -2,7 +2,7 @@
 
 ## IDENTIFICATION
 
-**Names:** The Farmer's Single Boot / The Holy Shoe / The Shoe of Destiny / 天选之靴 (Tiānxuǎn zhī Xuē)
+**Names:** The Farmer's Single Boot / The Holy Shoe / The Shoe of Destiny / 天选之靴 (Tiānxuǎn zhī Xuē) / 天命孤靴 (Tiānmìng Gū Xuē — "The Destiny Lone Boot")
 
 **Type:** Lost Object / Running Gag / Sacred Relic / Symbol of Perspective
 
@@ -16,7 +16,7 @@
 
 ## PHYSICAL DESCRIPTION
 
-The Farmer's footwear is, individually, unremarkable. Depending on the telling, it is either a plain brown loafer, slightly worn, with a hole in the toe — or a sturdy leather work boot, cracked at the seams, held together by laces that have been replaced so many times they are more patch than string.
+The Farmer's footwear is, individually, unremarkable. Depending on the telling, it is either a **plain brown loafer**, slightly worn, with a hole in the toe — or a **sturdy leather work boot**, cracked at the seams, held together by laces that have been replaced so many times they are more patch than string.
 
 The Farmer has never owned more than one pair at a time. He has rarely worn both at once.
 
@@ -30,7 +30,9 @@ When found, the shoe is always in a location that makes no sense. It has been di
 - Being carried up Old Mable by a squirrel who refused to explain
 - Resting on the platform of the tree house, as if someone had placed it there for safekeeping
 - Floating in the pond, gently, as if it were a very small boat
-- **Fallen from the sky onto a patch of dirt, prompting the Great Shoe Brouhaha** (Book 31)
+- **Fallen from the sky onto a patch of dirt, prompting the Great Shoe Brouhaha** *(See Book 31)*
+- **Hidden by Porkchop the Pig, who is a collector and hider of shoes** *(See Book 265)*
+- **Stolen by Bigcat, the enormous feline from a neighboring farm** *(See Book 265)*
 
 The shoe is never where it should be. The Farmer has never fully understood why.
 
@@ -44,9 +46,9 @@ The Holy Shoe has inspired at least two documented adventures on the farm.
 
 A shoe falls from the sky. Doris the Hen declares it a miracle. Bessie the Tie-Dye Cow declares it a sign from Heaven. The animals construct a shrine, compose hymns, and begin a daily ceremony in honor of "the Shoe of Heaven."
 
-Ferdinand the Duck leads the choir. Harriet and Lillian the Hens provide pun-laden commentary ("Shoe-pernatural!" "Shoe-spicious!" "Shoe-cking!"). Rufus the Dog howls along. Bessie's shrine is built on cleared dirt with straw and twigs, and the shoe is placed at its center like a relic.
+Ferdinand the Duck leads the choir. Harriet and Lillian the Hens provide pun-laden commentary. Rufus the Dog howls along. Bessie's shrine is built on cleared dirt with straw and twigs, and the shoe is placed at its center like a relic.
 
-Sir Whiskerton, watching from the barn roof, declares it all ridiculous. "It's a shoe. A *shoe.*"
+Sir Whiskerton, watching from the barn roof, declares it all ridiculous. *"It's a shoe. A shoe."*
 
 The Farmer eventually notices his shoe is missing and retrieves it. The shrine is disbanded. Bessie is forever changed. Ferdinand composes a ballad.
 
@@ -58,7 +60,7 @@ The shoe goes missing again. The Farmer demands its return. Porkchop the Pig is 
 
 Bigcat, the enormous feline from a neighboring farm, steals the shoe for himself. Sir Whiskerton, Rufus, and Porkchop infiltrate Bigcat's farm under cover of night and retrieve it.
 
-The shoe is returned — not to the Farmer, but to the bamboo grove, where it remains as a *symbol*. The Farmer, guided by Bartholomew, comes to understand that the shoe is more than a possession.
+The shoe is returned — **not to the Farmer, but to the bamboo grove**, where it remains as a *symbol*. The Farmer, guided by Bartholomew, comes to understand that the shoe is more than a possession.
 
 **The moral:** *"Perspective brings peace — especially when you add wisdom and a single shoe."*
 
@@ -66,22 +68,22 @@ The shoe is returned — not to the Farmer, but to the bamboo grove, where it re
 
 ## THE CULT OF THE HOLY SHOE
 
-The Cult of the Holy Shoe is not a formal organization. It has no doctrine, no leader, and no lasting membership. It emerges whenever the shoe is lost, lasts for a few chaotic days, and dissolves once the shoe is returned or the mystery is resolved.
+The **Cult of the Holy Shoe** is not a formal organization. It has no doctrine, no leader, and no lasting membership. It emerges whenever the shoe is lost, lasts for a few chaotic days, and dissolves once the shoe is returned or the mystery is resolved.
 
 Its documented participants have included:
 
-- **Bessie the Tie-Dye Cow** — Founder, High Priestess, and Cosmic Philosopher. (彩虹牛)
-- **Doris the Hen** — Chief Evangelist and Breaking-News Reporter. (八卦母鸡)
-- **Harriet the Hen** — Pun Correspondent. (八卦快嘴鸡)
-- **Lillian the Hen** — Fainting Drama Queen. (晕倒戏精鸡)
-- **Ferdinand the Duck** — Choir Director and Ballad Composer. (歌剧鸭)
-- **Rufus the Radioactive Dog** — Off-Key Hymn Soloist. (发光狗)
-- **Porkchop the Pig** — Collector and (in Book 265) accomplice. (猪大排)
-- **The Chipmunks and Hens** — Informal worshippers, witnesses, and relic-guardians.
+- **Bessie the Tie-Dye Cow** (彩虹牛) — Founder, High Priestess, and Cosmic Philosopher
+- **Doris the Hen** (八卦母鸡) — Chief Evangelist and Breaking-News Reporter
+- **Harriet the Hen** (八卦快嘴鸡) — Pun Correspondent
+- **Lillian the Hen** (晕倒戏精鸡) — Fainting Drama Queen
+- **Ferdinand the Duck** (歌剧鸭) — Choir Director and Ballad Composer
+- **Rufus the Radioactive Dog** (发光狗) — Off-Key Hymn Soloist
+- **Porkchop the Pig** (猪大排) — Collector and (in Book 265) accomplice
+- **The Chipmunks and Hens** — Informal worshippers, witnesses, and relic-guardians
 
 Sir Whiskerton has never joined the Cult. He has, however, repeatedly been the one to dissolve it — usually by recovering the shoe and offering a few dry remarks.
 
-Bartholomew the Piñata has never joined either. But his wisdom has, more than once, brought the Cult to a gentle close.
+**Bartholomew the Piñata** has never joined either. But his wisdom has, more than once, brought the Cult to a gentle close.
 
 ---
 
@@ -102,13 +104,13 @@ The shoe is the farm's most persistent joke. It is also, somehow, one of its mos
 
 ## THE MYSTERY
 
-Where does the shoe go? How does it move? Is it moving at all, or is the Farmer simply losing it in increasingly improbable places?
+**Where does the shoe go?** No one knows. The Farmer does not ask. The shoe does not say.
 
-No one knows. The Farmer does not ask. The shoe does not say.
-
-The Cult of the Holy Shoe believes the shoe travels *on its own*, seeking out places of significance. The more rational animals believe the Farmer simply forgets where he leaves it, and the shoe is *moved* — by squirrels, by hens, by the wind — to locations the Farmer would never think to look.
+**How does it move?** The Cult believes the shoe travels *on its own*, seeking out places of significance. The more rational animals believe the Farmer simply forgets where he leaves it, and the shoe is *moved* — by squirrels, by hens, by the wind — to locations the Farmer would never think to look.
 
 Both theories are probably true. Neither has been proven.
+
+**Why is there always exactly *one* missing?** No one knows. The Farmer has never owned more than one pair at a time. The missing one is always *the other*. This is understood to be the *rule* of the shoe, and the rule has never been broken.
 
 ---
 
@@ -128,14 +130,19 @@ The game will continue. The game always continues.
 
 ## THE ARTIFACT'S PLACE
 
-The Farmer's Single Boot is a *running gag*. It is also, in its own strange way, an *artifact* — a small, sacred thing that the farm has decided to hold with tenderness and humor in equal measure.
+The Farmer's Single Boot is a **running gag** and a **sacred relic** at the same time. It is the farm's reminder that some of the most important things are also the most ridiculous, and that the two are not in conflict.
 
-It appears in stories as a recurring motif — a lost shoe, a search, a shrine, a moral, a walk to the bamboo grove.
+It appears in stories as:
 
-In the Commonplace Books, the shoe might appear as:
+- **A recurring motif** — the boot is lost, the boot is found, the boot is lost again
+- **A philosophical object** — when the boot becomes the Holy Shoe, it becomes a question about possession vs. meaning
+- **A sign** — for Bessie and the Cult, the shoe is a message from the universe; for Sir Whiskerton, it is a shoe
+- **A gift** — when it is returned to the bamboo grove, it becomes something more than it was
 
-- A pencil sketch of the boot or loafer, drawn from life, with a note: *"Currently in the bamboo grove. Again."*
-- A pressed squash leaf, saved from the vine that once grew inside the shoe, with a note: *"It was a good planter."*
+In the Commonplace Books, the boot might appear as:
+
+- A pencil sketch of the boot, drawn from life, with a note: *"Currently in the bamboo grove. Again."*
+- A pressed squash leaf, saved from the vine that once grew inside the boot, with a note: *"It was a good planter."*
 - A page from the Cult of the Holy Shoe's unofficial doctrine, transcribed by Doris the Hen: *"The shoe is not a shoe. The shoe is a sign."*
 - A photograph of the shoe in the henhouse, in a nesting box, as if it were an egg
 - **A copy of the hymn:** *"Oh, Shoe of Heaven, guide our way, / We worship you both night and day. / With holes in your toe and scuffs on your sole, / You've touched our hearts and made us whole!"*
