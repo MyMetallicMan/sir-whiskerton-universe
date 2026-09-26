@@ -121,6 +121,20 @@ He is the farm's soul made audible.
 
 ---
 
+## The Full Moon Ritual
+
+Every full moon, without fail, Jazzpurr climbs onto the woodpile behind the barn, picks up his drum, and plays a quiet rhythm for a ghost who might or might not be watching.
+
+He has never told anyone who the ghost is.
+
+He has never needed to.
+
+The poem he wrote after the first time — *"The Moon Wore Jade"* — is his most famous work. He refuses to explain it.
+
+*(See [TBF01 — The Night the Moon Wore Jade](../../../stories/tales_by_firefly/TBF01_the_night_the_moon_wore_jade.md).)*
+
+---
+
 ## Signature Quote
 
 *"Everything is a solo, baby. The trick isn't playing the right notes. It's knowing that the silence you leave behind is the note the next cat needs to find."*
