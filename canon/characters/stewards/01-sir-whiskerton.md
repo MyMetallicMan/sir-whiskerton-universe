@@ -183,6 +183,16 @@ He represents the balance between head and heart, tradition and change, the jing
 
 ---
 
+## Links
+
+- **[Sammy the Traveling Salesman](../../humans/sammy_the_traveling_salesman.md)** — Mutual exasperation, reluctant respect. Sir Whiskerton cleans up Sammy's messes; Sammy, in turn, provides him with endless material.
+- **[Professor Quentin](../../humans/professor_quentin.md)** — Sir Whiskerton keeps a watchful eye on the Professor's experiments. He does not intervene. He *observes*.
+- **[Officer Irene Rigby](../../humans/officer_irene_rigby.md)** — Sir Whiskerton is, by any measure, the most confounding element of the farm. Officer Rigby suspects he is "something more." She has never been able to prove it.
+- **[Jazzpurr the Beatnik Cat](../animals/jazzpurr_the_beatnik_cat.md)** — Two cats, two philosophies. Sir Whiskerton detects; Jazzpurr poetizes. They respect each other. They do not entirely understand each other.
+- **[Longwei the Dragon](../animals/longwei_the_dragon.md)** — Sir Whiskerton sat on Longwei's nose and purred. This is why Longwei stayed.
+
+---
+
 ## Signature Quote
 
 > *"The most radical act on this farm is not rebellion, nor revolution — but Rufus, lying at the Farmer's feet, glowing softly in the lamplight, as a spoonful of stew is set beside him. That is the world as it should be. That is home."*
