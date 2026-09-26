@@ -29,43 +29,45 @@ Before we get into the technical details, here are the principles that guide eve
 ---
 
 ## Repo Structure
----
+
+```
 sir-whiskerton-universe/
-├── CONTRIBUTING.md ← you are here
-├── README.md ← overview of the universe
+├── CONTRIBUTING.md               ← you are here
+├── README.md                     ← overview of the universe
 ├── canon/
-│ ├── README.md
-│ ├── characters/
-│ │ ├── README.md
-│ │ ├── animals/
-│ │ │ ├── README.md
-│ │ │ ├── sir_whiskerton.md
-│ │ │ ├── longwei_the_dragon.md
-│ │ │ └── ...
-│ │ └── humans/
-│ │ ├── README.md
-│ │ ├── the_farmer.md
-│ │ ├── martha.md
-│ │ └── ...
-│ ├── artifacts/
-│ │ ├── README.md
-│ │ ├── old_mable.md
-│ │ └── ...
-│ ├── locations/
-│ │ └── ...
-│ └── guidelines/
-│ ├── interaction_guidelines_farmer_martha.md
-│ └── ...
+│   ├── README.md
+│   ├── characters/
+│   │   ├── README.md
+│   │   ├── animals/
+│   │   │   ├── README.md
+│   │   │   ├── sir_whiskerton.md
+│   │   │   ├── longwei_the_dragon.md
+│   │   │   └── ...
+│   │   └── humans/
+│   │       ├── README.md
+│   │       ├── the_farmer.md
+│   │       ├── martha.md
+│   │       └── ...
+│   ├── artifacts/
+│   │   ├── README.md
+│   │   ├── old_mable.md
+│   │   └── ...
+│   ├── locations/
+│   │   └── ...
+│   └── guidelines/
+│       ├── interaction_guidelines_farmer_martha.md
+│       └── ...
 ├── stories/
-│ ├── README.md
-│ └── tales_by_firefly/
-│ ├── README.md
-│ ├── TBF01_the_night_the_moon_wore_jade.md
-│ └── ...
+│   ├── README.md
+│   └── tales_by_firefly/
+│       ├── README.md
+│       ├── TBF01_the_night_the_moon_wore_jade.md
+│       └── ...
 └── ...
+```
 
 *(Adjust to match the actual structure of the repo. If a folder doesn't exist yet, create it when you need it.)*
----
+
 ---
 
 ## How to Contribute
