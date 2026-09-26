@@ -32,17 +32,21 @@ The scarecrows are not ranked. They are not a hierarchy. They are not, as Doris 
 
 But the animals have noticed certain patterns.
 
-### The East Field Scarecrow — "The Morning One"
+### The East Field Scarecrow — Jeremiah ("The Morning One")
 
 **Location:** The east field, where the corn grows tall and the sun arrives first.
 
-**Appearance:** A tall, simple scarecrow — a wooden cross, a burlap sack, a red-and-black plaid shirt, and a wide-brimmed hat whose brim has softened and drooped over the years into a shape that resembles a tired smile. His trousers are patched with denim from a pair of jeans the Farmer wore in his twenties.
+**Appearance:** A tall, simple scarecrow — a wooden cross, a burlap sack, a red-and-black plaid shirt faded to pink-and-charcoal, and a wide-brimmed hat whose brim has softened over the years into a shape that resembles a tired, kindly bow. His trousers are patched with denim from a pair of jeans the Farmer wore in his twenties.
 
 **Personality:** The East Field Scarecrow is the first to see the sun each morning. The animals say this has made him *patient* in a way the others are not. He is the watcher of beginnings. He does not move. He does not need to. He sees the day arrive, and he holds it, and he lets it be.
 
+**The Farmer calls him:** *"Jerry."* No one else does. This is important.
+
 **The animals call him:** *"The Morning One."* Not because he moves. Because he was there when the day began.
 
-**Reintro Hook:** Something happens in the east field at dawn — a birth, a discovery, a departure. The Morning One is the first to witness it, and the last to speak of it.
+**Reintro Hook:** Something happens in the east field at dawn — a birth, a discovery, a departure. Jeremiah is the first to witness it, and the last to speak of it.
+
+*(See [Jeremiah the Scarecrow](jeremiah_the_scarecrow.md) for the full file.)*
 
 ### The West Field Scarecrow — "The Evening One"
 
