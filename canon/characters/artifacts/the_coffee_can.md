@@ -1,0 +1,103 @@
+# Artifact Bio: The Coffee Can
+
+## IDENTIFICATION
+
+**Name:** The Coffee Can
+
+**Type:** Container / Time Capsule / Mystery
+
+**Location:** On the wooden platform high in Old Mable's branches
+
+**Status:** Unchanged. Untouched. Waiting.
+
+**First Documented:** No one remembers a time before the can was there.
+
+---
+
+## PHYSICAL DESCRIPTION
+
+It is a rusted coffee can — the kind that once held ground coffee, before coffee came in plastic bags and foil pouches. The label has long since worn away, leaving only a faint ghost of red and gold. The lid is missing. The rim is bent. The can itself is dented in three places and has been for as long as anyone can remember.
+
+It sits in the corner of the platform, tucked into the crook of three massive limbs. It has been there for as long as anyone has climbed to the platform. No one remembers who put it there. No one remembers when.
+
+Inside, there are:
+
+- **Three marbles.** One cat's eye, one clear, one chipped.
+- **A note in faded pencil.** It reads: *"I was here. So were you."*
+- **A single blue jay feather.**
+- **A bottle cap from a soda no one remembers.**
+
+The contents have not changed. No one adds to the can. No one takes from it. It simply *is*.
+
+---
+
+## THE HISTORY
+
+The coffee can is one of the farm's oldest artifacts. It predates the current generation of animals. It predates the Farmer. It may predate the farm itself.
+
+No one knows who put it there. No one knows what the marbles meant, or the note, or the feather, or the bottle cap. No one knows if the items belonged to one person or many, if they were placed there in a single day or over years.
+
+The can simply *endures*. It is a small, quiet mystery that the farm has decided to leave unsolved.
+
+The only person who has ever been observed *near* the can, without touching it, is Sir Whiskerton. He has climbed to the platform many times. He has sat beside the can. He has never opened it. He has never needed to.
+
+---
+
+## THE FEELING
+
+Visitors to the platform report a strange sense of *being included*. As if they have been added to a list of people who have stood in this exact spot, in this exact light, and looked out over the farm.
+
+The can is small. It is unremarkable. But there is a weight to it that is hard to explain. It is not the weight of the metal. It is the weight of *time*.
+
+An hour on the platform feels like a moment. A moment feels like an hour. The can does not move.
+
+---
+
+## THE MYSTERY
+
+What are the marbles? What does the note mean? Who added the feather? Who left the bottle cap?
+
+The farm has decided not to know. Some mysteries are meant to stay mysteries. The coffee can is one of them.
+
+---
+
+## THE INVITATION
+
+The platform is open to anyone who can climb to it. The can is open to no one.
+
+You are welcome to sit on the platform. You are welcome to look out over the farm. You are welcome to feel the weight of time.
+
+You are not welcome to open the can. No one has ever opened the can. No one ever should.
+
+The can is a *held thing*. It is held by the farm. It is held by Old Mable. It is held by everyone who has ever climbed up and looked, and left without taking.
+
+---
+
+## THE ARTIFACT'S PLACE
+
+The coffee can is a *witness*. It is the farm's smallest, quietest artifact — a can of small treasures, left by someone who is no longer here, for someone who has not yet arrived.
+
+It appears in stories as a place of contemplation, of quiet mystery, of small importance that becomes large importance with time. Characters visit the platform when they need to remember that *they are part of something longer than themselves*.
+
+In the Commonplace Books, the coffee can might appear as:
+
+- A pencil sketch of the can, with the contents drawn in the margins — marbles, feather, bottle cap
+- A rubbing of the note, the words just barely legible: *"I was here. So were you."*
+- A single blue jay feather, pressed between pages, with a note: *"This came from somewhere."*
+- A photograph of the platform at sunset, taken by a visitor who does not remember taking it
+
+---
+
+## THE FINAL WORD
+
+The can is small. It is rusty. It is old.
+
+It holds what it holds. It waits for what it waits for.
+
+Climb up. Look out. Sit for a while.
+
+The can will not move. But you will.
+
+---
+
+*—Artifact Bio: The Coffee Can, documented for the Sir Whiskerton Commons by [observer], on an afternoon in autumn when the leaves of Old Mable had just begun to turn.*
