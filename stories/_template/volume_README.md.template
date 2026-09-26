@@ -1,0 +1,67 @@
+# Volume {N}{A/B/C}: {VOLUME_TITLE}
+
+**Core Theme:** *{VOLUME_THEME}*
+
+**Parent Collection:** [Collection {N}: {COLLECTION_TITLE}](../README.md)
+
+**Status:** {STATUS}
+
+---
+
+## About This Volume
+
+{VOLUME_INTRO}
+
+*(A paragraph or two explaining what this volume is about — what it explores, what it does within the collection's arc, and why it earns its place.)*
+
+---
+
+## The Stories
+
+### 1. [{STORY_1_TITLE}]({STORY_1_FILE})
+
+**Theme:** *{STORY_1_THEME_NAME}.* {STORY_1_THEME_DESCRIPTION}
+
+**Synopsis:** {STORY_1_SYNOPSIS}
+
+*(A short paragraph — two or three sentences — describing what happens in the story, without spoiling the resolution.)*
+
+---
+
+### 2. [{STORY_2_TITLE}]({STORY_2_FILE})
+
+**Theme:** *{STORY_2_THEME_NAME}.* {STORY_2_THEME_DESCRIPTION}
+
+**Synopsis:** {STORY_2_SYNOPSIS}
+
+---
+
+### 3. [{STORY_3_TITLE}]({STORY_3_FILE})
+
+**Theme:** *{STORY_3_THEME_NAME}.* {STORY_3_THEME_DESCRIPTION}
+
+**Synopsis:** {STORY_3_SYNOPSIS}
+
+---
+
+*(Continue for all stories in the volume.)*
+
+---
+
+## How to Read This Volume
+
+{HOW_TO_READ}
+
+*(A short paragraph or two describing the best way to approach this volume — whether to read it in order, whether it can be read standalone, and what the reader can expect to feel as they move through it.)*
+
+---
+
+## Related Documents
+
+- [Collection {N}: Thematic Analysis](../thematic_analysis.md) — The deep dive into the collection's themes
+- [Collection {N}: README](../README.md) — The collection overview
+- [The Charter of the Farmstead](../../../writing-guidelines/the_charter_of_the_farmstead.md) — The philosophy behind the whole universe
+
+---
+
+**Jingle on.**
