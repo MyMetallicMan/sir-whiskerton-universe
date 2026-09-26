@@ -1,0 +1,99 @@
+# Collection {N}: {COLLECTION_TITLE}
+
+**Core Theme:** *{COLLECTION_THEME}*
+
+**Volumes:** {NUMBER_OF_VOLUMES}
+
+**Status:** {STATUS}
+
+---
+
+## Welcome to Collection {N}
+
+{COLLECTION_INTRO}
+
+*(A paragraph or two explaining what this collection is about — what idea it explores, what arc it follows, and what makes it distinct from the other collections.)*
+
+---
+
+## The Collection's Arc
+
+Collection {N} unfolds across {NUMBER_OF_VOLUMES} volumes, each one deepening the collection's central theme:
+
+### Volume {N}A: {VOLUME_A_TITLE}
+
+**Core Theme:** *{VOLUME_A_THEME}*
+
+{VOLUME_A_DESCRIPTION}
+
+**Stories in this volume:**
+
+1. {STORY_A1_TITLE}
+2. {STORY_A2_TITLE}
+3. {STORY_A3_TITLE}
+*(etc.)*
+
+### Volume {N}B: {VOLUME_B_TITLE}
+
+**Core Theme:** *{VOLUME_B_THEME}*
+
+{VOLUME_B_DESCRIPTION}
+
+**Stories in this volume:**
+
+1. {STORY_B1_TITLE}
+2. {STORY_B2_TITLE}
+3. {STORY_B3_TITLE}
+*(etc.)*
+
+### Volume {N}C: {VOLUME_C_TITLE}
+
+**Core Theme:** *{VOLUME_C_THEME}*
+
+{VOLUME_C_DESCRIPTION}
+
+**Stories in this volume:**
+
+1. {STORY_C1_TITLE}
+2. {STORY_C2_TITLE}
+3. {STORY_C3_TITLE}
+*(etc.)*
+
+---
+
+## The Complete Thesis
+
+Together, the volumes form a complete statement about {COLLECTION_TOPIC}:
+
+- **{N}A establishes the {METAPHOR_A}:** *"{VOLUME_A_SUMMARY_QUOTE}"*
+- **{N}B tempers the {METAPHOR_B}:** *"{VOLUME_B_SUMMARY_QUOTE}"*
+- **{N}C nurtures the {METAPHOR_C}:** *"{VOLUME_C_SUMMARY_QUOTE}"*
+
+{COLLECTION_CONCLUSION}
+
+*(What does the collection say when read end to end? What changes in the farm, or in the reader, by the time they finish?)*
+
+---
+
+## What's Inside This Folder
+
+- **[thematic_analysis.md](thematic_analysis.md)** — A deep dive into the collection's themes, story by story
+- **[volume_{N}a_{VOLUME_A_SLUG}/](volume_{N}a_{VOLUME_A_SLUG}/README.md)** — Volume {N}A, with its own README and story files
+- **[volume_{N}b_{VOLUME_B_SLUG}/](volume_{N}b_{VOLUME_B_SLUG}/README.md)** — Volume {N}B
+- **[volume_{N}c_{VOLUME_C_SLUG}/](volume_{N}c_{VOLUME_C_SLUG}/README.md)** — Volume {N}C
+
+---
+
+## A Note on This Collection
+
+{COLLECTION_NOTES}
+
+*(Any notes about when this collection sits in the broader universe, what readers should know before they start, and how it connects to other collections.)*
+
+---
+
+## Benediction
+
+The story never ends. It simply rests in your hands, ready for the next note.
+
+**Jingle on.**
