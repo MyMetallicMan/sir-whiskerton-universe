@@ -1,6 +1,6 @@
 # The Illustrated Storybooks
 
-*Twenty-to-thirty hand-built EPUBs. Each one, a labor of love.*
+*Hand-built EPUB editions of the Sir Whiskerton stories. Each one, a labor of love.*
 
 ---
 
@@ -78,6 +78,21 @@ A teacher can pick up any one of these books and know, at a glance, how it fits 
 
 ---
 
+## About the Collection
+
+The full collection runs to **more than thirty volumes**. Not all of them live in this repository — some are large enough that including them here would bloat the repo and slow it down for everyone.
+
+**What's in this folder:** a curated selection of EPUBs that best represent the collection. Each one is a finished, self-contained book.
+
+**Where to find the complete collection:** [LINK TO EXTERNAL STORAGE — Google Drive, Dropbox, or similar]
+
+The complete collection includes all published volumes, along with:
+
+- The **Sir Whiskerton Index — BASIC** spreadsheet (`.ods`) — a master list of characters, artifacts, locations, and stories
+- The **Sir Whiskerton Index — China 2022 English Curriculum Standards** (`.ods` and `.pdf`) — a detailed mapping of every story to the Chinese curriculum standards
+
+---
+
 ## Why These Are in This Repository
 
 These EPUBs are the **finished form** of the Sir Whiskerton stories.
@@ -92,15 +107,15 @@ They are also the version that most clearly demonstrates the *craft* behind this
 
 ## For Anyone Who Finds This Folder
 
-If you are a reader: welcome. These are the stories at their most complete.
+If you are a **reader**: welcome. These are the stories at their most complete.
 
-If you are a teacher: these books are designed to be used. The curriculum alignment is real. The teaching guides are practical. The stories are written to be read aloud and discussed.
+If you are a **teacher**: these books are designed to be used. The curriculum alignment is real. The teaching guides are practical. The stories are written to be read aloud and discussed.
 
-If you are a parent: read them to your child. Or let your child read them to you. Or read them together. The farm was built for that.
+If you are a **parent**: read them to your child. Or let your child read them to you. Or read them together. The farm was built for that.
 
-If you are a future steward of this universe: this is what the craft looks like. Every page here was made on purpose. Every illustration was placed with care. Every metadata field was entered by a human hand.
+If you are a **future steward** of this universe: this is what the craft looks like. Every page here was made on purpose. Every illustration was placed with care. Every metadata field was entered by a human hand.
 
-If you are considering adapting these stories in any other form: this folder is the standard. It is not a template. It is a *declaration* — that the Sir Whiskerton Universe is worth the work.
+If you are **considering adapting these stories** in any other form: this folder is the standard. It is not a template. It is a *declaration* — that the Sir Whiskerton Universe is worth the work.
 
 ---
 
@@ -121,7 +136,17 @@ The standards are the skeleton. The story is the body. And this folder is where 
 - **Format:** EPUB 3
 - **Reading devices:** Compatible with most modern e-readers (Apple Books, Kobo, Calibre, Google Play Books, and most EPUB 3 readers)
 - **Some readers may not render the illustrations perfectly.** This is a known limitation of the EPUB format. For the best reading experience, use Apple Books or Calibre.
-- **PDF versions may be provided separately** for readers who prefer them.
+- **PDF versions** are available on request for readers who prefer them.
+
+---
+
+## A Note on Repository Size
+
+Some readers may notice that the EPUBs in this folder are not *all* of the EPUBs in the collection. This is intentional.
+
+EPUB files are image-heavy. A single volume can run to 50–100 MB. Including all of them in the repository would make the repo slow to clone and cumbersome to work with. Instead, the folder holds a **representative selection**, and the full collection lives externally.
+
+This is not a compromise. It is a *curation*. The folder is meant to be browsed. The complete collection is meant to be read.
 
 ---
 
