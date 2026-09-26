@@ -14,4 +14,6 @@ Ted's journey to the farm began in the bustling city, where he spent his days au
 
 ## The Lesson
 
-Over time, Ted's time on the farm taught him that life isn't always about neat columns and balanced ledgers. Through the gentle guidance of Sir Whiskerton and the farm's quirky inhabitants, Ted learned to appreciate the beauty of
+Over time, Ted's time on the farm taught him that life isn't always about neat columns and balanced ledgers. Through the gentle guidance of Sir Whiskerton and the farm's quirky inhabitants, Ted learned to appreciate the beauty of imperfection and the joy of spontaneity. Though he still loves his spreadsheets and color-coded folders, Ted now carries a little bit of the farm's chaos in his heart—and maybe, just maybe, a newfound appreciation for the occasional nap in the sun.
+
+So here's to Taxman Ted: the man who brought order to his own life by embracing a little disorder, and who reminds us all that sometimes, the best way to find balance is to let go of control.
