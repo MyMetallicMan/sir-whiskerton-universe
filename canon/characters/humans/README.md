@@ -47,6 +47,14 @@ This folder collects every human character who appears in canon. Some are perman
 
 ---
 
+## The Farmer Notes
+
+- **[Handy Hank](../humans/handy_hank.md)** — The Farmer's "Keeper of Attempts." Hired on the spot after watching Hank turn a bench into modern art. Their communication is largely nonverbal.
+- **[Beekeeper Beatrice](../humans/beekeeper_beatrice.md)** — The farm's comfort-bringer. She leaves him honey. He leaves her quiet gratitude.
+- **[Birdwatcher Barry](../humans/birdwatcher_barry.md)** — A kindred spirit. Barry's enthusiasm for birds mirrors the Farmer's enthusiasm for the unusual.
+- **[Fisherman Finn](../humans/fisherman_finn.md)** — The Farmer listens to Finn's tall tales without ever once questioning them. Finn appreciates this more than he says.
+- **[Auntie Clover](../humans/auntie_clover.md)** — She leaves him pickled cake. He eats it. Slowly. Bravely. Then asks for the recipe.
+
 ## How to Use This Folder
 
 **For writers.** Each character file contains their role, personality, appearance, relationships, and story potential. Cross-reference with the animal bios when a human and an animal share a scene—the interaction dynamics are usually noted in both files.
