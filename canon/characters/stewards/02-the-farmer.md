@@ -182,6 +182,8 @@ To the animals, the Farmer represents the unpredictable nature of life itself. H
 - **[Fisherman Finn](../humans/fisherman_finn.md)** — The Farmer listens to Finn's tall tales without ever once questioning them. Finn appreciates this more than he says.
 - **[Auntie Clover](../humans/auntie_clover.md)** — She leaves him pickled cake. He eats it. Slowly. Bravely. Then asks for the recipe.
 
+---
+
 ## Conclusion
 
 The Farmer may never fully understand the vibrant world of the animals he tends to, but his presence enriches the farm in ways he'll never realize. His quirks and kindness create a backdrop of whimsy against which Sir Whiskerton and his friends thrive. And while the animals may roll their eyes at his antics, they wouldn't trade him for anything.
