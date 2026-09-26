@@ -168,6 +168,13 @@ And he does.
 
 ---
 
+## Links
+
+- **[The Farmer](../../humans/the_farmer.md)** — The Farmer has formed a special bond with Longwei, mistaking him (as he does) for an oversized cat. He has been observed scratching Longwei behind the horns and murmuring, "Good kitty. Big kitty. Best kitty."
+- **[Beekeeper Beatrice](../../humans/beekeeper_beatrice.md)** — Beatrice leaves a jar of honey near the barn door for Longwei. He does not know who leaves it. He drinks it anyway.
+
+---
+
 ## Signature Quote
 
 *"The heart of a cat is not measured in whiskers. It is measured in naps."*
