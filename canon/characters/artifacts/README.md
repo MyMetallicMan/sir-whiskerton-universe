@@ -129,4 +129,20 @@ When writing them, remember:
 
 ---
 
+## Recurring Motifs
+
+Small things that recur across the artifacts, and that writers may want to pick up and use.
+
+- **The Blue Glass** — A small fragment of blue glass, found by Sir Whiskerton in the drain of the Springhouse. He has never shown it to anyone. He has never explained what it is. It may be a piece of an old bottle. It may be something else. *(See [The Springhouse](the_springhouse.md).)*
+- **The Jar Labeled "FOR LATER"** — A single jar at the back of the deepest shelf in the Springhouse, labeled only *"FOR LATER."* No one has ever opened it. No one has asked what "later" means. *(See [The Springhouse](the_springhouse.md).)*
+- **The Cold Stone** — A single dark stone at the bottom of the Spring. It has been there for as long as anyone can remember. No one has ever moved it. *(See [The Spring](the_spring.md).)*
+- **The Single Brass Button** — A single brass button on the West Field Scarecrow's coat. It has never fallen off. *(See [The Scarecrow Family](the_scarecrow_family.md).)*
+- **The Farmer's Seasonal Visits** — The Farmer visits all four field scarecrows at the turn of each season, bringing each one a small gift. He has never explained why. *(See [The Scarecrow Family](the_scarecrow_family.md).)*
+- **The Apple Tree** — The old apple tree above the Springhouse trapdoor produces apples that are always sweeter than the apples from any other tree on the farm. No one knows why. *(See [The Springhouse](the_springhouse.md).)*
+- **The Hymn of the Holy Shoe** — *"Oh, Shoe of Heaven, guide our way, / We worship you both night and day..."* Sung by the Cult of the Holy Shoe during its periodic revivals. *(See [The Farmer's Single Boot](the_farmers_single_boot.md).)*
+- **The Blue Jay Feather in the Coffee Can** — One of the four items inside the rusted coffee can on Old Mable's platform. No one knows who put it there. *(See [Old Mable](old_mable.md) and [The Coffee Can](the_coffee_can.md).)*
+- **The Eucalyptus Grove's Survival** — The eucalyptus grove planted by the farm after the arrival of the Li Hua letter. The trees are young. They may not survive the winter. They were planted anyway. *(See [The Eucalyptus Grove](the_eucalyptus_grove.md).)*
+
+---
+
 *Jingle on.*
