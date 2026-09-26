@@ -23,7 +23,7 @@ Characters are divided into two broad groups:
 
 **If you're writing a story** and need to know how a character would react to a situation, find their bio and check their "Personality," "Key Relationships," and "The Deeper Truth" sections. Those are usually the most useful.
 
-**If you're adding a new character,** see [CONTRIBUTING.md](../../../CONTRIBUTING.md) for the naming convention, the bio format, and the tone guidelines.
+**If you're adding a new character,** see [CONTRIBUTING.md](CONTRIBUTING.md) for the naming convention, the bio format, and the tone guidelines.
 
 ---
 
