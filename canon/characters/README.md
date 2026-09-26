@@ -1,82 +1,52 @@
-# The Character Bible
+# Characters of the Sir Whiskerton Universe
 
-*The living inhabitants of the Sir Whiskerton Universe.*
+*Every creature, every human, every soul who calls the farm home—or visits it, or haunts it, or dreams about it from very far away.*
 
 ---
 
-## Purpose
+## About
 
-This folder is the complete, canonical record of every character who lives in or visits the farm. It is the source of truth for who they are, how they speak, what they want, and how they relate to one another.
+The Sir Whiskerton universe is populated by a large and growing cast. This folder is the master index. Every character who appears in canon has a bio here. Some are main characters. Some are peripheral. Some appear once, in a single story, and are never seen again—but they matter.
 
-Every story in the universe draws from this bible. Every writer who wishes to contribute to the canon must read it first. Every adaptation must respect it. The characters are the lifeblood of the farm, and this folder protects them.
+Characters are divided into two broad groups:
+
+- **[Animals](animals/README.md)** — The cats, dogs, pigs, hens, geese, ducks, dragons, and assorted creatures who live on, under, above, and around the farm. This is the heart of the universe.
+- **[Humans](humans/README.md)** — The two-legged characters who orbit the farm: the residents, the recurring visitors, the one-off guests, and the correspondents who exist beyond the farm but hold a place inside it.
+
+*(If future characters do not fit either category—spirits, artifacts, forces of nature—a new folder can be created. The farm has room.)*
 
 ---
 
 ## How to Navigate
 
-The characters are grouped by role, not alphabetically. This reflects the social ecology of the farm — who belongs to which circle, who is a peer of whom, who lives where.
+**If you're looking for a specific character,** use the sub-indexes above. Each one groups characters by category and links to their individual bios.
 
-| Folder | What It Contains |
-|--------|------------------|
-| **[/stewards/](./stewards/)** | The founding characters. Sir Whiskerton, The Farmer, Martha. |
-| **[/apprentices/](./apprentices/)** | The next generation. Ditto, Echo. |
-| **[/the-farm/](./the-farm/)** | Core farm residents. Rufus, Porkchop, Bessie, and others. |
-| **[/the-birds/](./the-birds/)** | The avian society. Doris, Harriet, Lillian, Gertrude, Ferdinand, Mr. Ducky, and the crows. |
-| **[/the-cats/](./the-cats/)** | The feline society. Catnip, Genghis, Bigcat, Count Catula, Jazzpurr, and others. |
-| **[/the-magical/](./the-magical/)** | Magical and otherworldly beings. Zephyr, Longwei, the Divine Llama, Slow Bob. |
-| **[/the-henchmen/](./the-henchmen/)** | The antagonists and their crews. Bonbo, Grumbles, the Squirrel Gang. |
-| **[/the-visitors/](./the-visitors/)** | Recurring visitors. Gnomeo, Chef Remy, Professor Quackenstein, Mr. Waddle. |
-| **[/the-creatures/](./the-creatures/)** | Non-farm animals. The Yodeling Fish, Leonardo, Tony, Kanga Ruby. |
-| **[/the-archive/](./the-archive/)** | Retired or one-off characters. |
+**If you're writing a story** and need to know how a character would react to a situation, find their bio and check their "Personality," "Key Relationships," and "The Deeper Truth" sections. Those are usually the most useful.
+
+**If you're adding a new character,** see [CONTRIBUTING.md](../../../CONTRIBUTING.md) for the naming convention, the bio format, and the tone guidelines.
 
 ---
 
-## Reference Files
+## The Character Philosophy
 
-| File | Purpose |
-|------|---------|
-| **[_name-translations.md](./_name-translations.md)** | Every character's English and Chinese name, in one place. |
-| **[_pairings.md](./_pairings.md)** | Established pairs and groups. Quick reference for relationships. |
-| **[_pairings.md](./_pairings.md)** | Established pairs and groups. Quick reference for relationships. |
-| **[the-birds/_overview.md](./the-birds/_overview.md)** | The narrative framework of the avian society. |
+A few things unite every character in this universe, animal or human:
 
----
-
-## The Structure of Each Character File
-
-Each character file follows the same structure:
-
-1. **Title and Chinese name** — the character's official name in both languages.
-2. **One-line essence** — the quickest possible description of who they are.
-3. **Appearance** — what they look like.
-4. **Core nature** — their personality, their role, their function on the farm.
-5. **Evolution** — how they have changed over the course of the series.
-6. **Key relationships** — the pairings, the friendships, the rivalries.
-7. **Signature moments** — the scenes that define them.
-8. **Future potential** — where their story might go next.
-9. **Core quote** — one line that captures who they are.
-
-Not every file will have every section. But this is the shape we strive for.
+1. **Everyone is kind at heart.** Even the ones who cause problems are never cruel. Conflict is gentle. Villains are, at worst, misguided.
+2. **Everyone is a little bit odd.** This is not a flaw. It is the farm's defining feature.
+3. **Everyone is loved.** Even the peripheral characters matter. Even the one-off guests leave a mark. The farm is a place where you are seen, and being seen is enough.
+4. **No one knows everything.** The animals do not know about the humans' inner lives. The humans do not know about the animals' secret world. The dragons do not know about the correspondence. This is how the farm works—everyone holding their own piece of the truth.
+5. **Nothing truly dies.** Characters change form. They vanish. They transform. They do not leave forever. The universe is a soft place.
 
 ---
 
-## The First Law
+## Related Indexes
 
-> **Belonging Without Earning.**
-> You do not earn your place. You arrive—scruffy, scarred, or shining—and find the door was already open.
-
-This is the first law of the farm. It applies to every character in this bible. Antagonist, ally, minor player, or star — all are welcome here. All belong.
-
----
-
-## A Note on Canon vs. Fan Works
-
-The characters in this folder are **canon**. They are the official version. Fan works may add to them, play with them, and reimagine them — but they do not overwrite what lives here.
-
-For the full terms, see [STEWARDS-CHARTER](../../STEWARDS-CHARTER.md) and [LICENSE-FANWORKS](../../LICENSE-FANWORKS).
+- [Animals](animals/README.md)
+- [Humans](humans/README.md)
+- [Artifacts & Locations](../artifacts/README.md)
+- [Guidelines](../guidelines/README.md)
+- [Tales by Firefly — Story Index](../../../stories/tales_by_firefly/README.md)
 
 ---
 
-## Jingle on.
-
-*(Or, in farm-ese: Listen… love… belong… stay.)*
+*Jingle on.*
