@@ -87,6 +87,34 @@ The farm is not just a place. It is a *geography* — with landmarks, hidden pat
 - **[The Golden Acorn](the_golden_acorn.md)** — A legendary treasure hidden in the past, in the forest that once stood where the farm now lies. A test of wisdom.
 - **[The Springhouse (The Forgotten Root Cellar)](the_springhouse.md)** — An underground chamber beneath the barnyard, built around a cold, clear spring. A held space. A place of quiet.
 
+  ## Locations & Mythic Geography
+
+The farm is not just a place. It is a *geography* — with landmarks, hidden paths, and places that exist slightly outside of time. These are the artifacts that are also *where you go*.
+
+### Threshold Places
+
+Places that function as doors, stages, and stages of passage.
+
+- **[The Bamboo Forest](the_bamboo_forest.md)** — A dense, reality-adjacent grove at the edge of the farm. A stage. A sanctuary. A door.
+- **[The Long Road](the_long_road.md)** — An abandoned narrow-gauge railway, overgrown with moss and rust. A threshold. A way to elsewhere.
+- **[The Sunken Glade](the_sunken_glade.md)** — A shallow hollow in the birch wood, brighter than the sky above it. Home to the isolationist rabbits and the Rabbits' Parliament.
+- **[The Golden Acorn](the_golden_acorn.md)** — A legendary treasure hidden in the past, in the forest that once stood where the farm now lies. A test of wisdom.
+
+### Held Places
+
+Places that hold memory, quiet, and time.
+
+- **[Old Mable](old_mable.md)** — The ancient tree at the southeastern edge of the farm. A living landmark. The farm's memory-keeper.
+- **[The Springhouse (The Forgotten Root Cellar)](the_springhouse.md)** — An underground chamber beneath the barnyard, built around a cold, clear spring. A held space. A place of quiet.
+- **[The Spring](the_spring.md)** — A small, cold, quiet pool in the northeast corner of the pasture. Older than the farm. Always flowing. Always cold.
+
+### Standing Presences
+
+Things that stand, watch, and hold the fields.
+
+- **[The Scarecrow Family](the_scarecrow_family.md)** — Four standing scarecrows, one for each field, plus the abandoned ones. Watchers, hold, and silent witnesses.
+- **[Old Stephen](old_stephen.md)** — The scarecrow who fell, who lives in the briars, who answers questions without speaking. A place of counsel.
+
 ---
 
 ## A Note on Tone
