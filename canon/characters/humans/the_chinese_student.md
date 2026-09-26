@@ -85,4 +85,30 @@ The Farmer is honored. He has never told anyone.
 
 The Chinese Student is not, in fact, *practicing English*. The Chinese Student is *reaching out*. The exercise is the *form*. The *content* is the *heart*. The Chinese Student is trying — with every letter, every word, every careful phrase — to say: *I am here. I am learning. I am reaching out. Please reach back.*
 
-The Farmer reaches back. The Farmer does not know the Chinese Student's name. The Farmer does not know the Chinese Student's face. The Farmer knows only that someone, somewhere, is *writing* to
+The Farmer reaches back. The Farmer does not know the Chinese Student's name. The Farmer does not know the Chinese Student's face. The Farmer knows only that someone, somewhere, is *writing* to him — and that this is *enough*.
+
+The Chinese Student keeps writing.
+
+The Farmer keeps reading.
+
+And the world grows *smaller*, and *warmer*, and *more connected* — one letter at a time.
+
+---
+
+## Why the Chinese Student Belongs
+
+The Chinese Student is the farm's reminder that the world is *bigger* than the farm — and *smaller* than we think. The Chinese Student is the proof that a letter can cross an ocean. The Chinese Student is the proof that a stranger can become a friend. The Chinese Student is the proof that *practice* is not just practice — it is *connection*.
+
+The Chinese Student is also the farm's reminder that the most important things in life are often the ones we *do not see* — the letters that are written, the words that are chosen, the hope that is *offered*.
+
+And the farm, in its infinite wisdom, does not ask the Chinese Student to visit.
+
+It simply reads the letter.
+
+---
+
+## Signature Quote
+
+"Practice makes perfect. And perfect is not the point. The point is to *try*."
+
+**Status:** Writing. Practicing. Hoping. Reaching out. Across an ocean. Across a language. Across a world.
