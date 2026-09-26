@@ -34,4 +34,22 @@ Joey's disappearance during their time on the farm tested Ruby's courage and det
 
 Together, Ruby and Joey brought a touch of the wild and whimsical to Sir Whiskerton's farm.
 
-Ruby's boxing lessons inspired the animals to embrace their inner strength. Joey's playful antics brought laughter and joy to even the grumpiest of barnyard residents. Their story is one of resilience, love, and the unbreakable bond
+Ruby's boxing lessons inspired the animals to embrace their inner strength. Joey's playful antics brought laughter and joy to even the grumpiest of barnyard residents. Their story is one of resilience, love, and the unbreakable bond between a mother and her child.
+
+Whether they're sparring in the barnyard, sharing stories of their homeland, or simply enjoying a quiet moment under the stars, Ruby and Joey remind everyone that **family is the greatest treasure of all.**
+
+---
+
+## THEIR DEPARTURE
+
+Though their time on the farm was brief, Ruby and Joey left an indelible mark on the hearts of the animals.
+
+Their adventures continue as they journey back to Australia to clear Ruby's name and reunite the wombats with their golden acorn. Wherever they go, Ruby and Joey carry with them the lessons of friendship, courage, and the enduring power of love.
+
+---
+
+## SIGNATURE QUOTE
+
+*"Family is the greatest treasure of all."*
+
+**Status:** Currently on their way back to Australia. Expected to return to the farm — one day. Probably.
