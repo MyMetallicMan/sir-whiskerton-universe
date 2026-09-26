@@ -2,11 +2,11 @@
 
 ## IDENTIFICATION
 
-**Name:** The Coffee Can
+**Name:** The Coffee Can (also known as "The Rusted Can," "The Time Capsule," or, on one memorable occasion, "The Can of Small Secrets")
 
-**Type:** Container / Time Capsule / Mystery
+**Type:** Container / Time Capsule / Held Mystery
 
-**Location:** On the wooden platform high in Old Mable's branches
+**Location:** On the wooden platform high in Old Mable's branches, in the crook of three massive limbs
 
 **Status:** Unchanged. Untouched. Waiting.
 
@@ -43,6 +43,16 @@ The only person who has ever been observed *near* the can, without touching it, 
 
 ---
 
+## THE PLATFORM
+
+The coffee can does not exist in isolation. It sits on **the platform** — a wooden structure built high in Old Mable's branches, in the crook of three massive limbs. The platform was built long ago by someone's father — no one remembers whose. The wood is gray with age, soft with weather, but still solid. A single rail remains on one side; the other three have long since fallen away.
+
+The platform is reachable by a series of footholds — not steps, just places where generations of climbers have worn the bark smooth. Children still climb it, though fewer each year. They sit on the platform and look out over the farm, over the fields, over the whole world, and they feel, for a moment, like kings and queens of something important.
+
+The coffee can sits in the corner of the platform. It has been there for as long as anyone can remember. No one has ever moved it. No one has ever needed to.
+
+---
+
 ## THE FEELING
 
 Visitors to the platform report a strange sense of *being included*. As if they have been added to a list of people who have stood in this exact spot, in this exact light, and looked out over the farm.
@@ -55,9 +65,15 @@ An hour on the platform feels like a moment. A moment feels like an hour. The ca
 
 ## THE MYSTERY
 
-What are the marbles? What does the note mean? Who added the feather? Who left the bottle cap?
+**What are the marbles?** No one knows. The cat's eye is the most striking, but the clear one and the chipped one have their own quiet presence. The chipped one, in particular, has been the subject of speculation among the animals — someone treasured it enough to keep it, even after it was chipped.
 
-The farm has decided not to know. Some mysteries are meant to stay mysteries. The coffee can is one of them.
+**What does the note mean?** *"I was here. So were you."* The handwriting is faded. The pencil is worn. The meaning is *present* but not *explained*. Some animals believe the note was written by a child. Others believe it was written by someone older, someone who was saying goodbye.
+
+**Who added the feather?** Blue jays are common on the farm. But this one is *perfect* — unbroken, uncrushed, *deliberately* placed. Someone chose it. Someone put it there.
+
+**Who left the bottle cap?** No one remembers the soda. No one has ever seen another bottle cap like it. The brand on the cap is illegible. The mystery of the soda is a mystery of the cap.
+
+**Why does no one ever add to the can?** No one knows. The farm has decided not to know. Some mysteries are meant to stay mysteries. The coffee can is one of them.
 
 ---
 
@@ -75,9 +91,13 @@ The can is a *held thing*. It is held by the farm. It is held by Old Mable. It i
 
 ## THE ARTIFACT'S PLACE
 
-The coffee can is a *witness*. It is the farm's smallest, quietest artifact — a can of small treasures, left by someone who is no longer here, for someone who has not yet arrived.
+The coffee can is a **witness**. It is the farm's smallest, quietest artifact — a can of small treasures, left by someone who is no longer here, for someone who has not yet arrived.
 
-It appears in stories as a place of contemplation, of quiet mystery, of small importance that becomes large importance with time. Characters visit the platform when they need to remember that *they are part of something longer than themselves*.
+It appears in stories as:
+
+- **A place of contemplation** — characters climb to the platform when they need to think, to grieve, to celebrate, to simply *be*
+- **A place of small mystery** — the can's contents are never explained, and this is the point
+- **A place of continuity** — the can has been there for longer than anyone can remember. It will be there for longer than anyone will remember.
 
 In the Commonplace Books, the coffee can might appear as:
 
@@ -85,6 +105,7 @@ In the Commonplace Books, the coffee can might appear as:
 - A rubbing of the note, the words just barely legible: *"I was here. So were you."*
 - A single blue jay feather, pressed between pages, with a note: *"This came from somewhere."*
 - A photograph of the platform at sunset, taken by a visitor who does not remember taking it
+- **A small note tucked into the back of the book**, in the Farmer's handwriting: *"I climbed up once. I was young. I didn't take anything. I didn't need to."*
 
 ---
 
