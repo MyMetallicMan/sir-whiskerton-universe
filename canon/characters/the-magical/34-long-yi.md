@@ -170,6 +170,11 @@ It simply says: "Welcome. Come back anytime."
 
 And he does.
 
+## Appearances in Canon
+
+- **[TBF01 — The Night the Moon Wore Jade](../../../stories/tales_by_firefly/TBF01_the_night_the_moon_wore_jade.md)** — Long Yi visits the farm for the first time, secretly, at night. Only Jazzpurr sees her. He does not tell anyone.
+- **[TBF02 — The Eucalyptus Road](../../../stories/tales_by_firefly/TBF02_the_eucalyptus_road.md)** — Long Yi sees the eucalyptus grove from the sky. She does not land. She tilts her head, just slightly, in the direction of the woodpile. Then flies on.
+
 ## Signature Quote
 
 "He's fine. He's just... making friends with peasants again."
