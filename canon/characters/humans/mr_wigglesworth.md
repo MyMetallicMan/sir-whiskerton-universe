@@ -58,4 +58,69 @@ Mr. Wigglesworth's work is not *bad*. It is *unexpected*. He does not do what yo
 His greatest hits include:
 
 - **The Chicken Coop That Became a Gazebo.** He was asked to repair the roof. He removed the walls. "It has more *light* now," he explained. The chickens disagreed.
-- **The Fence That Became a Labyrinth.** He was asked to mend a gap
+- **The Fence That Became a Labyrinth.** He was asked to mend a gap in the fence. He built a hedge maze. It is beautiful. It is also entirely useless for keeping animals in.
+- **The Well That Became a Fountain.** He was asked to fix the pump. He installed a decorative fountain. It is lovely. It does not provide water.
+- **The Path That Became a Spiral.** He was asked to clear a path to the barn. He paved a spiral that takes three times as long to walk and is, by any measure, more beautiful.
+
+The farm has learned to accept his work. It has learned to appreciate it. It has also learned to hire someone else when it *actually* needs something fixed.
+
+---
+
+## Key Relationships
+
+**The Farmer.** The Farmer is the only person who has never once been frustrated by Mr. Wigglesworth. He accepts each transformation with the same quiet smile. He has learned to see the *art* in the chaos. He has also learned to keep a spare toolbox of his own.
+
+**Sir Whiskerton.** Sir Whiskerton has, on several occasions, attempted to *understand* Mr. Wigglesworth. He has failed. He has accepted this. He has decided that Mr. Wigglesworth is a mystery not meant to be solved, but simply *witnessed*. He has, on multiple occasions, sat on the toolbox while Mr. Wigglesworth was working. He does not know why. It felt right.
+
+**Cecil & Chester.** Mr. Wigglesworth and the Epic Fail Brothers have never collaborated. The universe has not yet allowed it. The universe is wise. The universe knows that such a collaboration would not be a solution, nor a disaster, but a *third, more terrible thing*, for which no word yet exists. The universe is protecting the farm.
+
+**Doris the Hen.** Doris considers Mr. Wigglesworth a *threat to order*. She is correct. She has attempted to organize his toolbox. She has failed. She has not forgiven him.
+
+**The Animals.** The animals have learned to hide when Mr. Wigglesworth arrives. They have learned to wait. They have learned that when he leaves, the farm will be different — not always better, but always *different*. They have accepted this. They have also learned to make themselves scarce.
+
+---
+
+## Catchphrases & Quirks
+
+- "Trust me, I've been doing this for years!" (He hasn't.)
+- "The question is not *what* I am doing, but *why* the doing is necessary."
+- "The fence is not broken. It is *waiting*."
+- "I'll trade you this rusty plow for three chickens and a dream."
+- He has never once answered a direct question directly. He has never once been asked to leave. (No one is sure how to ask him.)
+- He carries a toolbox that contains everything except what he needs. He has never explained this. He has never needed to.
+- He has, on at least one occasion, arrived at the farm before he was expected, did work that was not requested, and left before anyone could thank him. The work was beautiful. It was also *completely inappropriate* for the space.
+- He has never once been seen eating. He has been seen drinking tea. He has never been seen making the tea. No one has asked.
+
+---
+
+## The Deeper Truth
+
+Mr. Wigglesworth is not a fraud. He is a *visionary*. He sees the world not as it is, but as it *could be*. He does not fix things. He *transforms* them. He believes — genuinely, deeply, without a shred of doubt — that the world is more beautiful when it is *surprising*, and that the most important work is the work that no one asked for.
+
+He does not know he is confusing. He does not know he is difficult. He does not know he is — by any objective measure — *bad at his job*. He knows only that he is *trying*, and that trying is the most important thing.
+
+The farm has accepted this. The farm has accepted a lot about Mr. Wigglesworth. It has accepted his riddles, his trades, his toolbox, his transformations. It has accepted that he is not a solution, but a *story*.
+
+And it has accepted — quietly, gently, without ever saying so — that the farm would be *less interesting* without him.
+
+---
+
+## Why He Belongs
+
+Mr. Wigglesworth is the farm's reminder that not everything needs to be fixed. Some things need to be *transformed*. He is the one who proves that the most important work is often the work that no one asked for. He is the one who proves that confidence, even misplaced, is its own kind of gift.
+
+He is also the farm's reminder that the world is more interesting when it is *unexpected* — and that the most beautiful things are often the ones that did not go according to plan.
+
+And the farm, in its infinite wisdom, does not ask him to leave.
+
+It simply waits to see what he will do next.
+
+---
+
+## Signature Quote
+
+"Trust me, I've been doing this for years!"
+
+*(Spoiler: He hasn't.)*
+
+**Status:** Active. Working. Current project unknown. Expected outcome: something beautiful, something strange, something no one asked for.
