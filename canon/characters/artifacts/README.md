@@ -76,6 +76,18 @@ Artifacts can be places. They can be objects. They can be collections. They can 
 
 ---
 
+## Locations & Mythic Geography
+
+The farm is not just a place. It is a *geography* — with landmarks, hidden paths, and places that exist slightly outside of time. These are the artifacts that are also *where you go*.
+
+- **[The Bamboo Forest](the_bamboo_forest.md)** — A dense, reality-adjacent grove at the edge of the farm. A stage. A sanctuary. A door.
+- **[The Long Road](the_long_road.md)** — An abandoned narrow-gauge railway, overgrown with moss and rust. A threshold. A way to elsewhere.
+- **[The Sunken Glade](the_sunken_glade.md)** — A shallow hollow in the birch wood, brighter than the sky above it. Home to the isolationist rabbits and the Rabbits' Parliament.
+- **[Old Stephen](old_stephen.md)** — The scarecrow who fell, who lives in the briars, who answers questions without speaking. A place of counsel.
+- **[The Golden Acorn](the_golden_acorn.md)** — A legendary treasure hidden in the past, in the forest that once stood where the farm now lies. A test of wisdom.
+
+---
+
 ## A Note on Tone
 
 Artifacts in the Sir Whiskerton universe are never *spooky*. They are not haunted, they are not threatening, they are not cursed. They are *held*. They are *loved*. Even the mysteries they carry are gentle mysteries—the initials J.M. + E.R. in Old Mable's bark, the note in the coffee can, the silence of the Moonlit Melon.
