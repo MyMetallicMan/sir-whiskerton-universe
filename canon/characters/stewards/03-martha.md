@@ -28,6 +28,10 @@ Martha's story is a testament to the idea that you don't need grand gestures or 
 
 She is the anchor that allows the Farmer to dream and the gentle hand that, without ever knowing it, holds the heart of the farm's most fearsome creature. In a world of philosophical penguins and yodeling fish, Martha remains the timeless, wholesome center—a reminder that the greatest adventures often begin with a simple act of kindness and a heart brave enough to be soft.
 
+## Links
+
 - **[Sir Whiskerton](../animals/sir_whiskerton.md)** — Martha is one of the few humans who has, on multiple occasions, been *observed* by Sir Whiskerton. She does not know this.
 - **[Auntie Clover](../humans/auntie_clover.md)** — Martha places the sprig of lavender in the Empty Box and leaves it on the windowsill. She has never told anyone why.
 - **[Catnip the Stray Cat](../animals/catnip_the_stray_cat.md)** — Martha's beloved stray. She does not know he runs her farm like a mafia don. She calls him "a sweet stray."
+
+---
