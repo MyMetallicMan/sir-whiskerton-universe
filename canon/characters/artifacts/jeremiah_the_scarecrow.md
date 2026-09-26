@@ -101,4 +101,4 @@ That is what he does. That is what he *is*.
 
 ---
 
-*—Artifact Bio: Jeremiah the Scarecrow, documented for the Sir
+*—Artifact Bio: Jeremiah the Scarecrow, documented for the Sir Whiskerton Commons by [observer], on a morning in late summer when the corn was tall and Jeremiah's shadow stretched long across the field.*
