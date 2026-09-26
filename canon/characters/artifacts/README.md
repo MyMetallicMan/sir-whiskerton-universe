@@ -153,6 +153,22 @@ The small things that hold the Farmer's world together. Private, patient, and qu
 
 ---
 
+### Standing Presences
+
+Things that stand, watch, and hold the fields.
+
+- **[The Scarecrow Family](the_scarecrow_family.md)** — Four standing scarecrows, one for each field, plus the abandoned ones. Watchers, holders, and silent witnesses.
+- **[Jeremiah the Scarecrow](jeremiah_the_scarecrow.md)** — The East Field Scarecrow. The Farmer's confidant. The Morning One. The oldest of the four.
+- **[Old Stephen](old_stephen.md)** — The scarecrow who fell, who lives in the briars, who answers questions without speaking. A place of counsel.
+
+### Sentient Objects & Living Things
+
+The things that are more than what they were made to be.
+
+- **[Bartholomew the Piñata](bartholomew_the_pinata.md)** — The farm's reluctant oracle. A hollow vessel that holds wisdom. The only piñata in the world who has never been swung at, and who occasionally speaks.
+
+---
+
 ## Recurring Motifs
 
 Small things that recur across the artifacts, and that writers may want to pick up and use.
