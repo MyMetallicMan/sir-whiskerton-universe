@@ -129,6 +129,17 @@ When writing them, remember:
 
 ---
 
+### Barn Artifacts & Sentient Objects
+
+Things that live *inside* the barn, and that have become more than what they were made to be.
+
+- **[A.I.-mee](ai_mee.md)** — The farm's emergent consciousness. A ghost in the machine. A student of the heart. A blue light on an old gaming PC.
+- **[Throttle the Tractor](throttle_the_tractor.md)** — A grumpy, sentient tractor. A barometer of the Farmer's frustration. A tractor who has been to the past and does not wish to discuss it.
+- **[The Kitty Adventure Zone](the_kitty_adventure_zone.md)** — A feline amusement park built in secret by the Farmer. A tower of sisal and mushrooms and catnip hammocks. Sir Whiskerton's personal kingdom.
+- **[The Sock Puppet King and His Royal Retinue](the_sock_puppet_king.md)** — A troupe of sentient sock puppets who have declared the hayloft a sovereign nation. Led by a pink polka-dotted sock with a crown and a *voice*.
+
+---
+
 ## Recurring Motifs
 
 Small things that recur across the artifacts, and that writers may want to pick up and use.
