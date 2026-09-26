@@ -62,4 +62,49 @@ The button is not decoration. It is *proof*.
 
 **What does it mean to him?** No one knows. No one asks. The button is Catnip's. It is his small, private thing.
 
-The farm has decided not to know
+The farm has decided not to know. Some mysteries are meant to stay mysteries. The button is one of them.
+
+---
+
+## THE INVITATION
+
+The button is not for you. Do not ask about it. Do not reach for it. Do not touch it.
+
+But you may observe it. You may notice it, on the rare occasions when Catnip is resting and his collar is visible. You may allow yourself to *see* it.
+
+The button does not require anything. It simply *is*.
+
+---
+
+## THE ARTIFACT'S PLACE
+
+The Single Button is a **proof**. It is the farm's reminder that love, even when it is not spoken, is *received*. It is the reminder that even the most guarded hearts can be touched by small kindnesses, if the kindness is offered without demand.
+
+It appears in stories as:
+
+- **A quiet, recurring detail** — the button in Catnip's collar; the way he touches it with his paw when he is thinking; the way he sits closer to Auntie Clover when she visits
+- **A demonstration of Auntie Clover's gift** — she gives gifts that are not for the receiver, but for the *giving*
+- **A small turning point** — the moment Catnip accepts the button is the moment he accepts *something*, even if he does not know what
+
+In the Commonplace Books, the button might appear as:
+
+- A pencil sketch of the button, drawn in careful detail, with a note: *"Received from Auntie Clover. Worn ever since."*
+- A tracing of Catnip's collar, with the button marked in silver ink
+- A page of notes from Auntie Clover's satchel: *"Another button. For a coat that might need a friend. Not yet given. Waiting."*
+- A photograph of Catnip, sleeping in a sunbeam, his collar just visible, the button catching the light
+
+---
+
+## THE FINAL WORD
+
+The button is small. It is worn. It is the only gift Catnip has ever accepted.
+
+He wears it. He keeps it. He has never explained why.
+
+But you may notice it. You may *see* it. You may allow yourself to understand, without being told, what it means.
+
+The button is proof. The proof is enough.
+
+---
+
+*—Artifact Bio: The Single Button, documented for the Sir Whiskerton Commons by [observer], on an afternoon in autumn when Catnip was sleeping in the sun and the button was catching the light.*
