@@ -29,6 +29,7 @@ Before we get into the technical details, here are the principles that guide eve
 ---
 
 ## Repo Structure
+---
 sir-whiskerton-universe/
 ├── CONTRIBUTING.md ← you are here
 ├── README.md ← overview of the universe
@@ -64,7 +65,7 @@ sir-whiskerton-universe/
 └── ...
 
 *(Adjust to match the actual structure of the repo. If a folder doesn't exist yet, create it when you need it.)*
-
+---
 ---
 
 ## How to Contribute
