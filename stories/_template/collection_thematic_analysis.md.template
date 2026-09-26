@@ -1,0 +1,78 @@
+# Collection {N}: Thematic Analysis
+
+*{COLLECTION_THEME}*
+
+---
+
+## Overall Collection Theme
+
+**{OVERALL_THEME_NAME}**
+
+{OVERALL_THEME_DESCRIPTION}
+
+*(A paragraph or two explaining the collection's central thesis — what idea it is exploring, and why that idea matters.)*
+
+---
+
+## Volume {N}A: {VOLUME_A_TITLE}
+
+**Core Theme:** *{VOLUME_A_THEME}*
+
+{VOLUME_A_ANALYSIS}
+
+### Key Themes by Story
+
+- **{STORY_A1_TITLE}:** *{STORY_A1_THEME_NAME}.* {STORY_A1_THEME_DESCRIPTION}
+- **{STORY_A2_TITLE}:** *{STORY_A2_THEME_NAME}.* {STORY_A2_THEME_DESCRIPTION}
+- **{STORY_A3_TITLE}:** *{STORY_A3_THEME_NAME}.* {STORY_A3_THEME_DESCRIPTION}
+*(etc.)*
+
+{COMMENTARY_ON_VOLUME_A}
+
+---
+
+## Volume {N}B: {VOLUME_B_TITLE}
+
+**Core Theme:** *{VOLUME_B_THEME}*
+
+{VOLUME_B_ANALYSIS}
+
+### Key Themes by Story
+
+- **{STORY_B1_TITLE}:** *{STORY_B1_THEME_NAME}.* {STORY_B1_THEME_DESCRIPTION}
+- **{STORY_B2_TITLE}:** *{STORY_B2_THEME_NAME}.* {STORY_B2_THEME_DESCRIPTION}
+- **{STORY_B3_TITLE}:** *{STORY_B3_THEME_NAME}.* {STORY_B3_THEME_DESCRIPTION}
+*(etc.)*
+
+{COMMENTARY_ON_VOLUME_B}
+
+---
+
+## Volume {N}C: {VOLUME_C_TITLE}
+
+**Core Theme:** *{VOLUME_C_THEME}*
+
+{VOLUME_C_ANALYSIS}
+
+### Key Themes by Story
+
+- **{STORY_C1_TITLE}:** *{STORY_C1_THEME_NAME}.* {STORY_C1_THEME_DESCRIPTION}
+- **{STORY_C2_TITLE}:** *{STORY_C2_THEME_NAME}.* {STORY_C2_THEME_DESCRIPTION}
+- **{STORY_C3_TITLE}:** *{STORY_C3_THEME_NAME}.* {STORY_C3_THEME_DESCRIPTION}
+*(etc.)*
+
+{COMMENTARY_ON_VOLUME_C}
+
+---
+
+## The Complete Arc
+
+- **{N}A establishes the {METAPHOR_A}:** *"{VOLUME_A_SUMMARY_QUOTE}"*
+- **{N}B tempers the {METAPHOR_B}:** *"{VOLUME_B_SUMMARY_QUOTE}"*
+- **{N}C nurtures the {METAPHOR_C}:** *"{VOLUME_C_SUMMARY_QUOTE}"*
+
+{COLLECTION_CONCLUSION}
+
+---
+
+**Jingle on.**
