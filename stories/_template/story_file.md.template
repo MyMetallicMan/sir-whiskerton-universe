@@ -1,0 +1,73 @@
+# Sir Whiskerton and {STORY_TITLE}
+
+*{STORY_SUBTITLE_OR_EPIGRAPH}*
+
+---
+
+{STORY_BODY}
+
+*(The full text of the story, formatted with clear paragraphs. Subheadings may be used to mark sections or scenes. Aim for 2,400 to 4,000 words.)*
+
+---
+
+## Moral
+
+{THE_MORAL}
+
+*(A single sentence or short paragraph that captures the story's central lesson.)*
+
+---
+
+## Best Lines
+
+- *"{BEST_LINE_1}"*
+- *"{BEST_LINE_2}"*
+- *"{BEST_LINE_3}"*
+- *"{BEST_LINE_4}"*
+- *"{BEST_LINE_5}"*
+
+*(Five to seven lines from the story that stand out — the ones that are funniest, wisest, or most memorable.)*
+
+---
+
+## Post-Credit Scene
+
+{POST_CREDIT_SCENE}
+
+*(A short coda — one or two paragraphs — that suggests what happened *after* the story ended. Often a small comedic beat or a quiet moment of reflection.)*
+
+---
+
+## Key Jokes
+
+- **{JOKE_1_LABEL}:** {JOKE_1_DESCRIPTION}
+- **{JOKE_2_LABEL}:** {JOKE_2_DESCRIPTION}
+- **{JOKE_3_LABEL}:** {JOKE_3_DESCRIPTION}
+- **{JOKE_4_LABEL}:** {JOKE_4_DESCRIPTION}
+- **{JOKE_5_LABEL}:** {JOKE_5_DESCRIPTION}
+
+*(The puns, wordplay, and comedic moments in the story, with short descriptions of why each one lands.)*
+
+---
+
+## Starring
+
+- **Sir Whiskerton** (胡子爵士) — {ROLE_IN_STORY}
+- **{CHARACTER_2}** ({CHINESE_NAME_2}) — {ROLE_IN_STORY}
+- **{CHARACTER_3}** ({CHINESE_NAME_3}) — {ROLE_IN_STORY}
+- **{CHARACTER_4}** ({CHINESE_NAME_4}) — {ROLE_IN_STORY}
+- **{CHARACTER_5}** ({CHINESE_NAME_5}) — {ROLE_IN_STORY}
+
+*(The major characters in the story, listed with their Chinese names and a one-line description of their role.)*
+
+---
+
+## P.S.
+
+{PERSONAL_POSTSCRIPT}
+
+*(A short, warm note — often some wisdom from the farm, in the voice of Sir Whiskerton or the story's narrator. Something the reader can carry with them.)*
+
+---
+
+**Jingle on.**
