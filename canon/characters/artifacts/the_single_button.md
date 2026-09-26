@@ -2,7 +2,7 @@
 
 ## IDENTIFICATION
 
-**Name:** The Single Button
+**Name:** The Single Button (also known as "The Pearl," "The Anchor," or — in Auntie Clover's satchel — "One for the road")
 
 **Type:** Gift / Anchor / Small Sacred Thing
 
@@ -30,7 +30,7 @@ No one has ever asked Catnip about the button. No one would dare.
 
 Auntie Clover gave Catnip the button on one of her visits to the farm. She did not explain it. She did not need to.
 
-> "Your coat might need a friend someday," she said, wrapping the button in a small piece of tissue paper and pressing it into his paws.
+> *"Your coat might need a friend someday,"* she said, wrapping the button in a small piece of tissue paper and pressing it into his paws.
 
 Catnip did not respond. He did not purr. He did not smile.
 
@@ -56,49 +56,10 @@ The button is not decoration. It is *proof*.
 
 ## THE MYSTERY
 
-Why did Catnip accept the button? Why does he wear it? What does it mean to him?
+**Why did Catnip accept the button?** No one knows.
 
-No one knows. No one asks. The button is Catnip's. It is his small, private thing.
+**Why does he wear it?** No one knows.
 
-The farm has decided not to know. Some mysteries are meant to stay mysteries. The button is one of them.
+**What does it mean to him?** No one knows. No one asks. The button is Catnip's. It is his small, private thing.
 
----
-
-## THE INVITATION
-
-The button is not for you. Do not ask about it. Do not reach for it. Do not touch it.
-
-But you may observe it. You may notice it, on the rare occasions when Catnip is resting and his collar is visible. You may allow yourself to *see* it.
-
-The button does not require anything. It simply is.
-
----
-
-## THE ARTIFACT'S PLACE
-
-The Single Button is a *proof*. It is the farm's reminder that love, even when it is not spoken, is *received*. It is the reminder that even the most guarded hearts can be touched by small kindnesses, if the kindness is offered without demand.
-
-It appears in stories as a quiet, recurring detail — the button in Catnip's collar, the way he touches it with his paw when he is thinking, the way he sits closer to Auntie Clover when she visits.
-
-In the Commonplace Books, the button might appear as:
-
-- A pencil sketch of the button, drawn in careful detail, with a note: *"Received from Auntie Clover. Worn ever since."*
-- A tracing of Catnip's collar, with the button marked in silver ink
-- A page of notes from Auntie Clover's satchel: *"Another button. For a coat that might need a friend. Not yet given. Waiting."*
-- A photograph of Catnip, sleeping in a sunbeam, his collar just visible, the button catching the light
-
----
-
-## THE FINAL WORD
-
-The button is small. It is worn. It is the only gift Catnip has ever accepted.
-
-He wears it. He keeps it. He has never explained why.
-
-But you may notice it. You may *see* it. You may allow yourself to understand, without being told, what it means.
-
-The button is proof. The proof is enough.
-
----
-
-*—Artifact Bio: The Single Button, documented for the Sir Whiskerton Commons by [observer], on an afternoon in autumn when Catnip was sleeping in the sun and the button was catching the light.*
+The farm has decided not to know
