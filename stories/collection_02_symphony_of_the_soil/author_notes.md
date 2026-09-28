@@ -56,7 +56,7 @@ I still find it funny. I probably always will.
 
 I want to tell you the real story behind this one.
 
-I was laid off once. And then again. And then again. *Seven times*, in fact, and — because the universe has a very specific sense of humor — *more than one of those layoffs arrived on Christmas Eve*.
+I was laid off once. And then again. And then again. *Over fifteen times*, in fact, and — because the universe has a very specific sense of humor — *at least seven of those layoffs arrived on Christmas Eve*.
 
 I am the firstborn son of a father who believed in a world that no longer exists. In his world, you went to good schools. You got a good job. You gave that job your loyalty — your *life* — and the job gave you *a life* in return. A pension. A place. A story you could tell at the end of it. My father was a professional. He was treated like a professional. And he assumed, reasonably, that his son would be too.
 
