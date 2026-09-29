@@ -50,6 +50,10 @@ He awoke not to darkness, but to the world painted in the ghost-light of himself
 
 He looked at his paw. It was his paw, but it was also a lantern. The wood grain of his doghouse pulsed with a green, symbiotic light. His breath came out in faint, luminous clouds.
 
+The warmth was the first thing he noticed. Not heat, exactly—more like the feeling of being wrapped in a sunbeam that had decided to stay. It radiated from somewhere deep in his chest, spreading outward through his fur, through his paws, through the tips of his ears. It felt like being loved. It felt like being seen.
+
+Then came the colors. Every edge of the world was suddenly rimmed in soft green light—his own light, reflected back at him from the dewy grass, the weathered wood, the curious eyes of a passing moth. He had never noticed how many shades of green existed before. He had never noticed how beautiful the dark could be when you brought your own light to it.
+
 His first feeling was not anger. It was dislocation. He was no longer just Rufus, the dog. He was now Rufus, the phenomenon. The rules had changed. The simple physics of his world—where a good dog is seen, petted, and feeds at six—were rewritten. He was a walking exception.
 
 He heard Bandit's chuckle from the shadows, not as a taunt, but as a theorem proven. *See?* it said. *Your truth is not absolute. It can be edited. You are now an edit.*
@@ -101,6 +105,18 @@ But in moments of high emotion—a deep bark, a wag of true joy, a growl of prof
 Remy's antidote had cured the surface. But it could not reach the metaphorical truth Bandit had forced into him: that his loyalty, his simplicity, his dogness was not a passive trait, but an active, radiant force. The serum had literally illuminated what was already figuratively true.
 
 The glow had become internal. A part of his soul's signature.
+
+In the days that followed, the farm noticed. They noticed the way Rufus's tail would wag a little faster when Ditto bounded over, and the faint green shimmer that danced across his fur like a secret shared between friends. They noticed how, when the Farmer sat on the porch after a long day, Rufus would curl at his feet, and the air around them would warm with a soft, steady pulse of light—a heartbeat made visible.
+
+They noticed. And they said nothing.
+
+Not because they didn't care. Because they understood. Some things are too precious to name. Some gifts are too fragile to celebrate loudly. So they simply made room for it. They let Rufus be Rufus—glowing when he was happy, flickering when he was anxious, warming when he loved—and they loved him back in the same quiet, steady way.
+
+Doris the Hen, who had once fainted at the sight of him, now made a point of sitting near him during morning meetings. "It's good for the morale," she declared, though everyone knew it was good for her heart.
+
+Porkchop, ever the philosopher, simply nodded when he saw the shimmer. "The earth receives all things," he murmured. "Even light."
+
+And Sir Whiskerton, who noticed everything, said nothing at all. He simply adjusted his monocle, allowed himself a small, private smile, and made a note in his journal: *The glow is not the point. The glow is the reminder. The point is Rufus.*
 
 ## THE MORAL OF THE STORY
 
