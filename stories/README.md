@@ -21,8 +21,8 @@ If you're returning, the full index is below.
 | # | Collection | Theme | Status |
 |---|-----------|-------|--------|
 | 01 | [The Jingle-Jangle Farm](collection_01_jingle_jangle_farm/README.md) | The Architecture of Belonging | ✅ Complete |
-| 02 | [Symphony of the soil](stories/collection_02_symphony_of_the_soil/README.md) | What you build inside the belonging | ✅ Complete  |
-| 03 | [The Unfenced Frontier](stories/collection_03_the_unfenced_frontier/README.md) | Edges as thresholds | ✅ Complete |
+| 02 | [Symphony of the soil](collection_02_symphony_of_the_soil/README.md) | What you build inside the belonging | ✅ Complete  |
+| 03 | [The Unfenced Frontier](collection_03_the_unfenced_frontier/README.md) | Edges as thresholds | ✅ Complete |
 | 04 | *(Reserved)* | — | Planned |
 | 05 | *(Reserved)* | — | Planned |
 | 06 | *(Reserved)* | — | Planned |
@@ -48,7 +48,7 @@ If you're returning, the full index is below.
 | 26 | *(Reserved)* | — | Planned |
 | 27 | *(Reserved)* | — | Planned |
 | 28 | *(Reserved)* | — | Planned |
-| 29 |  [Tales by firefly](stories/tales_by_firefly/README.md) | Stories about love | ✅ Active |
+| 29 |  [Tales by firefly](tales_by_firefly/README.md) | Stories about love | ✅ Active |
 
 *(This table will be updated as each collection is added to the repository.)*
 
