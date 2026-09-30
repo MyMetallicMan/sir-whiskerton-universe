@@ -1,8 +1,8 @@
 # TBF05 — Longwei and Esmeralda: The Kitty-Dragon and the Croc-a-Gator
 
-**A Tale from the Tales by Firefly Series**
+*A Tale from the Tales by Firefly Series*
 
-    A dragon who believes he is a cat. A croc-a-gator who believes she is a dog. And a farm that believes in both of them.
+*A dragon who believes he is a cat. A croc-a-gator who believes she is a dog. And a farm that believes in both of them.*
 
 ## Part One: The New Arrival
 
@@ -16,7 +16,7 @@ But there was one thing she had not yet learned. One creature she had not yet me
 
 She had seen him from a distance. A shape in the sky, long and serpentine, shimmering gold against the clouds. A shadow that passed over the pasture like a cloud with a destination. She had heard the animals speak of him in whispers — not with fear, but with a kind of reverent affection. "Longwei," they said. "He's one of us. He's a cat."
 
-Esmeralda had not understood. A dragon who was a cat? It made no sense. But then again, she was a croc-a-gator who had been raised by a grandmother who told her that "fitting in" was a thing you did when you couldn't "make your own fit." So perhaps she understood better than she knew.
+Esmeralda had not understood. A dragon who was a cat? *Mais*, it made no sense. But then again, she was a croc-a-gator who had been raised by a grandmother who told her that "fitting in" was a thing you did when you couldn't "make your own fit." So perhaps she understood better than she knew.
 
 She was resting by the pond — her favorite spot, where the water was warm and the sun was soft — when she heard the sound.
 
@@ -44,7 +44,7 @@ And he said, in a voice that was deep and warm and utterly certain:
 
 Esmeralda stopped.
 
-"...Cute?" she said.
+"...Cute?" she said. "*Cher*, I don' t'ink nobody ever called me dat before."
 
 "Very cute," Longwei said, opening both eyes now. "The cutest little croc-a-gator I have ever seen."
 
@@ -54,21 +54,30 @@ She did not know what to do with it.
 
 And so — because she did not know what else to do — she did what any sensible croc-a-gator would do when called cute by a dragon who believed he was a cat.
 
-She rubbed up against him.
+She jumped up and licked him on the snout.
 
-It was a slow, deliberate, full-body rub — the kind of rub a cat gives a favorite leg, or a dog gives a favorite person. She pressed her enormous, scaly head against his shoulder. She arched her back against his side. She wrapped her tail around his tail. And she began to purr.
+It was not a delicate lick. It was not a tentative lick. It was a full, joyful, slobbery, dog-sized lick that caught Longwei right across the nose and left a trail of croc-a-gator spit from his snout to his eyebrow. Her tail was wagging so hard it was thumping against the ground. Her whole body was wiggling with delight.
 
-It was not a cat's purr. It was not a dragon's purr. It was a croc-a-gator's purr — a deep, rumbling, thrumming sound that vibrated through her entire body and into Longwei's.
+Longwei blinked.
 
-And Longwei — the dragon who believed he was a cat — began to purr back.
+He blinked again.
 
-The two of them stood there, in the sunlight, purring. A dragon and a croc-a-gator. A cat and a dog. A pair of creatures who had both, in their own ways, decided to be something other than what the world expected.
+And then — because he was a cat, and because cats have *dignity*, and because no one had licked him on the snout since he was a very small dragon — he did the only thing a dignified cat could do.
 
-It was, by any measure, a beautiful moment.
+He licked her back.
 
-And then the chickens noticed.
+It was a small lick. A precise lick. A single, deliberate, cat-sized lick on the tip of her snout. It was the lick of a creature who was saying, without words, *I accept your greeting, and I return it in kind, and we are now friends.*
 
-## Part Two: The Earthquake
+Esmeralda wagged her tail so hard she nearly knocked over a fence post.
+
+And then — because she was a dog, and because dogs do not have dignity, and because she had just been accepted by a dragon — she licked him again.
+
+And again.
+
+And again.
+
+Longwei endured it with the stoicism of a cat who has decided that this is simply what his life is now.
+## Part Two: The Purr-Quake
 
 Doris was the first to feel it.
 
@@ -80,9 +89,9 @@ At first, she thought it was a tractor. The Farmer was always doing something wi
 
 She stopped.
 
-She had run out of the coop and into the barnyard, and she had seen the source of the shaking. It was not an earthquake. It was not a tractor. It was Longwei. And Esmeralda. And they were purring.
+She had run out of the coop and into the barnyard, and she had seen the source of the shaking. It was not an earthquake. It was not a tractor.
 
-The two of them stood by the pond, a dragon and a croc-a-gator, wrapped around each other like a pair of oversized cats, and they were purring. The sound was so deep and so loud that it made the fence posts rattle. It made the hens' eggs tremble in their nests. It made the scarecrow's hat fall off.
+It was Longwei. And Esmeralda. And they were — somehow — both purring *and* wagging. The dragon was purring, a deep, rumbling, ground-shaking purr. And the croc-a-gator was wagging, a full-body wag that sent her tail sweeping across the grass like a broom.
 
 Doris stared.
 
@@ -90,7 +99,7 @@ She stared for a long, long moment.
 
 And then she said, in a voice that was almost a whisper:
 
-"...It's not an earthquake. It's... it's... a *purr-quake*."
+"...It's not an earthquake. It's... it's... a purr-quake."
 
 Harriet arrived a moment later, skidding to a stop beside her. "Farm headline! Farm headline! The ground is shaking! The sky is falling! The—"
 
@@ -100,9 +109,9 @@ She saw.
 
 She stared.
 
-"...Oh," she said. "It's just Longwei. And the new one. And they're... they're purring."
+"...Oh," she said. "It's just Longwei. And the new one. And they're... they're purring. And wagging."
 
-"Yes," Doris said. "They're purring."
+"Yes," Doris said. "They're purring. And wagging."
 
 "Together."
 
@@ -116,9 +125,9 @@ Harriet was quiet for a moment. Then she said, in a voice that was almost revere
 
 "That's the most beautiful thing I've ever seen."
 
-"It's the most terrifying thing I've ever seen," Doris corrected. "I thought we were having an earthquake!"
+"It's the most *terrifying* thing I've ever seen," Doris corrected. "I thought we were having an earthquake! I was about to file a report!"
 
-Lillian, who had arrived last, took one look at the purring pair and immediately fainted onto a nearby hay bale.
+Lillian, who had arrived last, took one look at the purring, wagging pair and immediately fainted onto a nearby hay bale.
 
 "Lillian!" Harriet said. "Are you okay?"
 
@@ -132,7 +141,7 @@ Zephyr arrived in a swirl of amber light, his lava lamp bobbing gently beside hi
 
 He had been napping — or, as he called it, "recalibrating his vibe cells" — when the purring had started. It had woken him from a very pleasant dream about a beach made entirely of tapioca pearls, and he had floated out of the barn to see what was going on.
 
-What he saw was a dragon and a croc-a-gator, wrapped around each other, purring.
+What he saw was a dragon and a croc-a-gator, wrapped around each other, purring and wagging.
 
 He floated there for a long moment, his tinted glasses reflecting the scene. Then he said, in a voice that was smooth and warm and utterly at peace:
 
@@ -146,11 +155,11 @@ Doris looked at him. "That's all you have to say? 'Far out'?"
 
 "So?" Zephyr said. "The scarecrow's hat was, like, totally unbalanced anyway. It needed to fall off. It's a metaphor."
 
-"A metaphor for what?"
+"A metaphor for *what*?"
 
 "For... for letting go, man. For not holding on so tight. For..." He paused. "I don't know. I'm just vibing. But it's beautiful. Look at them."
 
-Doris looked. She did not want to admit it, but Zephyr was right. It was beautiful. The dragon and the croc-a-gator, the cat and the dog, the two creatures who had both decided to be something other than what they were — they were happy. They were together. They were purring.
+Doris looked. She did not want to admit it, but Zephyr was right. It *was* beautiful. The dragon and the croc-a-gator, the cat and the dog, the two creatures who had both decided to be something other than what they were — they were happy. They were together. They were purring, and wagging, and licking each other's snouts.
 
 "...Fine," Doris said. "It's beautiful. But I'm still writing a manifesto about it."
 
@@ -158,11 +167,11 @@ Doris looked. She did not want to admit it, but Zephyr was right. It was beautif
 
 Porkchop arrived a moment later, waddling up with his Hawaiian shirt flapping in the breeze. He had been in the mud pit — his favorite mud pit, the one with the perfect consistency — and he had heard the purring from there.
 
-He stood beside Doris and Zephyr and looked at the purring pair.
+He stood beside Doris and Zephyr and looked at the purring, wagging pair.
 
 "Well," he said. "That's nice."
 
-"That's all you have to say?" Doris said. "That's nice?"
+"That's all you have to say?" Doris said. "That's *nice*?"
 
 "What else is there to say?" Porkchop said. "They're happy. They're purring. They're, like... they're in love."
 
@@ -170,7 +179,7 @@ He stood beside Doris and Zephyr and looked at the purring pair.
 
 "So?" Porkchop said. "Love doesn't have a timeline. Love is just... love. It happens when it happens. And when it happens, you don't question it. You just... you just enjoy it."
 
-He watched the purring pair for a moment longer. Then he smiled — his wide, sunny, uncomplicated smile — and said:
+He watched the pair for a moment longer. Then he smiled — his wide, sunny, uncomplicated smile — and said:
 
 "I'm gonna go get some popcorn. This is gonna be good."
 
@@ -204,7 +213,7 @@ Esmeralda wagged her tail harder.
 
 Esmeralda barked.
 
-It was not a croc-a-gator sound. It was a dog sound — a happy, eager, entirely un-croc-a-gator bark that seemed to come from somewhere deep in her chest.
+It was not a croc-a-gator sound. It was a *dog* sound — a happy, eager, entirely un-croc-a-gator bark that seemed to come from somewhere deep in her chest.
 
 Longwei stared at her for a long moment.
 
@@ -216,23 +225,53 @@ He picked up the stick. He threw it — not far, because he was still learning h
 
 Esmeralda was already running.
 
-She ran — actually ran, her enormous body moving with a speed and grace that seemed impossible for a creature her size — and she dove into the pond with a splash that sent water flying in every direction. She emerged a moment later, the stick in her jaws, her tail wagging so hard it was creating its own wake.
+She ran — actually *ran*, her enormous body moving with a speed and grace that seemed impossible for a creature her size — and she dove into the pond with a splash that sent water flying in every direction. She emerged a moment later, the stick in her jaws, her tail wagging so hard it was creating its own wake.
 
 She trotted back to Longwei and dropped the stick at his feet.
 
+But she did not stop.
+
+She *froze*.
+
+She stood there, absolutely still, her whole body rigid, her eyes locked on Longwei's hand, her tail held straight out behind her like a pointer's. She was waiting. She was *ready*. She was a dog who knew exactly what came next.
+
+Longwei stared at her.
+
+"...What are you doing?"
+
+Esmeralda did not move. She did not blink. She did not wag. She was a statue of a croc-a-gator, frozen in the perfect pose of a dog who is about to be told to *go*.
+
+Longwei looked at the stick. He looked at Esmeralda. He looked at the stick again.
+
+And then he understood.
+
+"Oh," he said. "You want me to throw it *again*."
+
+Esmeralda's tail gave a single, sharp wag.
+
+Longwei threw the stick.
+
+Esmeralda *exploded*.
+
+She ran — not the slow, careful, deliberate walk she usually used, but a full, joyful, dog-sized sprint that sent grass flying and dirt spraying and chickens scattering. She caught the stick mid-air, tumbled end-over-end into a hay bale, popped back up, and trotted back to Longwei with the stick in her jaws and an expression of pure, uncomplicated triumph.
+
+She dropped the stick at his feet.
+
+She froze.
+
+She waited.
+
 "Who's a good girl?" Longwei said.
 
-Esmeralda wagged her tail.
+Esmeralda did not move. She was still frozen. But her tail gave a single, sharp wag.
 
 "Who's a good girl?"
 
-Esmeralda barked.
+Another single wag.
 
-"Who's the best croc-a-gator in the whole entire world?"
+"Who's the *best* croc-a-gator in the whole entire world?"
 
-Esmeralda rolled over.
-
-She rolled over onto her back, her enormous legs waving in the air, her tail thumping against the ground, her dark-honey eyes fixed on Longwei with an expression of pure, uncomplicated adoration.
+Esmeralda *exploded* again. She rolled over onto her back, her enormous legs waving in the air, her tail thumping against the ground, her dark-honey eyes fixed on Longwei with an expression of pure, uncomplicated adoration.
 
 Longwei stared at her.
 
@@ -250,13 +289,21 @@ The pond became their playground.
 
 Every afternoon, when the sun was warm and the chores were done, Longwei and Esmeralda would meet by the water. They would play fetch. They would splash. They would chase each other around the edge of the pond, the dragon's tail whipping through the air, the croc-a-gator's tail thumping against the ground.
 
+Esmeralda played like a dog. She would freeze — absolutely still, her whole body rigid, her eyes locked on Longwei's hand. And then she would run — a full, joyful, un-croc-a-gator sprint that sent grass flying and water spraying. And then she would freeze again. And then she would run again. Freeze. Run. Freeze. Run. Chase the stick. Leap up. Catch it mid-air. Tumble into the pond. Emerge with the stick in her jaws. Trot back. Drop it at Longwei's feet. Freeze. Wait.
+
+And then — every single time — she would leap up and lick him on the snout.
+
+It was not a delicate lick. It was a full, joyful, slobbery, dog-sized lick that caught Longwei right across the nose and left a trail of croc-a-gator spit from his snout to his eyebrow. Her tail would be wagging so hard it was thumping against the ground. Her whole body would be wiggling with delight.
+
+And Longwei — the dragon who believed he was a cat — would endure it with the stoicism of a cat who has decided that this is simply what his life is now.
+
 They were, by any measure, ridiculous. A dragon the size of a small bus, playing fetch with a croc-a-gator the size of a small car. A cat who believed he was a cat, playing with a dog who believed she was a dog. Two creatures who had both, in their own ways, decided to be something other than what the world expected.
 
 And they were happy.
 
 One afternoon, Longwei threw the stick so high that it disappeared into the clouds. Esmeralda watched it go, her head tilted, her tail wagging. And then — without waiting for it to come down — she jumped into the pond.
 
-She jumped. Not dove, not waded, not stepped carefully into the shallows. She jumped. Her enormous body launched into the air, her tail whipping behind her, her jaws open in a joyful, un-croc-a-gator bark — and she landed in the water with a splash that sent a wave washing over the entire pond.
+She jumped. Not dove, not waded, not stepped carefully into the shallows. She *jumped*. Her enormous body launched into the air, her tail whipping behind her, her jaws open in a joyful, un-croc-a-gator bark — and she landed in the water with a splash that sent a wave washing over the entire pond.
 
 The wave hit Longwei.
 
@@ -268,7 +315,13 @@ He stood there, dripping, his silver-white mane plastered to his neck, his golde
 
 And then he jumped in after her.
 
-The splash was enormous. The wave was tidal. The hens — who had gathered at the edge of the pond to watch — scattered in every direction, squawking in alarm. Doris fainted. Harriet shouted "FARM HEADLINE: DRAGON AND CROC-A-GATOR IN POND! DETAILS UNIMPORTANT!" Lillian fainted again.
+The splash was enormous. The wave was tidal. The hens — who had gathered at the edge of the pond to watch — scattered in every direction, squawking in alarm.
+
+"FARM HEADLINE!" Harriet shrieked. "DRAGON AND CROC-A-GATOR IN POND! DETAILS UNIMPORTANT!"
+
+"UNIMPORTANT!" Doris echoed. "BUT ALSO HIGHLY IRREGULAR!"
+
+"IRREGULAR!" Lillian wailed — and fainted directly into a watering can.
 
 And in the middle of the pond, Longwei and Esmeralda splashed and played, two enormous creatures in the water, their tails whipping, their jaws open in joy. The dragon did not act like a cat. The croc-a-gator did not act like a croc-a-gator. They acted like two friends who had found each other, and who were celebrating the discovery in the only way they knew how: by being together.
 
@@ -316,7 +369,7 @@ Sir Whiskerton sat down beside him, his monocle catching the last of the afterno
 
 Catnip was quiet for a long moment. Then he said, in a voice that was almost a whisper:
 
-"She didn't find someone else. She found someone in addition. There's a difference."
+"She didn't find someone else. She found someone *in addition*. There's a difference."
 
 Sir Whiskerton looked at him. His monocle glinted.
 
@@ -346,7 +399,7 @@ That evening, after the sun had set and the stars had come out, Longwei and Esme
 
 They were both wet. They were both tired. They were both happy.
 
-Esmeralda had the stick in her jaws. She had not let go of it all evening. She was not going to let go of it. It was her stick. It was the best stick. It was the stick that Longwei had thrown, and that she had caught, and that she would keep forever.
+Esmeralda had the stick in her jaws. She had not let go of it all evening. She was not going to let go of it. It was *her* stick. It was the *best* stick. It was the stick that Longwei had thrown, and that she had caught, and that she would keep forever.
 
 Longwei looked at her.
 
@@ -360,15 +413,15 @@ Esmeralda wagged her tail harder.
 
 "But that's okay," Longwei said. "Because you're not actually a croc-a-gator, either. You're just... you. And I'm just... me. And that's enough."
 
-Esmeralda rolled over. She pressed her enormous, scaly head against his side. She closed her eyes. And she began to purr.
+Esmeralda rolled over. She pressed her enormous, scaly head against his side. She closed her eyes. And she licked him on the snout — one last, soft, sleepy lick, the kind of lick a dog gives when it is too tired to do anything but love you.
 
-Longwei purred back.
+Longwei purred.
 
 The ground shook. The eggs trembled. The scarecrow's hat fell off.
 
 And on the porch, Catnip watched, and purred, and was happy.
 
-## THE MORAL OF THE STORY
+## The Moral of the Story
 
 The moral, dear reader, is not about what we are. It is about who we choose to be.
 
@@ -380,6 +433,6 @@ Sometimes, the most important thing is to be who you are — not what the world 
 
 And sometimes, the most important thing is to sit on a porch, and watch your friend be happy, and purr.
 
-Jingle on. (Or, in the language of friendship and joy: Believe... belong... play... splash... laugh... purr... love.)
+Jingle on. (Or, in the language of friendship and joy: *Believe... belong... play... splash... laugh... purr... love.*)
 
 The End.
