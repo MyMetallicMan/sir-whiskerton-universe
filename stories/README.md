@@ -48,7 +48,7 @@ If you're returning, the full index is below.
 | 26 | *(Reserved)* | — | Planned |
 | 27 | *(Reserved)* | — | Planned |
 | 28 | *(Reserved)* | — | Planned |
-| 29 |  [Tales by firefly]() | Stories about love | ✅ Active |
+| 29 |  [Tales by firefly](stories/tales_by_firefly/README.md) | Stories about love | ✅ Active |
 
 *(This table will be updated as each collection is added to the repository.)*
 
