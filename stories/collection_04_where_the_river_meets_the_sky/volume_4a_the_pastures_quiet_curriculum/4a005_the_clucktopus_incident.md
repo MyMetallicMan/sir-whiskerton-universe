@@ -5,7 +5,8 @@ collection: "collection_04_where_the_river_meets_the_sky"
 volume: "volume_4a_the_pastures_quiet_curriculum"
 sequence_id: "4a005"
 slug: "the-clucktopus-incident"
-status: "complete"
+status: "outline"
+revision_target: "Flesh out Cluckbeard's delusion, expand Bessie's psychedelic dialogue, add aftermath resolution and Mr. Ducky's markup scene."
 date_created: "2024-05-10"
 date_updated: "2026-09-30"
 tags: ["pirates", "mistaken-identity", "bessie", "cluckbeard", "dairy-shaman", "gentle-humor"]
@@ -19,60 +20,32 @@ summary: "Captain Cluckbeard mistakes Bessie the Cow's udder for a sea monster a
 
 # Sir Whiskerton and the Clucktopus Incident
 
+> 📝 **STATUS: OUTLINE** — This is a structural blueprint. The full narrative will be expanded in a future revision. Do not publish as final until `status` is updated to `complete`.
+
 > *Previously cataloged as 4A25*
 
-Ah, dear reader, prepare yourself for a tale of high-seas horror, bovine mysticism, and the most tragic case of mistaken identity since Porkchop tried to flirt with a garden hose. Today’s adventure stars Captain Cluckbeard, the barnyard’s most delusional pirate, whose quest for glory leads him to declare war on... a cow’s udder. So batten down the hatches (or at least your sanity), and join us for The Clucktopus Incident—a story that proves even the bravest sailors shouldn’t mess with dairy.
-
 ### Act 1: The Beast from the Deep
-
-Captain Cluckbeard stood atop his ship (a repurposed wheelbarrow) and squinted at the horizon.
-
-• Cluckbeard: “Avast, ye barnacles! A fearsome beast lurks in yonder pasture!”
-• Squawk: [Peering through a toilet paper roll telescope] “Cap’n, that’s just Bessie the Cow.”
-• Cluckbeard: “Nay! That’s the dreaded Clucktopus—eight-legged terror of the seven barnyards!”
-
-Bessie, blissfully unaware, munched clover. Her tie-dye udder swayed hypnotically in the breeze.
-
-• Pluck: “Maybe it’s friendly?”
-• Cluckbeard: “Friendly?! It’s got more colors than a drunken parrot! MAN THE HARPOONS!”
+- Cluckbeard on wheelbarrow ship spots Bessie.
+- Squawk identifies cow; Cluckbeard declares "Clucktopus."
+- Bessie's tie-dye udder sways hypnotically.
+- Cluckbeard orders harpoons.
 
 ### Act 2: The Battle of the Bovine
-
-What followed was the most one-sided naval engagement in farm history.
-
-• Cluckbeard launched a harpoon (a garden rake tied to a rope). It bounced off Bessie’s hip.
-• Squawk panicked and hid in a feed bag, screaming “WE’RE ALL GONNA DIE!”
-• Bessie, deep in a mood ring trance, sighed: “Whoa... the universe is speaking to me through my own udder, man.”
-
-Then—Pluck had an idea.
-
-• Pluck: “Cap’n... what if we milk the beast? For... research?”
-• Cluckbeard: “Brilliant! We’ll sell its creamy treasure for gold!”
-
-Bessie, now convinced she was channeling cosmic energy, allowed the “milking.”
-• Result: One bucket of milk, two traumatized roosters, and a very confused cow.
+- Harpoon (garden rake) bounces off hip.
+- Squawk hides in feed bag screaming.
+- Bessie in mood-ring trance: "Universe speaking through my udder."
+- Pluck suggests milking for "research." Cluckbeard agrees.
+- Result: 1 bucket milk, 2 traumatized roosters, 1 confused cow.
 
 ### Act 3: The Truth Comes Out
+- Whiskerton arrives during bottling.
+- Confrontation: "Attacked udder, stole milk, selling as monster juice?"
+- Bessie: "Achieved udder enlightenment."
+- Verdict: Whiskerton confiscates "treasure" (Porkchop drinks it). Bessie starts wellness cult. Squawk develops polka-dot phobia.
 
-Sir Whiskerton arrived just as Cluckbeard tried to bottle the “Clucktopus Elixir.”
-
-• Sir Whiskerton: “Let me get this straight. You attacked a cow’s udder, stole its milk, and now you’re selling it as monster juice?”
-• Cluckbeard: “Aye! A pirate’s life is—”
-• Bessie: “Duuuude... I think I just achieved udder enlightenment.”
-
-The verdict?
-• Sir Whiskerton confiscated the “treasure” (Porkchop drank it immediately).
-• Bessie started a wellness cult (“Embrace Your Inner Clucktopus”).
-• Squawk developed a phobia of spotted things (including polka-dot pillows).
-
-### The Moral (and the Post-Credit Milking)
-
-**Moral:** If it looks like a cow and moos like a cow... it’s probably not a sea monster.
-
-**Post-Credit Scene:**
-Mr. Ducky sells “Clucktopus Milk” at a 300% markup. The label reads: “Now with 100% More Existential Dread!”
-
-The End.
+### Moral & Post-Credit
+- Moral: If it looks like a cow and moos like a cow... it’s probably not a sea monster.
+- Post-Credit: Mr. Ducky sells "Clucktopus Milk" at 300% markup. Label: "Now with 100% More Existential Dread!"
 
 * * *
 
