@@ -20,6 +20,12 @@ summary: "Sir Whiskerton investigates the theft of the Farmer's famous buttermil
 # Sir Whiskerton and the Great Biscuit Bandit
 
 > *Previously cataloged as 456H2*
+ 
+### Foreword
+
+*This is one of my early stories. The characters were not yet fully developed, and the relationships were new, young and insipid. However, the value in this story isn't so much it's history as to it's overall role in the development of the farm. I hope that you enjoy it.*
+
+---
 
 Ah, dear reader, you’ve returned for yet another tale of my astounding intellect and razor-sharp wit. You have good taste, I’ll give you that. Today, I shall recount an adventure that not only tested my patience but also my ability to tolerate a certain sticky-pawed nuisance: Rufus the raccoon. Yes, the same Rufus who seems to be a magnet for trouble. Against my better judgment, he plays a key role in this story. Together, we unraveled a mystery that had the entire farm in an uproar. This is the story of *The Great Biscuit Bandit*.
 
