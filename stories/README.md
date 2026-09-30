@@ -21,7 +21,7 @@ If you're returning, the full index is below.
 | # | Collection | Theme | Status |
 |---|-----------|-------|--------|
 | 01 | [The Jingle-Jangle Farm](collection_01_jingle_jangle_farm/README.md) | The Architecture of Belonging | ✅ Complete |
-| 02 | [Symphony of the soil]() | — | ✅ Complete  |
+| 02 | [Symphony of the soil]() | What you build inside the belonging | ✅ Complete  |
 | 03 | [The Unfenced Frontier]() | — | ✅ Complete |
 | 04 | *(Reserved)* | — | Planned |
 | 05 | *(Reserved)* | — | Planned |
