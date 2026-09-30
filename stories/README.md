@@ -21,7 +21,7 @@ If you're returning, the full index is below.
 | # | Collection | Theme | Status |
 |---|-----------|-------|--------|
 | 01 | [The Jingle-Jangle Farm](collection_01_jingle_jangle_farm/README.md) | The Architecture of Belonging | ✅ Complete |
-| 02 | [Symphony of the soil]() | What you build inside the belonging | ✅ Complete  |
+| 02 | [Symphony of the soil](stories/collection_02_symphony_of_the_soil/README.md) | What you build inside the belonging | ✅ Complete  |
 | 03 | [The Unfenced Frontier](stories/collection_03_the_unfenced_frontier/README.md) | Edges as thresholds | ✅ Complete |
 | 04 | *(Reserved)* | — | Planned |
 | 05 | *(Reserved)* | — | Planned |
