@@ -21,8 +21,8 @@ If you're returning, the full index is below.
 | # | Collection | Theme | Status |
 |---|-----------|-------|--------|
 | 01 | [The Jingle-Jangle Farm](collection_01_jingle_jangle_farm/README.md) | The Architecture of Belonging | ✅ Complete |
-| 02 | *(Reserved)* | — | Planned |
-| 03 | *(Reserved)* | — | Planned |
+| 02 | [Symphony of the soil]() | — | ✅ Complete  |
+| 03 | [The Unfenced Frontier]() | — | ✅ Complete |
 | 04 | *(Reserved)* | — | Planned |
 | 05 | *(Reserved)* | — | Planned |
 | 06 | *(Reserved)* | — | Planned |
@@ -48,7 +48,7 @@ If you're returning, the full index is below.
 | 26 | *(Reserved)* | — | Planned |
 | 27 | *(Reserved)* | — | Planned |
 | 28 | *(Reserved)* | — | Planned |
-| 29 | *(Reserved)* | — | Planned |
+| 29 |  [Tales by firefly]() | — | ✅ Active |
 
 *(This table will be updated as each collection is added to the repository.)*
 
