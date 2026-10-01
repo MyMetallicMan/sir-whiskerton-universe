@@ -12,10 +12,10 @@ tags:
   - science
   - chaos
   - culinary-adventure
-  -rubber-ducks
-  -gentle-humor
-  -jazzpurr
-  -gnomeo
+  - rubber-ducks
+  - gentle-humor
+  - jazzpurr
+  - gnomeo
 characters:
   - "Sir Whiskerton"
   - "Chef Chloe"
