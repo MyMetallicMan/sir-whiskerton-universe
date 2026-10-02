@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Junkyard Romance"
+previous_id: "2C189"
+collection: "collection_02_the_symphony_of_the_soil"
+volume: "volume_2c_from_the_rubble_of_intention"
+sequence_id: "2c189"
+slug: "sir-whiskerton-and-the-junkyard-romance"
+status: "complete"
+date_created: "2024-02-15"
+date_updated: "2026-10-02"
+tags: ["recognition", "solitude", "junkyard", "farmer", "martha", "gentle-humor", "philosophy", "belonging", "quiet-understanding", "treaty", "madness", "love"]
+characters: ["Sir Whiskerton", "The Farmer", "Martha", "Doris the Hen", "Prudence", "Harriet the Hen", "Lillian the Hen", "Ditto the Kitten"]
+location: ["Disneyland of Debris", "Junkyard Clearing", "Gutted Piano", "Broken Armchair", "Farm Perimeter"]
+artifacts: ["Rusted Ice Skate", "Cracked Terracotta Chimney", "Forget-Me-Not Clock Face", "Named Garden Tools", "Sourdough Starter", "Strawberries", "Cream"]
+canon_themes: ["belonging-without-earning", "calm-persistence", "absurd-is-sacred", "recognition", "solitude", "gentle-connection"]
+content_type: "narrative"
+summary: "The Farmer and Martha meet in the Disneyland of Debris, bonding over their shared quirks and quiet conversations with inanimate objects. Sir Whiskerton observes their mutual recognition, framing it not as romance but as a treaty of understanding, proving that love is finding someone whose unique madness dovetails with your own."
+---
+
 # Sir Whiskerton and the Junkyard Romance
 
 *A Tale of Rust, Restlessness, and a Gentle Meeting of the Mad*
