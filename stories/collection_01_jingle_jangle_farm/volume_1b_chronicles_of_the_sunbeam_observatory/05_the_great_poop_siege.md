@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Great Poop Siege"
+previous_id: "214"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c214"
+slug: "the-great-poop-siege"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["siege", "conflict", "diplomacy", "bigcat", "catticus", "catnip", "zephyr", "gentle-humor", "strategy", "face-saving"]
+characters: ["Sir Whiskerton", "Bigcat", "General Catticus", "Catnip the Stray Cat", "Doris the Hen", "Porkchop the Pig", "Bessie the Cow", "Rufus the Dog", "Zephyr the Genie", "The Farmer", "Ditto the Kitten", "Jazzpurr"]
+location: ["Rooftop Perch", "Root Cellar", "Western Border", "Fallow Field", "Border Fence"]
+artifacts: ["Weather Vane", "Trebbuchet", "Corn-Cob Catapults", "Solar Flare Hot Sauce Jar", "Jelly Packets", "Dish Towel Flag"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "Bigcat launches a biodegradable siege on the farm using a trebuchet. Sir Whiskerton counters with asymmetric warfare, a canine olfactory shield, and a diplomatic parley brokered by Zephyr, ending the conflict with a jar of hot sauce and a lesson in saving face."
+---
+
 # Sir Whiskerton and the Great Poop Siege
 
 *A Tale of Tactical Turds and Geopolitical Grievance*
