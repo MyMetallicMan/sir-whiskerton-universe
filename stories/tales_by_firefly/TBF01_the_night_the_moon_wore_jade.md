@@ -1,3 +1,22 @@
+---
+title: "TBF01 — The Night the Moon Wore Jade"
+previous_id: "TBF01"
+collection: "tales_by_firefly"
+volume: "tales_by_firefly"
+sequence_id: "tbf01"
+slug: "the-night-the-moon-wore-jade"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["long-yi", "longwei", "jazzpurr", "moon", "secret-visit", "poetry", "beatnik", "dragon", "wordless-understanding", "distant-love", "gentle-humor", "belonging"]
+characters: ["Long Yi", "Jazzpurr the Beatnik Cat", "Longwei", "Sir Whiskerton", "Doris the Hen", "Gertrude the Goose", "Porkchop the Pig", "Chef Remy LeRaccoon", "Dr. Notorious"]
+location: ["Farmland Perimeter", "Chicken Coop", "Pigsty", "Tool Shed", "Woodpile", "Jade Cloud Range"]
+artifacts: ["Bongo Drum", "Beret", "Handwritten Poem", "Vibrating Green Jelly", "Floral Scarf", "Full Moon"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "distant-love", "secret-guardianship"]
+content_type: "narrative"
+summary: "Long Yi secretly visits her brother Longwei on the farm under a full moon. Jazzpurr witnesses the quiet reunion and writes a poem about it, teaching the farm that some truths are real even when unspoken, and that love needs no witness to be true."
+---
+
 # TBF01 — The Night the Moon Wore Jade
 
 *A Sir Whiskerton Story*
