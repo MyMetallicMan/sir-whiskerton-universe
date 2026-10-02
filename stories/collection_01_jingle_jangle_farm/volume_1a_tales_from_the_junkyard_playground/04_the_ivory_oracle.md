@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Ivory Oracle"
+previous_id: "110"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c110"
+slug: "the-ivory-oracle"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["mahjong", "prophecy", "logic", "percy", "ditto", "philosophy", "gentle-humor", "destiny", "compassion", "belonging"]
+characters: ["Sir Whiskerton", "Percy the Albino Porcupine", "Ditto the Kitten", "Doris the Hen", "Bessie the Cow", "Porkchop the Pig", "Beatrice", "The Farmer", "Rufus the Dog", "Wilma the Goose"]
+location: ["Great Oak Tree", "Barn Roof", "Lavender Border", "Pumpkin Patch", "Porch Roof"]
+artifacts: ["144 Mahjong Tiles", "Faded Velvet Cloth", "Bowler Hat", "Doris's Russet Egg", "Mood Ring", "Loose Boot Lace", "Thyme Blossoms"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "Percy the Porcupine arrives as a mahjong-playing oracle, predicting the farm's future with mathematical precision. Sir Whiskerton challenges his certainty with a game that introduces Ditto as the 'wild tile,' teaching Percy that compassion and unpredictability are the most powerful forces on the farm."
+---
+
 # Sir Whiskerton and the Ivory Oracle
 
 *A Tale of Tiles, Trajectories, and Trust*
