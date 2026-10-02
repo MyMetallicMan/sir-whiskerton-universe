@@ -1,3 +1,44 @@
+---
+title: "Sir Whiskerton and the Cartography of Quiet Hearts"
+previous_id: "2B184"
+collection: "collection_02_the_unfenced_frontier"
+volume: "volume_2b_diplomacies_of_the_heart_and_hearth"
+sequence_id: "2b184"
+slug: "sir-whiskerton-and-the-cartography-of-quiet-hearts"
+status: "complete"
+date_created: "2024-06-12"
+date_updated: "2026-10-01"
+tags:
+  - love
+  - quiet-connection
+  - vulnerability
+  - gentle-humor
+  - angus
+  - lucile
+characters:
+  - "Angus the Armadillo"
+  - "Lucile the Parakeet"
+  - "Sir Whiskerton"
+  - "Bessie"
+  - "Doris"
+  - "Porkchop"
+location:
+  - "Farm Edges"
+  - "Horse Trough"
+  - "Fence Line"
+  - "Porch"
+artifacts:
+  - "Dandelion Seed Head"
+  - "Frozen Spiderweb"
+  - "Repurposed Feed Bag Map"
+canon_themes:
+  - "belonging-without-earning"
+  - "calm-persistence"
+  - "shared-vulnerability"
+content_type: "narrative"
+summary: "Angus the Armadillo returns to the farm only to emotionally flee, mapping imaginary continents to avoid connection. Lucile the Parakeet follows him not to catch him, but to witness him, leaving subtle traces of her presence. When a frozen spiderweb halts Angus's flight, the two finally stop running and begin to co-author a map of their shared world."
+---
+
 # Sir Whiskerton and the Cartography of Quiet Hearts
 
 *A Tale of Armor, Attention, and the Space Between Desks*
