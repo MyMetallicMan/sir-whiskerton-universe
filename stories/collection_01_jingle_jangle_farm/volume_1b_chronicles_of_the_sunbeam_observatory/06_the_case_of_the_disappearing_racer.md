@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Case of the Disappearing Racer"
+previous_id: "275"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c275"
+slug: "the-case-of-the-disappearing-racer"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["hustle", "sales", "cockroach", "pickle", "mr-ducky", "sir-whiskerton", "community", "joy", "gentle-humor", "value"]
+characters: ["Sir Whiskerton", "Mr. Ducky", "Mr. Golden", "Mr. Pickleworth", "Turbo Tim", "Doris the Hen", "Gertrude the Goose", "Porkchop the Pig", "Ferdinand the Duck", "Catnip the Stray Cat", "Martha", "Harriet the Hen"]
+location: ["Barnyard", "Roof", "Pickle Barrel", "Dirt Track", "Barn Door"]
+artifacts: ["Velvet Carrying Case", "Satin Pillow", "Painted Brass Horseshoe", "Corn Kernels", "Lacquered Pickle Trophy", "Hand-Painted Sign"]
+canon_themes: ["joy-as-resistance", "calm-persistence", "absurd-is-sacred", "belonging-without-earning"]
+content_type: "narrative"
+summary: "Mr. Ducky's high-stakes cockroach race vanishes, plunging the farm into speculative chaos. Instead of admitting defeat, he pivots to racing a pickle. Sir Whiskerton reveals that the true product was never the bug, but the shared moment of anticipation, teaching the farm that joy and community are the real currencies of value."
+---
+
 # Sir Whiskerton and the Case of the Disappearing Racer
 
 *A Tale of Speculation, Reality, and the Price of a Dream*
