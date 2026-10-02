@@ -1,4 +1,46 @@
-# Disco Dazzle and Zephyr's Cosmic Dance Card
+---
+title: "Disco Dazzle and Zephyr’s Cosmic Dance Card"
+previous_id: "2B001"
+collection: "collection_02_the_unfenced_frontier"
+volume: "volume_2b_diplomacies_of_the_heart_and_hearth"
+sequence_id: "2b001"
+slug: "disco-dazzle-and-zephyrs-cosmic-dance-card"
+status: "complete"
+date_created: "2024-06-01"
+date_updated: "2026-10-01"
+tags:
+  - dance
+  - magic
+  - letting-go
+  - gentle-humor
+  - ditto
+  - disco-dazzle
+  - zephyr
+characters:
+  - "Disco Dazzle"
+  - "Zephyr"
+  - "Ditto"
+  - "Doris"
+  - "Bessie"
+  - "Rufus"
+  - "Sir Whiskerton"
+  - "The Scarecrow"
+location:
+  - "Barnyard"
+  - "Lava Lamp"
+artifacts:
+  - "Platform Shoes"
+  - "Stay Shining Chain"
+  - "Lava Lamp"
+canon_themes:
+  - "belonging-without-earning"
+  - "joy-as-resistance"
+  - "shared-vulnerability"
+content_type: "narrative"
+summary: "When Disco Dazzle and Zephyr decide the farm is too heavy to feel its own beat, Zephyr grants a wish that lifts the barnyard into zero gravity. Through a chaotic, floating moonwalk, Ditto learns that belonging isn't about standing still, but about trusting the rhythm of the universe."
+---
+
+# Disco Dazzle and Zephyr’s Cosmic Dance Card
 
 *A Tale of Floating Floors, Funk, and Letting Go*
 
