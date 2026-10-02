@@ -1,4 +1,23 @@
-# Sir Whiskerton and the Great Barn Door Standoff: A Tale of Thresholds, Tenacity, and the Transfer of Power (3B004)
+---
+title: "Sir Whiskerton and the Great Barn Door Standoff"
+previous_id: "3B004"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3b_where_the_compass_spins"
+sequence_id: "3b004"
+slug: "the-great-barn-door-standoff"
+status: "complete"
+date_created: "2024-04-10"
+date_updated: "2026-10-02"
+tags: ["persistence", "negotiation", "boundaries", "ditto", "farmer", "tenacity", "gentle-humor", "philosophy", "belonging", "door", "psychological-siege"]
+characters: ["Sir Whiskerton", "Ditto the Kitten", "The Farmer", "Zephyr the Genie"]
+location: ["Barn Door", "Barn Interior", "Tool Shed", "Farmyard"]
+artifacts: ["Red Barn Door", "Latch Mechanism", "Wrench", "Scratch-Proof Enchanted Door", "Paw-Shaped Doorbell", "Hand-Lettered Sign"]
+canon_themes: ["calm-persistence", "absurd-is-sacred", "joy-as-resistance", "belonging-without-earning"]
+content_type: "narrative"
+summary: "Sir Whiskerton teaches Ditto the art of persistent negotiation by staging a psychological siege against the Farmer's closed barn door. Through strategic sighs and unwavering presence, they force a treaty that leaves the door permanently ajar, proving that quiet tenacity outlasts brute force."
+---
+
+# Sir Whiskerton and the Great Barn Door Standoff
 
 Ah, dear reader. Today's tale is not about a door. It is about a protocol. It is the story of an unspoken contract—the one that governs who may pass, who may command, and who must yield—and what happens when one party decides to renegotiate the terms, not with words, but with persistence. Prepare yourself for a masterclass in applied philosophy, where a paw on wood is not a request, but a metaphysical inquiry, and every sigh is a shift in the tectonic plates of domestic power. It is a lesson in how the smallest wills, applied with enough cumulative pressure, can reshape the structure of realities.
 
