@@ -1,3 +1,22 @@
+---
+title: "The Red Armband Revolution"
+previous_id: "114"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c114"
+slug: "the-red-armband-revolution"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["revolution", "manifesto", "quack-feng", "jazzpurr", "nap", "community", "solidarity", "gentle-humor", "rhythm"]
+characters: ["Comrade Quack Feng", "Sir Whiskerton", "Jazzpurr the Beatnik Cat", "Doris the Hen", "The Valley Chicks", "Bessie the Cow", "The Sheep", "Porkchop the Pig", "Percy the Porcupine", "The Farmer"]
+location: ["Barn Door", "Feed Shed Steps", "Sunbeam", "Soft Spot"]
+artifacts: ["Red Armband", "Manifesto", "Clipboard", "Solidarity Slumber Proposal", "Mahjong-Tile Almanac"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "Quack Feng hangs a strict manifesto demanding farm efficiency, but the animals' organic nature resists. Guided by Jazzpurr's smooth wisdom and Sir Whiskerton's quiet correction, Quack Feng pivots to a voluntary 'Solidarity Slumber,' learning that community is woven through shared rhythms, not top-down blueprints."
+---
+
 # The Red Armband Revolution
 
 *A Tale of Dreams, Ducks, and the Dignity of a Shared Nap*
