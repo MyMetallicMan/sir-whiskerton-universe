@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Great Dairy Heist"
+previous_id: "120"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c120"
+slug: "the-great-dairy-heist"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["dairy", "heist", "squirrels", "doris", "community", "diplomacy", "need", "gentle-humor", "sir-whiskerton", "belonging"]
+characters: ["Sir Whiskerton", "Nutters the Squirrel", "Doris the Hen", "Ratso the Rat", "Cecil & Chester", "The Valley Chicks", "Mr. Ducky", "Lucifer the Chipmunk", "The Farmer", "Beatrice", "Kuazihua", "Dot", "Tuntun", "Sha Lizi", "Mortimer the Mouse", "Rufus", "Bingo"]
+location: ["Old Oak Roots", "Chicken Coop Annex", "Barn Roof", "Milking Station", "Henhouse Roof"]
+artifacts: ["Milk Pail", "Blueprints in Dirt", "Decorative Cocktail Swords", "Neon Jukebox", "Coat-Hanger Lance", "Honey-Sweetened Clotted Cream"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "A desperate squirrel gang attempts to steal milk to feed their family, triggering a chaotic disco joust led by Doris the Hen. Sir Whiskerton intervenes, uncovers the root need, and brokers a treaty that turns desperation into community, proving the farm's strength lies in building bridges, not walls."
+---
+
 # Sir Whiskerton and the Great Dairy Heist
 
 *A Tale of Desperation, Dignity, and the Quest for a Decent Breakfast*
