@@ -1,4 +1,46 @@
-# Sir Whiskerton and Ferdinand's Fowl Fortune Teller
+---
+title: "Sir Whiskerton and Ferdinand’s Fowl Fortune Teller"
+previous_id: "2B192"
+collection: "collection_04_where_the_river_meets_the_sky"
+volume: "volume_4b_the_adventure_where_we_belong"
+sequence_id: "4b192"
+slug: "sir-whiskerton-and-ferdinands-fowl-fortune-teller"
+status: "complete"
+date_created: "2024-08-25"
+date_updated: "2026-10-01"
+tags:
+  - art
+  - destiny
+  - music
+  - gentle-humor
+  - ferdinand
+  - sir-whiskerton
+characters:
+  - "Ferdinand the Duck"
+  - "Sir Whiskerton"
+  - "Rufus"
+  - "Porkchop"
+  - "Bessie"
+  - "Doris"
+location:
+  - "The Pond"
+  - "Fortune Teller Booth"
+  - "Barnyard"
+artifacts:
+  - "Glass Bell Jar"
+  - "Sinking Feather"
+  - "Velvet Drape"
+  - "Saxophone"
+canon_themes:
+  - "belonging-without-earning"
+  - "calm-persistence"
+  - "joy-as-resistance"
+  - "the-beauty-of-the-present"
+content_type: "narrative"
+summary: "Suffering from a creative malaise brought on by the farm's relentless contentment, Ferdinand the Duck opens a fortune-telling booth to inject narrative tension into their lives. When his prophecies fail to capture the pure, unscripted joy of his friends, Sir Whiskerton guides him to realize that the true art isn't composing the future, but accompanying the present."
+---
+
+# Sir Whiskerton and Ferdinand’s Fowl Fortune Teller
 
 *A Tale of Ambiguity, Art, and the Anatomy of a Quack*
 
