@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Snotty Surprise"
+previous_id: "106"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c106"
+slug: "the-snotty-surprise"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["hygiene", "community", "sickness", "compassion", "doris", "porkchop", "ditto", "chef-remy", "gentle-humor", "healing", "belonging"]
+characters: ["Sir Whiskerton", "Doris the Hen", "Porkchop the Pig", "Ditto the Kitten", "Wilma the Goose", "Chef Remy LeRaccoon", "Beatrice", "The Farmer", "Bessie the Cow"]
+location: ["Barn Roof", "Barn Door", "Pond", "Woodpile", "Old Oak Tree"]
+artifacts: ["The Specimen (Barn-Door Snot)", "Burlap Feed Sack (Hazmat Suit)", "Vinegar Spray", "Thermos Lid", "Eucalyptus/Lavender Poultice", "Honeycomb", "Snot-Based Glue™ Jar", "Shovel"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "A massive snot specimen appears on the barn door, triggering farm-wide panic and quarantine. Sir Whiskerton and Beatrice lead a shift from fear to compassion, healing Wilma the Goose's isolation. Chef Remy invents Snot-Based Glue™, proving that true community holds together even the messiest moments."
+---
+
 # Sir Whiskerton and the Snotty Surprise
 
 *A Tale of Separation, Sympathy, and the Glue That Binds Us*
