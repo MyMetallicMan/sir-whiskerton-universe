@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Scale-Tingling Mystery of Longwei's Rumble"
+previous_id: "3C395"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3c_where_the_wild_things_are_known"
+sequence_id: "3c395"
+slug: "the-scale-tingling-mystery-of-longweis-rumble"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["purrs", "longwei", "self-acceptance", "bandit", "pumpkin", "remote-control", "gentle-humor", "dragon", "belonging", "identity", "volume-control"]
+characters: ["Sir Whiskerton", "Longwei the Dragon", "Dragon Auntie", "Bandit the Raccoon", "Daffy the Duck", "Catnip", "The Farmer"]
+location: ["Hay Bales", "Pumpkin Patch", "Disneyland of Debris", "Compost Heap", "County Fair", "Barn Roof"]
+artifacts: ["Broken TV Remote", "Oversized Pumpkin", "Rhythmic Purr", "Fireproof Scarf", "Second-Place Ribbon"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "self-acceptance"]
+content_type: "narrative"
+summary: "Longwei's majestic dragon purr causes seismic tremors, rolling pumpkins, and panicked animals. Sir Whiskerton teaches him that his geological purr isn't a flaw, but a sign of a gentle heart, proving that being powerful and snuggly is the ultimate form of self-acceptance."
+---
+
 # Sir Whiskerton and the Scale-Tingling Mystery of Longwei's Rumble
 
 *Was 3C395*
