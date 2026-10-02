@@ -1,3 +1,22 @@
+---
+title: "The Great Asparagus Catastrophe"
+previous_id: "2C185"
+collection: "collection_02_the_symphony_of_the_soil"
+volume: "volume_2c_from_the_rubble_of_intention"
+sequence_id: "2c185"
+slug: "the-great-asparagus-catastrophe"
+status: "complete"
+date_created: "2024-02-25"
+date_updated: "2026-10-02"
+tags: ["asparagus", "sentience", "jazzpurr", "moles", "music", "identity", "gentle-humor", "philosophy", "belonging", "awakening", "roots", "rhythm", "harmony"]
+characters: ["Sir Whiskerton", "The First Speaker of the Asparagus", "Jazzpurr the Beatnik Cat", "Thelonious the Mole", "Groove the Mole", "Doris the Hen", "Ditto the Kitten", "The Farmer"]
+location: ["Garden Patch", "Compost Heap", "Subterranean Hole", "Burdock Leaf Treaty", "Sunbeam Observatory"]
+artifacts: ["Dandelion Crown", "Bongo Drum", "Burdock Leaf Treaty", "Birch Bark Haikus", "Root-Tap Code"]
+canon_themes: ["absurd-is-sacred", "joy-as-resistance", "calm-persistence", "belonging-without-earning", "harmony"]
+content_type: "narrative"
+summary: "Sentient asparagus rebels against harvest, clashing with musical moles underground. Jazzpurr uses bongos to bridge the surface and subterranean worlds, teaching the farm that community is an improvisational composition where every being finds its rhythm."
+---
+
 # The Great Asparagus Catastrophe
 
 *A Tale of Identity, Echoes, and the Unquiet Soil*
