@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Case of the Misplaced Meow"
+previous_id: "3C83"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3c_where_the_wild_things_are_known"
+sequence_id: "3c083"
+slug: "the-case-of-the-misplaced-meow"
+status: "complete"
+date_created: "2024-01-20"
+date_updated: "2026-10-02"
+tags: ["silence", "voice", "ditto", "zephyr", "identity", "tony-the-bear", "count-catula", "porkchop", "gentle-humor", "selfhood", "communication", "belonging"]
+characters: ["Sir Whiskerton", "Ditto the Kitten", "Zephyr the Genie", "Porkchop the Pig", "Count Catula", "Tony the Dancing Bear", "Bessie the Cow", "Ratso the Rat", "Chef Remy LeRaccoon", "Slow Bob the Turtle", "Doris the Hen", "Harriet the Hen", "Rufus the Dog"]
+location: ["Fencepost", "Barn", "Porch", "Lava Lamp", "Barn Loft", "Pond", "Nighttime Symphony"]
+artifacts: ["Monocle", "Tail Semaphore Diagrams", "Experimental Voice-Restoring Pickles", "Moonlit Melon", "Scout Badge", "Tiny Ukulele"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "self-acceptance", "communication"]
+content_type: "narrative"
+summary: "When Zephyr's magical sneeze accidentally steals Sir Whiskerton's voice, the farm must learn to communicate without his commanding meow. Through silent mime, interpretive dance, and a kitten's accidental echo, Whiskerton learns that true presence resonates deeper than sound, and his voice returns not through magic, but through love and recognition."
+---
+
 # Sir Whiskerton and the Case of the Misplaced Meow
 
 *Was 3C83*
