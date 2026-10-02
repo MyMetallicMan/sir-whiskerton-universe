@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Great Yawnpocalypse"
+previous_id: "3C65"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3c_where_the_wild_things_are_known"
+sequence_id: "3c065"
+slug: "the-great-yawnpocalypse"
+status: "complete"
+date_created: "2024-04-15"
+date_updated: "2026-10-02"
+tags: ["yawn", "sleep", "exhaustion", "consciousness", "porkchop", "ditto", "sir-whiskerton", "lullaby", "gentle-humor", "belonging", "rest", "awakening"]
+characters: ["Sir Whiskerton", "Porkchop the Pig", "Ditto the Kitten", "Steve the Scarecrow", "Doris the Hen", "Harriet the Hen", "Rufus the Dog", "The Farmer", "Bessie the Cow", "Zephyr the Genie", "Chef Remy LeRaccoon", "Ferdinand the Duck"]
+location: ["Breakfast Table", "Henhouse", "Barnyard", "Porch", "Lavender Patch", "Rafters", "Windmill", "Pond"]
+artifacts: ["Unsleepable Soup", "Torn Sheet Music", "Farmer's Hat", "Rose-Tinted Glasses", "Mood Ring", "Apple Seedling", "Remy's Natural Anesthetic™", "Hairball"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "rest-and-renewal"]
+content_type: "narrative"
+summary: "Porkchop's profound yawn triggers a farm-wide Yawnpocalypse, putting everyone to sleep through a subsonic lullaby trapped in the windmill. Sir Whiskerton, kept awake by Unsleepable Soup, breaks the spell with a perfectly aimed hairball, teaching the farm that rest is an invitation, and someone must always stay awake to tend the fire of consciousness."
+---
+
 # Sir Whiskerton and the Great Yawnpocalypse
 
 *Was 3C65*
