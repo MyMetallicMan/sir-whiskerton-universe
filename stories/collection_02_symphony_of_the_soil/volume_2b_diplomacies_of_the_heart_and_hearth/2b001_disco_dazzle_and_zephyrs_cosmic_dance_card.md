@@ -1,7 +1,7 @@
 ---
 title: "Disco Dazzle and Zephyr’s Cosmic Dance Card"
 previous_id: "2B001"
-collection: "collection_02_the_unfenced_frontier"
+collection: "collection_02_symphony_of_the_soil"
 volume: "volume_2b_diplomacies_of_the_heart_and_hearth"
 sequence_id: "2b001"
 slug: "disco-dazzle-and-zephyrs-cosmic-dance-card"
