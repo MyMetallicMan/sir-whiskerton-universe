@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Haunted Haystack Hoedown"
+previous_id: "3B59"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3b_where_the_compass_spins"
+sequence_id: "3b059"
+slug: "the-haunted-haystack-hoedown"
+status: "complete"
+date_created: "2024-04-01"
+date_updated: "2026-10-02"
+tags: ["sound", "rhythm", "tango-trio", "perception", "haystack", "misinterpretation", "gentle-humor", "community", "dance", "philosophy", "belonging"]
+characters: ["Sir Whiskerton", "Tito Tango", "Paco Cha-Cha", "Carlos Conga", "Echo the Sheep", "Jazzpurr", "Bessie the Cow", "Rufus the Dog", "Doris the Hen", "Porkchop the Pig"]
+location: ["Western Haystack", "Farmyard", "Disneyland of Debris"]
+artifacts: ["Tango Trio's Canes", "Plastic Rose", "Leaky Tractor Tire", "Glow-in-the-Dark Paint", "Mood Ring"]
+canon_themes: ["absurd-is-sacred", "joy-as-resistance", "calm-persistence", "perception", "community"]
+content_type: "narrative"
+summary: "The Tango Trio mistakes a sheep's digestive noises and a leaky tire for a haunting, turning the haystack into a stage for a farm-wide hoedown. Sir Whiskerton observes how shared belief creates community, proving that sometimes the best explanation is the one that brings everyone together to dance."
+---
+
 # Sir Whiskerton and the Haunted Haystack Hoedown
 
 *A Tale of Sonic Perception and the Spectral Present*
