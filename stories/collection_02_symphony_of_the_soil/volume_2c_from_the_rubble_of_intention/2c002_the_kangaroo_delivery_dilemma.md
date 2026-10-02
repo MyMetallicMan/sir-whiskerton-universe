@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Kangaroo Delivery Dilemma"
+previous_id: "2C184"
+collection: "collection_02_the_symphony_of_the_soil"
+volume: "volume_2c_from_the_rubble_of_intention"
+sequence_id: "2c184"
+slug: "sir-whiskerton-and-the-kangaroo-delivery-dilemma"
+status: "complete"
+date_created: "2024-03-01"
+date_updated: "2026-10-02"
+tags: ["delivery", "kangaroo", "wigglesworth", "joey", "ratso", "story-vs-fact", "interpretation", "community", "gentle-humor", "philosophy", "belonging", "narrative-causality"]
+characters: ["Sir Whiskerton", "Mr. Horatio J. Wigglesworth", "Joey the Kangaroo", "Ratso", "Bartholomew the Piñata", "Chester", "Chef Remy LeRaccoon", "Ferdinand the Duck", "King Nutters", "Bandit", "Porkchop", "Doris the Hen"]
+location: ["Farmyard", "Strategic Command Mound", "Neighboring Field", "Creek", "Fortress Nuttica", "Barn"]
+artifacts: ["Hay Bales", "Feed Sacks", "Bartholomew's Stick", "Soap-Carved Jade Seal", "Joey's Pouch", "Rope Knot"]
+canon_themes: ["absurd-is-sacred", "joy-as-resistance", "calm-persistence", "belonging-without-earning", "storytelling"]
+content_type: "narrative"
+summary: "Wigglesworth's kangaroo delivery hypothesis causes supply chaos. Whiskerton and Ratso retrieve the scattered items while Wigglesworth narrates the disaster as field research. The farm learns that stories and facts are dual engines of community, turning failure into shared legend."
+---
+
 # Sir Whiskerton and the Kangaroo Delivery Dilemma
 
 *A Tale of Observed Hops, Theatrical Truths, and the Geography of Belonging*
