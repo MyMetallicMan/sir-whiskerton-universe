@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Wormhole Whisperer"
+previous_id: "3A60"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3a_the_wild_curriculum"
+sequence_id: "3a060"
+slug: "the-wormhole-whisperer"
+status: "complete"
+date_created: "2024-05-20"
+date_updated: "2026-10-02"
+tags: ["bureaucracy", "chaos", "barry-the-beaver", "quilltail", "zephyr", "audit", "regulation", "gentle-humor", "philosophy", "belonging", "creativity", "control"]
+characters: ["Sir Whiskerton", "Barry the Beaver", "Reginald P. Quilltail", "Zephyr the Genie", "Doris the Hen", "Porkchop the Pig", "Bessie the Cow", "Jazzpurr", "The Farmer", "Rufus the Dog"]
+location: ["Barry's Dam", "Creek", "Barnyard", "B.B.I.O. Audit Zone"]
+artifacts: ["Dowsing Twig", "B.B.I.O. Clipboards", "Floating Tags", "Retroactive Aesthetic Variance Waiver", "Official Stamp"]
+canon_themes: ["absurd-is-sacred", "joy-as-resistance", "calm-persistence", "creativity-vs-control"]
+content_type: "narrative"
+summary: "Barry the Beaver accidentally opens a cosmic breach, summoning a hyper-bureaucratic delegation to audit the farm's natural chaos. Sir Whiskerton leads a counter-audit through art and music, proving that life's beauty defies regulation, and Zephyr provides a loophole to dismiss the case."
+---
+
 # Sir Whiskerton and the Wormhole Whisperer
 
 *A Tale of Chaos, Control, and the Quill-Tailed Order*
