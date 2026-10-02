@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Case of the Consciousness Conundrum"
+previous_id: "2C190"
+collection: "collection_02_the_symphony_of_the_soil"
+volume: "volume_2c_from_the_rubble_of_intention"
+sequence_id: "2c190"
+slug: "the-case-of-the-consciousness-conundrum"
+status: "complete"
+date_created: "2024-01-20"
+date_updated: "2026-10-02"
+tags: ["consciousness", "identity", "chef-remy", "bessie", "cluckadia", "soul", "transformation", "gentle-humor", "philosophy", "belonging", "sanctity-of-self"]
+characters: ["Sir Whiskerton", "Chef Remy LeRaccoon", "Cluckadia", "Bessie the Cow", "Squeakers", "Ratticus", "Doris the Hen", "Harriet the Hen", "Porkchop the Pig", "Rufus the Dog"]
+location: ["Barn Roof", "Gourmet & Existential Physics Laboratory", "The Chill Zone", "Sunbeam", "Farmyard"]
+artifacts: ["Cognito-Transference Array", "Copper Basins", "Seed Catalogs", "Hay Bales", "Emotionally Resonant Pastries", "Mood Ring"]
+canon_themes: ["belonging-without-earning", "calm-persistence", "absurd-is-sacred", "identity", "sanctity-of-self"]
+content_type: "narrative"
+summary: "Chef Remy swaps the consciousnesses of Cluckadia and Bessie to explore empathy, only to trigger a crisis of identity. Sir Whiskerton and the farm must guard their displaced souls until Remy's penance restores them, proving that the soul is not a liquid to be poured, but a root system that withers for home."
+---
+
 # Sir Whiskerton and the Case of the Consciousness Conundrum
 
 *A Tale of Souls Unmoored and the Homesick Mind*
