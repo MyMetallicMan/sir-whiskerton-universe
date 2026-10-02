@@ -1,7 +1,7 @@
 ---
 title: "Sir Whiskerton and the Cartography of Quiet Hearts"
 previous_id: "2B184"
-collection: "collection_02_the_unfenced_frontier"
+collection: "collection_02_symphony_of_the_soil"
 volume: "volume_2b_diplomacies_of_the_heart_and_hearth"
 sequence_id: "2b184"
 slug: "sir-whiskerton-and-the-cartography-of-quiet-hearts"
