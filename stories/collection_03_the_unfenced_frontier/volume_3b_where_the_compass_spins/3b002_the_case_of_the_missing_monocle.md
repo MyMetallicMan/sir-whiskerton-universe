@@ -1,4 +1,23 @@
-# Sir Whiskerton and the Case of the Missing Monocle: A Tale of Vision, Vanity, and the Light That Binds (3B002)
+---
+title: "Sir Whiskerton and the Case of the Missing Monocle"
+previous_id: "3B002"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3b_where_the_compass_spins"
+sequence_id: "3b002"
+slug: "the-case-of-the-missing-monocle"
+status: "complete"
+date_created: "2024-04-15"
+date_updated: "2026-10-02"
+tags: ["monocle", "genghis", "perspective", "blindness", "vanity", "bartholomew", "vision", "gentle-humor", "philosophy", "belonging", "lens"]
+characters: ["Sir Whiskerton", "Genghis", "Lester", "Clyde", "Loomis", "Bartholomew the Piñata", "Porkchop the Pig", "Sedgwick", "Doris the Hen", "Ditto the Kitten"]
+location: ["Barn Knuthole", "The Treasury (Vault)", "East Wall", "Farmyard"]
+artifacts: ["Gold-Rimmed Monocle", "Silken Thread", "Receipt", "Dried Fish Treats", "Gold Chain"]
+canon_themes: ["absurd-is-sacred", "joy-as-resistance", "calm-persistence", "belonging-without-earning"]
+content_type: "narrative"
+summary: "Whiskerton loses his monocle to Genghis, who uses it to assert power and hierarchy from a barn knothole. Guided by Bartholomew's wisdom, Whiskerton recovers the lens, teaching that vision is a practice, not a possession, and that focusing too tightly on oneself blinds one to the whole ecosystem."
+---
+
+# Sir Whiskerton and the Case of the Missing Monocle
 
 Ah, dear reader. Today's tale is not about a theft. It is about perspective. It is the story of a lens—both glass and metaphorical—and the war fought over what it means to see, and to be seen. Prepare yourself for a clash of optics, where a monocle is not a tool, but a totem: of clarity for one, of power for another, and of illusion for all who gaze through it. It is a lesson in how the thing we use to focus our sight can also blind us to everything outside its frame.
 
