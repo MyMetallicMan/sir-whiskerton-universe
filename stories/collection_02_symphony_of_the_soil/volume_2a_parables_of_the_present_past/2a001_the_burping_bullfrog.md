@@ -1,3 +1,45 @@
+---
+title: "Sir Whiskerton and the Burping Bullfrog"
+previous_id: "2A17 spore"
+collection: "collection_02_symphony_of_the_soil"
+volume: "volume_2a_parables_of_the_present_past"
+sequence_id: "2a177"
+slug: "sir-whiskerton-and-the-burping-bullfrog"
+status: "complete"
+date_created: "2024-05-12"
+date_updated: "2026-10-01"
+tags:
+  - belonging
+  - gentle-humor
+  - leonardo
+  - sir-whiskerton
+  - digestion
+characters:
+  - "Leonardo the Bullfrog"
+  - "Sir Whiskerton"
+  - "Doris the Hen"
+  - "Ferdinand the Duck"
+  - "Porkchop the Pig"
+  - "Bessie the Cow"
+  - "Beatrice"
+  - "The Valley Chicks"
+location:
+  - "The Pond"
+  - "Willow Branch"
+  - "The Farm"
+artifacts:
+  - "Crooked Red Bow Tie"
+  - "Sprig of Fresh Mint"
+  - "Morning Egg-Tally Clipboard"
+canon_themes:
+  - "belonging-without-earning"
+  - "shared-vulnerability"
+  - "calm-persistence"
+  - "joy-as-resistance"
+content_type: "narrative"
+summary: "When Leonardo the Bullfrog eats too much to prove his belonging to the pond, his embarrassing burps shake the farm. Sir Whiskerton gently guides the community to understand his spiritual indigestion, teaching them that true belonging means joining in the messy, bubbly chorus of life."
+---
+
 # Sir Whiskerton and the Burping Bullfrog
 
 *A Tale of Belonging, Bubbles, and Bellyfuls of Grace*
