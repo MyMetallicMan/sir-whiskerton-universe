@@ -1,3 +1,48 @@
+---
+title: "Sir Whiskerton and the Case of the Red Revelation"
+previous_id: "2B194"
+collection: "collection_02_the_unfenced_frontier"
+volume: "volume_2b_diplomacies_of_the_heart_and_hearth"
+sequence_id: "2b194"
+slug: "sir-whiskerton-and-the-case-of-the-red-revelation"
+status: "complete"
+date_created: "2024-06-20"
+date_updated: "2026-10-01"
+tags:
+  - revelation
+  - transformation
+  - paint
+  - gentle-humor
+  - bessie
+  - lucifer
+  - catnip
+characters:
+  - "Sir Whiskerton"
+  - "Bessie"
+  - "Lucifer"
+  - "The Farmer"
+  - "Catnip"
+  - "Doris"
+  - "Big Red"
+  - "Gertrude"
+location:
+  - "Barnyard"
+  - "Water Trough"
+  - "Fencepost"
+artifacts:
+  - "Sunset Crimson Paint"
+  - "Bucket of Soapy Water"
+  - "Soft Brush"
+  - "Mood Ring"
+canon_themes:
+  - "belonging-without-earning"
+  - "calm-persistence"
+  - "the-feminine-ideal-as-woven-basket"
+  - "joy-as-resistance"
+content_type: "narrative"
+summary: "When a can of 'Sunset Crimson' paint accidentally spills on four farm animals, it triggers a profound existential awakening. Bessie becomes a tie-dye philosopher and Lucifer a chipmunk prophet of liberation, leading the farm into a chaotic crisis of self-actualization. Ultimately, the Farmer's gentle act of washing them away reveals that true belonging isn't found in dramatic stains, but in the enduring canvas of care."
+---
+
 # Sir Whiskerton and the Case of the Red Revelation
 
 *A Tale of Transformative Paint, a Cow's Awakening, and the Politics of the Unplanned*
