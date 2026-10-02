@@ -1,3 +1,47 @@
+---
+title: "The Case of Gardener Gladys and the Gigantic Gourds"
+previous_id: "2A178"
+collection: "collection_02_symphony_of_the_soil"
+volume: "volume_2a_parables_of_the_present_past"
+sequence_id: "2a178"
+slug: "the-case-of-gardener-gladys-and-the-gigantic-gourds"
+status: "complete"
+date_created: "2024-05-12"
+date_updated: "2026-10-01"
+tags:
+  - scale
+  - gardening
+  - gentle-humor
+  - gladys
+  - sir-whiskerton
+characters:
+  - "Gardener Gladys"
+  - "Sir Whiskerton"
+  - "The Farmer"
+  - "Doris"
+  - "Porkchop"
+  - "Beatrice"
+  - "Gertrude"
+  - "Ditto"
+location:
+  - "Eastern Road"
+  - "Barnyard"
+  - "Lavender Patch"
+  - "Kitchen Garden"
+artifacts:
+  - "Big Bertha"
+  - "Titanic Tim"
+  - "Colossal Carl"
+  - "Tiny Cucumber Plant"
+canon_themes:
+  - "belonging-without-earning"
+  - "calm-persistence"
+  - "shared-vulnerability"
+  - "joy-as-resistance"
+content_type: "narrative"
+summary: "When Gardener Gladys arrives with three colossal gourds that cast long shadows over the farm's community, Sir Whiskerton gently guides her to see that true growth isn't about dominating the landscape, but finding the right scale to let others thrive in the sun."
+---
+
 # The Case of Gardener Gladys and the Gigantic Gourds
 
 *A Tale of Scale, Shade, and the Space to Grow*
