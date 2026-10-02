@@ -1,3 +1,50 @@
+---
+title: "Sir Whiskerton and the Case of the Sibling Showdown"
+previous_id: "2B193"
+collection: "collection_02_the_unfenced_frontier"
+volume: "volume_2b_diplomacies_of_the_heart_and_hearth"
+sequence_id: "2b193"
+slug: "sir-whiskerton-and-the-case-of-the-sibling-showdown"
+status: "complete"
+date_created: "2024-06-18"
+date_updated: "2026-10-01"
+tags:
+  - family
+  - inheritance
+  - grief
+  - gentle-humor
+  - sir-whiskerton
+  - cattenon
+  - catnip
+characters:
+  - "Sir Whiskerton"
+  - "Sir Cattenon"
+  - "The Father (Memory)"
+  - "Catnip"
+  - "Porkchop"
+  - "Doris"
+  - "The Valley Chicks"
+  - "The Field Mouse"
+location:
+  - "The Old Stone Wall"
+  - "Barnyard"
+  - "Mud Patch"
+  - "Henhouse"
+artifacts:
+  - "Rickety Wheelbarrow"
+  - "Moth-Eaten Velvet Cape"
+  - "Washer Monocle"
+  - "Oat-Stalk Crown"
+  - "Bagpipes (Memory)"
+canon_themes:
+  - "belonging-without-earning"
+  - "calm-persistence"
+  - "shared-vulnerability"
+  - "joy-as-resistance"
+content_type: "narrative"
+summary: "Sir Whiskerton's theatrical brother, Sir Cattenon, arrives at the farm attempting to institute a reign of 'Conspicuous Leisure.' When his grand illusions crack against the reality of farm life and the dark opportunism of Catnip, Whiskerton guides him through his grief over their father's disappearance, teaching him the difference between playing a loud solo and holding the steady, humble drone of duty."
+---
+
 # Sir Whiskerton and the Case of the Sibling Showdown
 
 *A Tale of Two Thrones, One Father, and the Bagpipes in Their Blood*
