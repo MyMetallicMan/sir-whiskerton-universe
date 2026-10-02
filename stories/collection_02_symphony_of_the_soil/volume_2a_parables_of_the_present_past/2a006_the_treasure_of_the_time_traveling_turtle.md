@@ -1,3 +1,44 @@
+---
+title: "Sir Whiskerton and the Treasure of the Time-Traveling Turtle"
+previous_id: "2A182"
+collection: "collection_02_symphony_of_the_soil"
+volume: "volume_2a_parables_of_the_present_past"
+sequence_id: "2a182"
+slug: "sir-whiskerton-and-the-treasure-of-the-time-traveling-turtle"
+status: "complete"
+date_created: "2024-05-22"
+date_updated: "2026-10-01"
+tags:
+  - patience
+  - perspective
+  - time
+  - gentle-humor
+  - slow-bob
+  - ditto
+  - sir-whiskerton
+characters:
+  - "Slow Bob the Turtle"
+  - "Sir Whiskerton"
+  - "Ditto"
+  - "Doris"
+  - "The Farmer"
+location:
+  - "Barnyard"
+  - "Clover Patch"
+  - "Memory of the Great Oak"
+artifacts:
+  - "Painted Shell"
+  - "The Golden Acorn (Memory)"
+  - "Modern Acorn"
+canon_themes:
+  - "belonging-without-earning"
+  - "calm-persistence"
+  - "the-beauty-of-the-present"
+  - "shared-vulnerability"
+content_type: "narrative"
+summary: "When a mysterious, ancient turtle named Slow Bob arrives in the clover, he offers Sir Whiskerton and Ditto a journey not through space, but through deep time. By sharing his memory of a 'Golden Acorn' from a primordial forest, Bob teaches them that the greatest treasure is not retrieving the past, but honoring the choice that allowed the present to exist."
+---
+
 # Sir Whiskerton and the Treasure of the Time-Traveling Turtle
 
 *A Tale of Patience, Perspective, and the Paint on a Shell*
