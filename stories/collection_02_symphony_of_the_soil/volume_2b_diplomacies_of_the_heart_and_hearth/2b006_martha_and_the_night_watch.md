@@ -1,3 +1,45 @@
+---
+title: "Martha and the Night Watch"
+previous_id: "2B449"
+collection: "collection_02_the_unfenced_frontier"
+volume: "volume_2b_diplomacies_of_the_heart_and_hearth"
+sequence_id: "2b449"
+slug: "martha-and-the-night-watch"
+status: "complete"
+date_created: "2024-06-15"
+date_updated: "2026-10-01"
+tags:
+  - sanctuary
+  - trust
+  - thunderstorm
+  - vulnerability
+  - martha
+  - catnip
+  - gentle-humor
+  - emotional-healing
+characters:
+  - "Martha"
+  - "Catnip"
+  - "Sir Whiskerton"
+  - "Ditto"
+location:
+  - "Farmhouse Kitchen"
+  - "Toolshed"
+  - "Porch"
+artifacts:
+  - "Lantern"
+  - "Sunday Apron"
+  - "Field Mouse"
+  - "Golden Thread Collar"
+canon_themes:
+  - "belonging-without-earning"
+  - "calm-persistence"
+  - "shared-vulnerability"
+  - "the-feminine-ideal-as-woven-basket"
+content_type: "narrative"
+summary: "When a violent thunderstorm strikes the farm, Martha finds Catnip paralyzed by terror in the toolshed. Instead of offering empty comfort, she sits with him in the dark, sharing her own fear and her heartbeat until they synchronize. A profound tale of sanctuary, trust, and the quiet mathematics of shared vulnerability."
+---
+
 # Martha and the Night Watch
 
 *A Tale of Thunder, Trembling, and the Topography of Trust*
