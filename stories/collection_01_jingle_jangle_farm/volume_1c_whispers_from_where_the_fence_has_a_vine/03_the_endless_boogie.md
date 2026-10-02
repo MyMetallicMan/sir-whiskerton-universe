@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Endless Boogie"
+previous_id: "117"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c117"
+slug: "the-endless-boogie"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["boogie", "party", "burnout", "rest", "jazzpurr", "zephyr", "sir-whiskerton", "joy", "gentle-humor", "cycles"]
+characters: ["Sir Whiskerton", "Jazzpurr the Beatnik Cat", "Zephyr the Genie", "Ditto the Kitten", "Ferdinand the Duck", "Doris the Hen", "Porkchop the Pig", "Buckley the Philosophical Goat", "The Valley Chicks", "Leonardo the Bullfrog", "Bartholomew the Piñata", "Rufus the Dog", "Lucifer the Chipmunk", "Bessie the Cow", "Mr. Ducky", "The Farmer"]
+location: ["Barn", "Hearth", "Old Oak Tree", "Barn Door"]
+artifacts: ["Disco Ball", "Lava Lamp", "Mood Ring", "Herbal Tea Pot", "Get Out of Groove Free Card", "Hand-Lettered Card"]
+canon_themes: ["joy-as-resistance", "calm-persistence", "absurd-is-sacred", "belonging-without-earning"]
+content_type: "narrative"
+summary: "Jazzpurr wishes for an endless party, plunging the farm into a 'Fun Bubble' of exhaustion. Sir Whiskerton and Mr. Ducky diagnose the crisis, leading to a collective un-wishing that restores balance, teaching the farm that joy requires rest and every song needs a final note."
+---
+
 # Sir Whiskerton and the Endless Boogie
 
 *A Tale of Beats, Burnout, and the Beauty of Quiet*
