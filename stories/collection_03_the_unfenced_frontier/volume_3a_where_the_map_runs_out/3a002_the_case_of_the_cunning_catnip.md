@@ -1,3 +1,22 @@
+---
+title: "The Case of the Cunning Catnip"
+previous_id: "3A55"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3a_the_wild_curriculum"
+sequence_id: "3a055"
+slug: "the-case-of-the-cunning-catnip"
+status: "complete"
+date_created: "2024-01-10"
+date_updated: "2026-10-02"
+tags: ["espionage", "catnip", "martha", "community", "protection", "ledger", "shadows", "gentle-humor", "philosophy", "belonging", "transaction-vs-gift"]
+characters: ["Sir Whiskerton", "Catnip", "Bonbo", "Grumbles", "Martha", "Bingo", "Sedgwick", "Doris the Hen", "Rufus the Dog", "Porkchop the Pig", "Clipboard Man"]
+location: ["Silo", "Hay Bale", "Martha's House", "Granary Roof", "Farmyard", "Wallow"]
+artifacts: ["Clipboard", "Sunbeam Audit", "Security Camera Feed", "Handkerchief", "Cream on Windowsill", "Ledger", "Assessment Notes"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "protection"]
+content_type: "narrative"
+summary: "Catnip, hiding from the ACO, initially scouts Martha's farm as a target but discovers a developer threatening it. Instead of exploiting it, he organizes the farm's natural chaos into a coordinated defense, learning that some bonds are priceless and cannot be transacted."
+---
+
 # The Case of the Cunning Catnip
 
 *A Tale of Shadows, Sil-cream, and the Ledger That Cannot Be Balanced*
