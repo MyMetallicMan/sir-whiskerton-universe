@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Great Rutabaga Ruckus"
+previous_id: "68"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c068"
+slug: "the-great-rutabaga-ruckus"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["rutabaga", "theft", "empathy", "rufus", "sir-whiskerton", "community", "justice", "gentle-humor", "belonging", "rabbits"]
+characters: ["Sir Whiskerton", "Rufus the Dog", "The Farmer", "Porkchop the Pig", "Sedgwick the Crow", "Doris the Hen", "Mother Rabbit (Doe)"]
+location: ["Autumn Garden", "The Barn", "Tool Shed", "Scarecrow Hat"]
+artifacts: ["Prize Rutabaga", "Hawaiian Shirt", "Turnips & Carrots", "Chalk Arrow", "White '6' Marking"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "The Prize Rutabaga vanishes, sparking a farm-wide crisis. Sir Whiskerton and the glowing Rufus investigate, discovering a family of rabbits stole it for shelter, not malice. Instead of punishment, the Farmer offers food and a home, turning a crime into a covenant of belonging."
+---
+
 # Sir Whiskerton and the Great Rutabaga Ruckus
 
 *From the Collection 1 archive — Story 68*
