@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Case of the Invisible Feed"
+previous_id: "272"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c272"
+slug: "the-case-of-the-invisible-feed"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["perception", "faith", "trust", "chef-remy", "porkchop", "catnip", "invisibility", "philosophy", "gentle-humor", "belonging"]
+characters: ["Sir Whiskerton", "Doris the Hen", "Harriet the Hen", "Lillian the Hen", "Chef Remy LeRaccoon", "Porkchop the Pig", "Catnip the Stray Cat", "Squeakers", "Ratticus"]
+location: ["Rooftop Observatory", "Chicken Coop", "Chef Remy's Laboratory", "Barn Shadows", "Porch Rail"]
+artifacts: ["Clarification Elixir", "Re-Manifestation Powder", "Pebble Gift", "Hawaiian Shirt", "Clipboard"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "When chicken feed becomes invisible due to Chef Remy's Clarification Elixir, panic ensues. Porkchop solves the crisis by trusting his senses over his sight, teaching the farm that faith and trust sustain us long before perception catches up."
+---
+
 # Sir Whiskerton and the Case of the Invisible Feed
 
 *A Tale of Perception, Presence, and the Things We Look Past*
