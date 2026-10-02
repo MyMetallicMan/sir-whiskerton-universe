@@ -1,7 +1,7 @@
 ---
 title: "Sir Whiskerton and the Case of the Sibling Showdown"
 previous_id: "2B193"
-collection: "collection_02_the_unfenced_frontier"
+collection: "collection_02_symphony_of_the_soil"
 volume: "volume_2b_diplomacies_of_the_heart_and_hearth"
 sequence_id: "2b193"
 slug: "sir-whiskerton-and-the-case-of-the-sibling-showdown"
