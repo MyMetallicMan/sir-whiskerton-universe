@@ -1,3 +1,46 @@
+---
+title: "Sir Whiskerton and the Case of Handy Hank and the Perplexing Plumbing"
+previous_id: "2A180"
+collection: "collection_02_symphony_of_the_soil"
+volume: "volume_2a_parables_of_the_present_past"
+sequence_id: "2a180"
+slug: "sir-whiskerton-and-the-case-of-handy-hank-and-the-perplexing-plumbing"
+status: "complete"
+date_created: "2024-05-18"
+date_updated: "2026-10-01"
+tags:
+  - vulnerability
+  - healing
+  - gentle-humor
+  - handy-hank
+  - sir-whiskerton
+  - the-farmer
+characters:
+  - "Handy Hank"
+  - "Sir Whiskerton"
+  - "The Farmer"
+  - "Doris"
+  - "Ditto"
+  - "Porkchop"
+  - "Bessie"
+  - "The Valley Chicks"
+location:
+  - "The Barn"
+  - "Watering Trough"
+  - "Main Valve"
+artifacts:
+  - "Old Persuader (Wrench)"
+  - "Cast-Iron Supply Pipe"
+  - "Main Valve"
+canon_themes:
+  - "belonging-without-earning"
+  - "calm-persistence"
+  - "shared-vulnerability"
+  - "the-feminine-ideal-as-woven-basket"
+content_type: "narrative"
+summary: "When a simple leak in the barn's watering pipe turns into a catastrophic flood due to Handy Hank's overzealous repairs, Sir Whiskerton guides Hank to realize that true strength isn't about applying more force, but knowing when to turn off the pressure. A tender tale of healing old wounds and finding dignity in the gentle, correct action."
+---
+
 # Sir Whiskerton and the Case of Handy Hank and the Perplexing Plumbing
 
 *A Tale of Torrents, Trust, and the Tightness of a Turn*
