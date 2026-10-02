@@ -1,4 +1,23 @@
-# Sir Whiskerton and the Super-Sized Squirrel Scandal: A Tale of Scale, Scarcity, and the Space We Occupy (3B003)
+---
+title: "Sir Whiskerton and the Super-Sized Squirrel Scandal"
+previous_id: "3B003"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3b_where_the_compass_spins"
+sequence_id: "3b003"
+slug: "the-super-sized-squirrel-scandal"
+status: "complete"
+date_created: "2024-02-20"
+date_updated: "2026-10-02"
+tags: ["scale", "size", "presence", "squirrels", "nutters", "zephyr", "integrity", "gentle-humor", "philosophy", "belonging", "asking"]
+characters: ["Sir Whiskerton", "King Nutters", "Tech-Savvy Twitch", "Acrobat Nibbles", "Zephyr the Genie", "Chef Remy LeRaccoon", "Doris the Hen", "Porkchop the Pig", "The Ducks"]
+location: ["Oak Tree", "Barnyard", "Birdbath", "Zucchini Patch", "Chef Remy's Kitchen", "Feed Bin"]
+artifacts: ["Acorn Throne", "Goggle-Straps", "Moo Juice Vault", "Dewdrop", "Brie de l'Espace", "Essence of Scale Vials"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "self-acceptance", "presence"]
+content_type: "narrative"
+summary: "King Nutters wishes to be physically larger to gain respect, but becomes a chaotic giant. Guided by Sir Whiskerton and Zephyr, he learns that true presence comes from integrity, not volume, and returns to his proper size with newfound confidence, learning to ask for what he needs."
+---
+
+# Sir Whiskerton and the Super-Sized Squirrel Scandal
 
 Ah, dear reader. Today's tale is not about size. It is about proportion. It is the story of a creature who believed his insignificance was a matter of inches, not inches of character. Prepare yourself for a parable of perspective, where the most dangerous wish is not for power, but for the physical manifestation of the space one believes they deserve to occupy. It is a lesson in how the container shapes the thing contained, and how the loudest cry for respect is often just a whisper of self-doubt, amplified.
 
