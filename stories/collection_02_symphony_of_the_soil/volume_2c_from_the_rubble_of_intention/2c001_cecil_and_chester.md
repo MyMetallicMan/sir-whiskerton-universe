@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Case of Cecil and Chester"
+previous_id: "2C183"
+collection: "collection_02_the_symphony_of_the_soil"
+volume: "volume_2c_from_the_rubble_of_intention"
+sequence_id: "2c183"
+slug: "sir-whiskerton-and-the-case-of-cecil-and-chester"
+status: "complete"
+date_created: "2024-03-05"
+date_updated: "2026-10-02"
+tags: ["construction", "collaboration", "cecil", "chester", "dogma-vs-chaos", "gentle-humor", "philosophy", "belonging", "synthesis", "wonky-wonder", "handymen", "partnership"]
+characters: ["Sir Whiskerton", "Cecil", "Chester", "Doris the Hen", "Ditto the Kitten", "The Farmer"]
+location: ["Farmyard", "Command Post Bucket", "Chicken Coop Site", "Truck Bed", "The Wonky Wonder"]
+artifacts: ["The Handyman's Handbook", "Hammer", "Patchwork Quilt", "Measuring Tape", "Duct Tape", "Bent-Nail Weathervane"]
+canon_themes: ["absurd-is-sacred", "calm-persistence", "joy-as-resistance", "belonging-without-earning", "collaboration"]
+content_type: "narrative"
+summary: "Two handymen, one rigid and one chaotic, clash while building a chicken coop. Sir Whiskerton mediates, teaching them to synthesize dogma and dynamism into a sturdy, beloved shelter called The Wonky Wonder."
+---
+
 # Sir Whiskerton and the Case of Cecil and Chester
 
 *A Tale of Dogma, Dynamism, and the Dove-Tail That Wasn't*
