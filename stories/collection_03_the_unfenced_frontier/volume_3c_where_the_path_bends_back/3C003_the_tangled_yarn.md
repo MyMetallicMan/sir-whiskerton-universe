@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Tangled Yarn"
+previous_id: "3C76"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3c_where_the_wild_things_are_known"
+sequence_id: "3c076"
+slug: "sir-whiskerton-and-the-tangled-yarn"
+status: "complete"
+date_created: "2024-03-10"
+date_updated: "2026-10-02"
+tags: ["yarn", "patience", "ditto", "sir-whiskerton", "chaos", "mindfulness", "gentle-humor", "belonging", "slow-living", "teaching"]
+characters: ["Sir Whiskerton", "Ditto the Kitten", "Rufus the Dog", "Porkchop the Pig", "Bessie the Cow", "Doris the Hen", "Harriet the Hen", "Lillian the Hen", "Woolbert the Sheep"]
+location: ["Barn Roof", "Barnyard", "Hay Bales", "Barn Shelf", "Fence"]
+artifacts: ["Ball of Yarn", "Mood Ring", "Neatly Wound Yarn Ball", "Sunbeam", "High Shelf"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "mindfulness"]
+content_type: "narrative"
+summary: "Ditto's overeager attempt to do everything at once leads him into a tangled yarn, causing farm-wide chaos. Guided by Sir Whiskerton's wisdom, the animals work together to untangle the mess, learning that life is best approached with patience, one step at a time."
+---
+
 # Sir Whiskerton and the Tangled Yarn
 
 *Was 3C76*
