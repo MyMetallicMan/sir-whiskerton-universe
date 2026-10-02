@@ -1,4 +1,45 @@
-# The Cluckaneer's Code
+---
+title: "The Cluckaneer’s Code"
+previous_id: "2A503"
+collection: "collection_02_symphony_of_the_soil"
+volume: "volume_2a_parables_of_the_present_past"
+sequence_id: "2a503"
+slug: "the-cluckaneers-code"
+status: "complete"
+date_created: "2024-05-25"
+date_updated: "2026-10-01"
+tags:
+  - governance
+  - friendship
+  - imagination
+  - gentle-humor
+  - captain-cluckbeard
+  - valley-chicks
+characters:
+  - "Captain Cluckbeard"
+  - "Squawk"
+  - "Pluck"
+  - "The Valley Chicks"
+  - "Sir Whiskerton"
+  - "Ditto"
+location:
+  - "Duck Pond"
+  - "S.S. Barnacle II"
+artifacts:
+  - "The Cluckaneer’s Code (Tea Towel)"
+  - "S.S. Barnacle II (Picnic Table)"
+  - "The Sacred Pebble"
+  - "The Breadbox Brig"
+canon_themes:
+  - "belonging-without-earning"
+  - "joy-as-resistance"
+  - "shared-vulnerability"
+  - "calm-persistence"
+content_type: "narrative"
+summary: "When Captain Cluckbeard realizes his pirate fantasy needs a constitution to survive, he drafts The Cluckaneer's Code. But when his crew enthusiastically misinterprets his rules—turning a punishment plank into a spa treatment and therapizing a locked breadbox—the Captain learns that true leadership isn't about enforcing rules, but curating a crew that can make them kind."
+---
+
+# The Cluckaneer’s Code
 
 *A Tale of Structure, Freedom, and the Glitter Between*
 
