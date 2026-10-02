@@ -1,4 +1,24 @@
+---
+title: "Sir Whiskerton and the World as a Scratching Post"
+previous_id: "72"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c072"
+slug: "the-world-as-a-scratching-post"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["scratching", "fence", "gnomeo", "ditto", "martha", "consequence", "repair", "art", "gentle-humor", "community", "boundaries"]
+characters: ["Sir Whiskerton", "Ditto the Kitten", "Gnomeo the Garden Gnome", "Martha", "Rufus the Dog", "Doris the Hen", "Gertrude the Goose", "Porkchop the Pig", "Bessie the Cow", "The Farmer"]
+location: ["Old Oak by the Barn", "Farmer's Picket Fence", "Lavender Border", "Martha's Workshop", "Barn Roof"]
+artifacts: ["Picket Fence", "White Paint", "Tiny Brush", "Gold Glitter", "Pine Cone", "Painted Vine"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "Ditto scratches the Farmer's picket fence to emulate Whiskerton, misled by Gnomeo's 'artistic' advice. Whiskerton teaches about consent and consequence, leading Martha to guide Ditto in painting a vine around the scar, turning a mistake into collaborative beauty."
+---
+
 # Sir Whiskerton and the World as a Scratching Post
+
 
 *A Lesson in Textures, Territory, and the Truth of Claws*
 
