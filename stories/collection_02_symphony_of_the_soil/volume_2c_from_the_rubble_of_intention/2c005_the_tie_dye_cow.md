@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Case of the Tie-Dye Cow"
+previous_id: "2C187"
+collection: "collection_02_the_symphony_of_the_soil"
+volume: "volume_2c_from_the_rubble_of_intention"
+sequence_id: "2c187"
+slug: "the-case-of-the-tie-dye-cow"
+status: "complete"
+date_created: "2024-02-10"
+date_updated: "2026-10-02"
+tags: ["tie-dye", "lucifer", "bessie", "psilocybin", "revolution", "gentle-humor", "philosophy", "belonging", "transformation", "presence", "paint"]
+characters: ["Sir Whiskerton", "Lucifer the Chipmunk", "Bessie the Cow", "Catnip the Stray Cat", "The Farmer", "Rufus the Dog", "Doris the Hen"]
+location: ["Barnyard", "Paint Stool", "Compost Heap", "Pasture", "Barn", "Pump Handle"]
+artifacts: ["Sunset Crimson Paint Can", "Dura-Bread", "Psilocybe Cubensis", "Mood Ring", "Spoon Wind Chime", "Controlled Rebellion Club"]
+canon_themes: ["belonging-without-earning", "calm-persistence", "absurd-is-sacred", "joy-as-resistance", "presence-vs-performance"]
+content_type: "narrative"
+summary: "Lucifer relapses into his loud red-prophet phase with paint, while Bessie accidentally absorbs paint and psychedelic mushrooms, sparking a quiet spiritual revolution. Whiskerton teaches the farm that true transformation isn't a performative costume, but a gentle shift in perception."
+---
+
 # Sir Whiskerton and the Case of the Tie-Dye Cow
 
 *A Tale of Psilocybin Pastures, Prophetic Relapse, and the Gentlest Revolution*
