@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Mystery of the Enormous Eggs"
+previous_id: "274"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c274"
+slug: "the-mystery-of-the-enormous-eggs"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["eggs", "ostrich", "belonging", "space", "pistachio", "rufus", "philosophy", "gentle-humor", "community", "expansion"]
+characters: ["Sir Whiskerton", "Pistachio the Ostrich", "Doris the Hen", "Harriet the Hen", "Lillian the Hen", "Ferdinand the Duck", "Gertrude the Goose", "Rufus the Dog", "Porkchop the Pig", "The Farmer", "Steve the Scarecrow", "Beatrice"]
+location: ["Henhouse", "Pond", "Hay Barn", "Back Field (The Wide Place)", "Fencepost", "Barn Roof"]
+artifacts: ["Enormous Eggs", "Doris's Manifesto/Clipboard", "Gertrude's Brass Bell", "Rufus's Glow", "Extra Bag of Grain", "Naming Proposal"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "Giant eggs appear in the henhouse and pond, throwing the farm into existential crisis. Sir Whiskerton discovers they belong to Pistachio the Ostrich, a lost refugee of scale. Through empathy and recalibration, the farm learns that belonging isn't about matching size, but about the generosity of the welcome, creating a new shared space for their oversized neighbor."
+---
+
 # Sir Whiskerton and the Mystery of the Enormous Eggs
 
 *A Tale of Space, Belonging, and Finding Your Nest*
