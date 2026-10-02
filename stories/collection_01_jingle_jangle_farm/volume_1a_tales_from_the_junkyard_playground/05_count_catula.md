@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Arrival of Count Catula"
+previous_id: "188"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c188"
+slug: "sir-whiskerton-and-the-arrival-of-count-catula"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["vampire", "count-catula", "cape", "ditto", "theatrics", "belonging", "gentle-humor", "night", "friendship", "being-seen"]
+characters: ["Sir Whiskerton", "Count Catula", "Ditto the Kitten", "Doris the Hen", "Bessie the Cow", "Jazzpurr", "The Farmer"]
+location: ["Western Gate", "Old Oak Tree", "Owl Box", "Porch Roof", "Farm Community Board"]
+artifacts: ["Black Velvet Cape", "Small Valise", "Invitation Card", "Mood Ring", "Tea"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "Count Catula arrives at the farm seeking a probationary haunting, but Sir Whiskerton offers him a place to belong. Ditto's simple request to wear his cape breaks his theatrical facade, leading to the creation of the Dusk Club and a quiet lesson in being seen without fear."
+---
+
 # Sir Whiskerton and the Arrival of Count Catula
 
 *A Tale of Capes, Courage, and the Quiet Kind of Magic*
