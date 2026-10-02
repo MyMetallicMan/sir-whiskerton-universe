@@ -1,3 +1,47 @@
+---
+title: "Sir Whiskerton and the Great Toilet Paper Shortage"
+previous_id: "2A179"
+collection: "collection_02_symphony_of_the_soil"
+volume: "volume_2a_parables_of_the_present_past"
+sequence_id: "2a179"
+slug: "sir-whiskerton-and-the-great-toilet-paper-shortage"
+status: "complete"
+date_created: "2024-05-15"
+date_updated: "2026-10-01"
+tags:
+  - economics
+  - panic
+  - gentle-humor
+  - nutters
+  - sir-whiskerton
+  - porkchop
+characters:
+  - "Sir Whiskerton"
+  - "Nutters"
+  - "The Farmer"
+  - "Porkchop"
+  - "Bessie"
+  - "Catnip"
+  - "Doris"
+  - "Ditto"
+location:
+  - "Farmhouse Bathroom"
+  - "Vegetable Patch"
+  - "Walnut Grove"
+artifacts:
+  - "Toilet Paper Rolls"
+  - "Burdock Leaf"
+  - "Sunflower Seeds"
+  - "Cheese Dust"
+canon_themes:
+  - "belonging-without-earning"
+  - "calm-persistence"
+  - "joy-as-resistance"
+  - "shared-vulnerability"
+content_type: "narrative"
+summary: "When the farmhouse toilet paper mysteriously vanishes, Sir Whiskerton investigates a crisis of manufactured scarcity. He discovers King Nutters has hoarded the rolls to leverage foraging rights, prompting a quiet 'market correction' involving a porcine monologue on mud and a treasury of sunflower seeds."
+---
+
 # Sir Whiskerton and the Great Toilet Paper Shortage
 
 *A Tale of Hoarding, Hostage-Taking, and the Economics of Panic*
