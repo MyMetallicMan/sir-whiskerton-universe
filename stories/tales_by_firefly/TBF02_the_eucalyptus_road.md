@@ -1,3 +1,22 @@
+---
+title: "TBF02 — The Eucalyptus Road"
+previous_id: "TBF02"
+collection: "tales_by_firefly"
+volume: "tales_by_firefly"
+sequence_id: "tbf02"
+slug: "the-eucalyptus-road"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["eucalyptus", "letter", "legacy", "love", "old-mable", "jazzpurr", "long-yi", "planting", "memory", "albania", "quiet-grace", "belonging"]
+characters: ["Sir Whiskerton", "Bessie the Tie-Dye Cow", "Doris the Hen", "Porkchop the Pig", "Jazzpurr the Beatnik Cat", "Long Yi", "Old Mable"]
+location: ["Fence Post", "Barn", "Old Mable's Trunk", "Pasture", "Eucalyptus Grove", "Coffee Can Platform"]
+artifacts: ["Letter from the Friend", "Eucalyptus Trees", "Coffee Can", "Eucalyptus Leaf", "Wax Seal"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "legacy", "quiet-grace"]
+content_type: "narrative"
+summary: "A sparrow delivers a letter from a distant reader about a grandmother's wish for a road lined with eucalyptus trees. Sir Whiskerton and the farm plant a small grove, learning that love is not a ring but a road, and that planting for strangers is a quiet form of grace."
+---
+
 # TBF02 — The Eucalyptus Road
 
 *A Sir Whiskerton Story*
