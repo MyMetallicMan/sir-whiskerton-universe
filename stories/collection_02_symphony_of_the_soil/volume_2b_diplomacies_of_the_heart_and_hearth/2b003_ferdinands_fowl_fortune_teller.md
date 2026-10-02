@@ -1,8 +1,8 @@
 ---
 title: "Sir Whiskerton and Ferdinand’s Fowl Fortune Teller"
 previous_id: "2B192"
-collection: "collection_04_where_the_river_meets_the_sky"
-volume: "volume_4b_the_adventure_where_we_belong"
+collection: "collection_02_symphony_of_the_soil"
+volume: "volume_2b_diplomacies_of_the_heart_and_hearth"
 sequence_id: "4b192"
 slug: "sir-whiskerton-and-ferdinands-fowl-fortune-teller"
 status: "complete"
