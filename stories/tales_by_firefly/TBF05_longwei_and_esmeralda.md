@@ -1,3 +1,22 @@
+---
+title: "TBF05 — Longwei and Esmeralda: The Kitty-Dragon and the Croc-a-Gator"
+previous_id: "TBF05"
+collection: "tales_by_firefly"
+volume: "tales_by_firefly"
+sequence_id: "tbf05"
+slug: "longwei-and-esmeralda-the-kitty-dragon-and-the-croc-a-gator"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["longwei", "esmeralda", "croc-a-gator", "dragon", "cat", "dog", "friendship", "play", "fetch", "purrs", "wagging", "belonging", "self-acceptance", "gentle-humor", "tales-by-firefly"]
+characters: ["Longwei the Dragon", "Esmeralda the Croc-a-Gator", "Sir Whiskerton", "Catnip the Stray Cat", "Doris the Hen", "Harriet the Hen", "Lillian the Hen", "Zephyr the Genie", "Porkchop the Pig", "Martha", "Old Mable"]
+location: ["Pond", "Barnyard", "Coop", "Porch", "Tool Shed Roof", "Hay Bale", "Pasture", "Mud Pit"]
+artifacts: ["Curved Branch (Stick)", "Second Bowl of Cream", "Scarecrow's Hat", "Lava Lamp", "Chicken Water Trough", "Watering Can"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "self-acceptance", "friendship"]
+content_type: "narrative"
+summary: "Longwei, a dragon who believes he's a cat, and Esmeralda, a croc-a-gator who believes she's a dog, discover each other at the pond. Through purring, wagging, and playing fetch, they celebrate being themselves, teaching the farm that belonging isn't about fitting expectations, but finding joy in who you choose to be."
+---
+
 # TBF05 — Longwei and Esmeralda: The Kitty-Dragon and the Croc-a-Gator
 
 *A Tale from the Tales by Firefly Series*
