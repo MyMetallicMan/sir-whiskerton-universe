@@ -1,3 +1,22 @@
+---
+title: "The Cosmic Conundrum"
+previous_id: "3A54"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3a_the_wild_curriculum"
+sequence_id: "3a054"
+slug: "the-cosmic-conundrum"
+status: "complete"
+date_created: "2024-01-05"
+date_updated: "2026-10-02"
+tags: ["symbiosis", "scale", "space", "lichen", "lyra", "efficiency", "listening", "gentle-humor", "philosophy", "belonging", "stewardship"]
+characters: ["Sir Whiskerton", "Captain Lyra", "First Officer Rigel", "Engineer Sirius", "Porkchop the Pig", "Rufus the Dog", "Doris the Hen", "Harriet the Hen", "Lillian the Hen", "Bingo", "Sedgwick", "The Lichen"]
+location: ["Barn Roof", "Buttercup Meadow", "Harmonious Intent (Vessel)", "Resonance Chamber", "Interstitial Crawlspace"]
+artifacts: ["Star Crystals", "Harmonious Intent Vessel", "Lichen Tapestry", "Crystal-Tipped Paws", "Wonky Wonder Coop", "Doris's Feathers"]
+canon_themes: ["absurd-is-sacred", "calm-persistence", "joy-as-resistance", "belonging-without-earning", "stewardship"]
+content_type: "narrative"
+summary: "An advanced feline civilization contacts Sir Whiskerton to diagnose a mysterious depletion on their starship. Whiskerton and the farm crew discover not a thief, but a symbiotic lichen cleaning radiation and producing fuel, teaching the aliens that efficiency without understanding misses the quiet partnerships that sustain life."
+---
+
 # The Cosmic Conundrum
 
 *A Tale of Scale, Symbiosis, and the Moss That the Stars Forgot*
