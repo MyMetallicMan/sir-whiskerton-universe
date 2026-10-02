@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Case of the Haughty Cat Caper"
+previous_id: "3A56"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3a_the_wild_curriculum"
+sequence_id: "3a056"
+slug: "the-case-of-the-haughty-cat-caper"
+status: "complete"
+date_created: "2024-01-25"
+date_updated: "2026-10-02"
+tags: ["genghis", "identity", "purpose", "court", "lester", "clyde", "loomis", "bingo", "gentle-humor", "philosophy", "belonging", "service", "insecurity"]
+characters: ["Sir Whiskerton", "Genghis", "Lester", "Clyde", "Loomis", "Bingo", "Porkchop", "Sedgwick", "The Farmer", "The Hens"]
+location: ["The Seat of Power (Tractor Corner)", "Granary", "Porch", "Barnyard", "Grain Storage"]
+artifacts: ["Gold Chain", "Tipped-Over Bucket", "Mud-Smeared Bark Ledger", "Twine & Spoon Pulley", "Grain Sacks", "Grain-Dusting Station"]
+canon_themes: ["belonging-without-earning", "calm-persistence", "absurd-is-sacred", "joy-as-resistance", "purpose-vs-pretense"]
+content_type: "narrative"
+summary: "Genghis tries to assert control over the farm's grain to prove his worth, but his fragile court crumbles under reality. Sir Whiskerton reframes his need for purpose into a legitimate guardian role, teaching that true legacy is built on quiet service, not performed dominance."
+---
+
 # Sir Whiskerton and the Case of the Haughty Cat Caper
 
 *A Tale of Fragile Crowns, Performed Loyalty, and the Quiet Terror of Being Ordinary*
