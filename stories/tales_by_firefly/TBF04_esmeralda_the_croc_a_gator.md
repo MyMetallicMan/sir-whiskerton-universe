@@ -1,3 +1,22 @@
+---
+title: "TBF04 — Esmeralda the Croc-a-Gator"
+previous_id: "TBF04"
+collection: "tales_by_firefly"
+volume: "tales_by_firefly"
+sequence_id: "tbf04"
+slug: "esmeralda-the-croc-a-gator"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["croc-a-gator", "esmeralda", "catnip", "martha", "belonging", "recognition", "bayou", "quiet-care", "gentle-humor", "sir-whiskerton", "second-bowl", "unconditional-welcome"]
+characters: ["Esmeralda the Croc-a-Gator", "Catnip the Stray Cat", "Martha", "Sir Whiskerton", "Doris the Hen", "Porkchop the Pig", "The Farmer", "Mémé"]
+location: ["Old Tractor Shadow", "Porch", "Windowsill", "Barnyard", "Tool Shed Roof", "Screen Door"]
+artifacts: ["Second Bowl of Cream", "Three Fish", "Beaded Necklace", "Rice and Gravy", "Wet Earth & Old Wood Scent"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "recognition-over-explanation"]
+content_type: "narrative"
+summary: "Exhausted and lost, Esmeralda the croc-a-gator follows a faded song to the farm. Catnip, recognizing his own past in her, quietly provides food. Martha leaves a second bowl of cream without asking questions. When Esmeralda finally steps into the sun, the farm welcomes her not as a stranger, but as a neighbor who was always expected."
+---
+
 # TBF04 — Esmeralda the Croc-a-Gator
 
 *A Sir Whiskerton Story*
