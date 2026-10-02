@@ -1,3 +1,22 @@
+---
+title: "The Case of the Quaking Canoe"
+previous_id: "3A57"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3a_the_wild_curriculum"
+sequence_id: "3a057"
+slug: "the-case-of-the-quaking-canoe"
+status: "complete"
+date_created: "2024-02-10"
+date_updated: "2026-10-02"
+tags: ["narrative", "interpretation", "hens", "reality-vs-fiction", "rescue", "gentle-humor", "philosophy", "literary", "perception", "belonging"]
+characters: ["Sir Whiskerton", "Simon the Hedgehog", "Doris the Hen", "Harriet the Hen", "Lillian the Hen", "Porkchop the Pig", "Rufus the Dog", "Sedgwick the Owl", "The Ducklings", "Mother Duck"]
+location: ["Barn Roof", "Meadow", "Wooden Bridge", "River", "Barnyard"]
+artifacts: ["Doris's Notepad", "Green Blanket", "Submerged Canoe", "Basket", "Quaking Canoe"]
+canon_themes: ["absurd-is-sacred", "calm-persistence", "joy-as-resistance", "belonging-without-earning", "perception"]
+content_type: "narrative"
+summary: "Simon reports a stuck canoe making mysterious sounds, sparking a literary frenzy among the hens who layer it with metaphors and dread. Sir Whiskerton reveals it's just wet ducklings, teaching the farm that while stories enrich life, reality demands practical kindness over dramatic interpretation."
+---
+
 # The Case of the Quaking Canoe
 
 *A Tale of Fact, Fiction, and the Hen Who Could Not Let a Story Go*
