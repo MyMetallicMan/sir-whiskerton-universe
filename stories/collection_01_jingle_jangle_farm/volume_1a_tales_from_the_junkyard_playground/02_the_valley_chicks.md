@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Valley Chicks"
+previous_id: "71"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c071"
+slug: "the-valley-chicks"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["glitter", "glamour", "valley-chicks", "tiffany", "brittany", "madison", "aesthetics", "community", "gentle-humor", "belonging", "sir-whiskerton"]
+characters: ["Sir Whiskerton", "Tiffany", "Brittany", "Madison", "Doris the Hen", "Harriet the Hen", "Lillian the Hen", "Mr. Wigglesworth", "Rufus the Dog", "Porkchop the Pig", "Bessie the Cow", "The Farmer", "Martha"]
+location: ["Farm Roof", "Barnyard", "Feed Area", "Nesting Boxes", "West Fence"]
+artifacts: ["Iridescent Dust", "Prize Lipstick", "Designer Purse", "Heart-Shaped Sunglasses", "Glittery Feed", "Ribbons", "Fallen Feathers", "Notebook"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "The Valley Chicks arrive at the farm, turning feed into glittery installation art and disrupting the rhythm with aesthetic chaos. Guided by Sir Whiskerton's wisdom, they learn that true fabulousness isn't applied from outside, but discovered in faithful, humble service, finding their place in the farm's harmony."
+---
+
 # Sir Whiskerton and the Valley Chicks
 
 *A Tale of Glitter, Glamour, and the Gravity of Good Intentions*
