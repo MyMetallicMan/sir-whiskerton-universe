@@ -1,12 +1,29 @@
-# Sir Whiskerton and the Jingle-Jangle Collar
-
-*A Tale of Belonging, Mischief, and the Sweet Sound of Home*
-
-*From the Collection 1 archive — Story 276*
-
+---
+title: "Sir Whiskerton and the Jingle-Jangle Collar"
+previous_id: "276"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1a_the_foundation_of_belonging"
+sequence_id: "1a276"
+slug: "sir-whiskerton-and-the-jingle-jangle-collar"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["belonging", "collar", "bell", "farmer", "ditto", "identity", "joy-as-resistance", "gentle-humor", "author-note"]
+characters: ["Sir Whiskerton", "The Farmer", "Ditto the Kitten", "Zephyr the Genie", "Doris the Hen", "Porkchop the Pig", "Ferdinand the Duck", "Rufus the Dog", "Gertrude the Goose"]
+location: ["Front Porch", "Barn Roof", "Henhouse", "Pond Edge"]
+artifacts: ["Blue Leather Collar", "Brass Bell", "Cheddar Cheese Sliver", "Lavender Stem Collar", "Whittled Earplugs"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "The Farmer gives Sir Whiskerton a bell collar to always know he's home. What begins as an affront to the cat's independence becomes a farm-wide symphony of belonging, teaching everyone that connection isn't about ownership, but about being seen, heard, and glad to be there."
 ---
 
-The change began not with a word, but with a quiet, metallic *chime*.
+# Sir Whiskerton and the Jingle-Jangle Collar
+
+> *Previously cataloged as Collection 1 — Story 276*
+
+A Tale of Belonging, Mischief, and the Sweet Sound of Home
+
+The change began not with a word, but with a quiet, metallic chime.
 
 It was a sound the farm had never known. Not the deep clang of the feed bucket, not the soft creak of the scarecrow, nor the warm thrum of the beehives. This was a bright, sharp, singular note that cut through the morning mist like a tiny, silver needle sewing a new thread into the fabric of their world.
 
@@ -14,53 +31,53 @@ Sir Whiskerton stood frozen on the porch step, one paw raised mid-stride. Around
 
 The Farmer loomed before him, his rough hands now gentle, his eyes crinkled with an emotion that was both joy and profound relief. "There," the Farmer murmured, his voice a low gravel of satisfaction. "Now we'll always know you're home."
 
-For Sir Whiskerton, philosopher and guardian, this was an outrage. A violation. He was not a thing to be tagged and tracked. His presence was a fact, as undeniable as sunrise. He was the farm's silent witness, its still center. A bell turned him into... an *announcement*.
+For Sir Whiskerton, philosopher and guardian, this was an outrage. A violation. He was not a thing to be tagged and tracked. His presence was a fact, as undeniable as sunrise. He was the farm's silent witness, its still center. A bell turned him into... an announcement.
 
-*I am a free-thinking feline,* he stated, his voice cold with dignified affront, his tail lashing once, sharply. The bell jingled—a cheerful, traitorous sound that mocked his gravity. "My presence is self-evident. I require no... *trinket* to validate my existence."
+*I am a free-thinking feline,* he stated, his voice cold with dignified affront, his tail lashing once, sharply. The bell jingled—a cheerful, traitorous sound that mocked his gravity. "My presence is self-evident. I require no... trinket to validate my existence."
 
-But the Farmer was already walking away, and with him went the chance for protest. Whiskerton was left with the phantom weight of the collar and the terrifying truth: every slight movement—a twitch of an ear, a flick of the tail—now produced a *sound*. He was no longer a creature of stealth and silence. He was a walking melody he did not compose.
+But the Farmer was already walking away, and with him went the chance for protest. Whiskerton was left with the phantom weight of the collar and the terrifying truth: every slight movement—a twitch of an ear, a flick of the tail—now produced a sound. He was no longer a creature of stealth and silence. He was a walking melody he did not compose.
 
 Then, the miracle—or the curse—began.
 
-He gave an experimental, irritated shake of his head. *Jingle-jangle*.
+He gave an experimental, irritated shake of his head. *Jingle-jangle.*
 
 From inside the farmhouse, the screen door squeaked open. The Farmer's head popped out, a smile breaking across his weary face. "There you are," he said, as if Whiskerton had been lost and was now found.
 
-Confused, Whiskerton took a tentative step forward. *Jingle*.
+Confused, Whiskerton took a tentative step forward. *Jingle.*
 
 The Farmer emerged fully, holding a small sliver of cheddar cheese—Whiskerton's secret, unspoken favorite—and placed it on the step before him.
 
 A third step, a third jingle. The Farmer knelt in the dew-damp grass, his knees cracking, and offered a single, calloused finger to stroke under Whiskerton's chin. The gesture was so tender, so utterly focused, that Whiskerton's outrage stalled in his throat.
 
-This was no simple collar. It was a *key*. A key that unlocked not doors, but the Farmer's heart. Each jingle was a translation: *I am here. I am yours. See me.*
+This was no simple collar. It was a key. A key that unlocked not doors, but the Farmer's heart. Each jingle was a translation: *I am here. I am yours. See me.*
 
 The farm erupted in speculation.
 
-**Doris the Hen** dropped her clipboard with a clatter. "A sonotronic summoning device! Aural manipulation! I MUST DOCUMENT THE PHENOMENON!" She fainted, but it was a faint of pure, overwhelmed scholarly fervor.
+Doris the Hen dropped her clipboard with a clatter. "A sonotronic summoning device! Aural manipulation! I MUST DOCUMENT THE PHENOMENON!" She fainted, but it was a faint of pure, overwhelmed scholarly fervor.
 
-**Zephyr**, swirling guiltily in his lava lamp above the porch, coughed out a puff of glitter. "My bad. That was the 'Roommate Appreciation Harmonizer' spell. Meant for ungrateful college students. Must've cross-contaminated with the 'Find My Keys' charm. Side effects may include... spontaneous cheese manifestation."
+Zephyr, swirling guiltily in his lava lamp above the porch, coughed out a puff of glitter. "My bad. That was the 'Roommate Appreciation Harmonizer' spell. Meant for ungrateful college students. Must've cross-contaminated with the 'Find My Keys' charm. Side effects may include... spontaneous cheese manifestation."
 
-**Ditto**, Sir Whiskerton's tiny, echoing shadow, watched with enormous, star-filled eyes. He pawed at his own bare neck, then up at Whiskerton's, his little face a canvas of desperate longing. "Jingle?" he chirped, his voice small. He jumped, twisting in mid-air. "Jingle! Jingle! Jingle!" Nothing happened. His small shoulders slumped. The sound wasn't the magic; the *connection* was.
+Ditto, Sir Whiskerton's tiny, echoing shadow, watched with enormous, star-filled eyes. He pawed at his own bare neck, then up at Whiskerton's, his little face a canvas of desperate longing. "Jingle?" he chirped, his voice small. He jumped, twisting in mid-air. "Jingle! Jingle! Jingle!" Nothing happened. His small shoulders slumped. The sound wasn't the magic; the connection was.
 
-Sir Whiskerton looked from Ditto's palpable yearning, to the Farmer's softened face, to the absurd, jingling weight around his own neck. A philosopher's mind confronted a paradox: the very thing that threatened his identity had revealed a deeper truth. The Farmer, a man of few words and long silences, had been *trying* to speak. The bell was his *language*. And he was saying, *You are not just a cat on my farm. You are my cat. And I need to know where you are, because you matter.*
+Sir Whiskerton looked from Ditto's palpable yearning, to the Farmer's softened face, to the absurd, jingling weight around his own neck. A philosopher's mind confronted a paradox: the very thing that threatened his identity had revealed a deeper truth. The Farmer, a man of few words and long silences, had been trying to speak. The bell was his language. And he was saying, *You are not just a cat on my farm. You are my cat. And I need to know where you are, because you matter.*
 
-The **Great Belonging Experiment** was not Whiskerton's idea. It was the farm's organic, chaotic response to a new form of love.
+The Great Belonging Experiment was not Whiskerton's idea. It was the farm's organic, chaotic response to a new form of love.
 
 Porkchop tied a rusty cowbell to his curly tail with a piece of twine. He trotted up to the Farmer, gave a mighty shake that sounded like a ship running aground, and smiled his wide, sunny smile. The Farmer, after a moment of stunned silence, reached into his pocket and produced a single, perfect radish. It wasn't the cheese, but it was an answer. Porkchop's bell wasn't a key to the Farmer's heart—that door was always open—but it was a new game, and he loved games.
 
-**Ferdinand the Duck**, sensing high drama, composed an impromptu aria, "Ode to the Resonant Heart-Chime," which involved a lot of passionate quacking in the general direction of the pond. His own borrowed bell, tied to his wing, tinged sadly out of tune, but he didn't care. He was part of the symphony.
+Ferdinand the Duck, sensing high drama, composed an impromptu aria, "Ode to the Resonant Heart-Chime," which involved a lot of passionate quacking in the general direction of the pond. His own borrowed bell, tied to his wing, tinged sadly out of tune, but he didn't care. He was part of the symphony.
 
-But it was **Ditto** who was the soul of the experiment. He followed Whiskerton everywhere, his eyes fixed on the bell, not with envy, but with a scholar's devotion. He was learning the language. He saw that a slow, deliberate walk produced a gentle *tink-tink-tink* that made the Farmer look up and smile. A happy, bounding approach created a joyous *jingle-jangle-jingle* that often resulted in a pat or a treat. Ditto practiced the sounds with his own voice, but the magic wasn't in the noise. It was in the *answered call*.
+But it was Ditto who was the soul of the experiment. He followed Whiskerton everywhere, his eyes fixed on the bell, not with envy, but with a scholar's devotion. He was learning the language. He saw that a slow, deliberate walk produced a gentle tink-tink-tink that made the Farmer look up and smile. A happy, bounding approach created a joyous jingle-jangle-jingle that often resulted in a pat or a treat. Ditto practiced the sounds with his own voice, but the magic wasn't in the noise. It was in the answered call.
 
-Seeing this, Sir Whiskerton's heart, a well-defended fortress, felt a crack appear. This wasn't about his dignity. It was about a tiny, echoing soul who just wanted to chime *I belong* and have the world chime *back*.
+Seeing this, Sir Whiskerton's heart, a well-defended fortress, felt a crack appear. This wasn't about his dignity. It was about a tiny, echoing soul who just wanted to chime *I belong* and have the world chime back.
 
-"Enough," Whiskerton declared, his voice ringing with new conviction. "We shall not have a hierarchy of jingles. If belonging has a sound, let it be a *chorus*."
+"Enough," Whiskerton declared, his voice ringing with new conviction. "We shall not have a hierarchy of jingles. If belonging has a sound, let it be a chorus."
 
 With a look that was part command, part plea, he nodded at Zephyr. The genie, eager to correct his mistake, swirled his lamp and snapped his fingers. A shower of harmless, musical sparkles fell over the farm.
 
-Suddenly, *every creature* wore a collar. Not of leather, but of braided grass, of soft yarn, of repurposed ribbon. And from each hung a unique bell. Doris's was a high, clear *ting* that punctuated her manifestos. Rufus's wagging tail now sounded like a joyful avalanche of pennies. Gertrude, with immense reluctance, found a delicate silver bell attached to her red ribbon. She gave one haughty shake—*ting*—and decided it was, perhaps, "adequately dignified."
+Suddenly, every creature wore a collar. Not of leather, but of braided grass, of soft yarn, of repurposed ribbon. And from each hung a unique bell. Doris's was a high, clear ting that punctuated her manifestos. Rufus's wagging tail now sounded like a joyful avalanche of pennies. Gertrude, with immense reluctance, found a delicate silver bell attached to her red ribbon. She gave one haughty shake—*ting*—and decided it was, perhaps, "adequately dignified."
 
-The farm became a living carillon. The **Law of Amplified Echoes** was reborn as the **Symphony of Shared Presence**. You could hear where Porkchop was napping by his deep, sleepy *clunk*. You could track Ditto's joyful cartwheels by the frantic, silver rain of his bell. And through it all, weaving like a steady, grounding bassline, was Sir Whiskerton's own purposeful *jingle-jangle*.
+The farm became a living carillon. The Law of Amplified Echoes was reborn as the Symphony of Shared Presence. You could hear where Porkchop was napping by his deep, sleepy clunk. You could track Ditto's joyful cartwheels by the frantic, silver rain of his bell. And through it all, weaving like a steady, grounding bassline, was Sir Whiskerton's own purposeful jingle-jangle.
 
 As twilight bled into dusk, Sir Whiskerton found Ditto curled not in his usual nook, but atop the warm, sun-soaked roof of the barn—the guardian's own perch. Around the kitten's neck, a tiny collar of woven lavender stems held a bell no bigger than a pea. He was jingling it softly, deliberately, watching the first stars appear as if ringing them into being.
 
@@ -70,23 +87,57 @@ Ditto looked up, his eyes reflecting the starlight. He didn't echo. He gave one 
 
 *Yes.*
 
-Zephyr floated up beside them, his lamp glowing the gentle gold of contentment. "Turns out the real magic wasn't in the spell," he mused, sipping spectral tea. "It was in the *listening*. And the *answering*."
+Zephyr floated up beside them, his lamp glowing the gentle gold of contentment. "Turns out the real magic wasn't in the spell," he mused, sipping spectral tea. "It was in the listening. And the answering."
 
-The moral was not about collars. It was about the fundamental need to be *heard*. The Farmer, in his silent way, had been crying out for a way to connect. The bell was his awkward, beautiful prayer. And the farm, in its glorious, noisy response, had built a cathedral of sound where every jingle, every ting, every clunk was a votive candle lit to say: *I am here. You are not alone. We belong to each other.*
+The moral was not about collars. It was about the fundamental need to be heard. The Farmer, in his silent way, had been crying out for a way to connect. The bell was his awkward, beautiful prayer. And the farm, in its glorious, noisy response, had built a cathedral of sound where every jingle, every ting, every clunk was a votive candle lit to say: *I am here. You are not alone. We belong to each other.*
 
 The Farmer, sitting on the porch with a cup of coffee, winced as a cacophony of jingles erupted from the henhouse (Doris was having a particularly emphatic idea). He pulled a pair of newly whittled earplugs from his pocket and smiled, a true, deep smile that reached his eyes.
 
 "Worth it," he murmured to the night, as the sweet, chaotic music of his beloved, jingling world played on.
 
-*Home isn't a place. It's the sound of someone who is glad, truly glad, that you are there.*
+Home isn't a place. It's the sound of someone who is glad, truly glad, that you are there.
 
 The End.
 
----
+* * *
+
+## Moral
+Home isn't a place. It's the sound of someone who is glad, truly glad, that you are there.
+
+## Best Lines
+- "My presence is self-evident. I require no... trinket to validate my existence."
+- "Each jingle was a translation: I am here. I am yours. See me."
+- "Side effects may include... spontaneous cheese manifestation."
+- "The sound wasn't the magic; the connection was."
+- "The Farmer, in his silent way, had been crying out for a way to connect. The bell was his awkward, beautiful prayer."
+- "We shall not have a hierarchy of jingles. If belonging has a sound, let it be a chorus."
+- "Home isn't a place. It's the sound of someone who is glad, truly glad, that you are there."
+
+## Key Jokes
+- "A sonotronic summoning device! Aural manipulation!" — Doris's immediate categorization of the collar. The joke is that she has no idea what it is, and her panic manifests as pseudo-scientific terminology, and she delivers it with total conviction.
+- "Roommate Appreciation Harmonizer" spell... cross-contaminated with the 'Find My Keys' charm. — Zephyr's explanation of why Sir Whiskerton suddenly has a jingly collar. The joke is that the magical mishap is entirely mundane in its cause — two spells got shuffled — and the side effect was cheese.
+- "Side effects may include... spontaneous cheese manifestation." — the specific side effect Zephyr names. The joke is that of all possible side effects of a botched spell, the one that occurred is the one the cat would enjoy most, and the genie knows it, and he says so with a slightly sheepish tone.
+- Ditto's wordless experiment with his own bare neck. — the moment Ditto tries to produce a jingle without a bell. The joke is that the sound is not the magic, and Ditto learns this immediately, and his small shoulders slump.
+- "The Great Belonging Experiment." — the name the farm gives to what follows. The joke is that nothing was planned, and the name makes it sound like a policy, and it is now an official thing.
+- Porkchop's rusty cowbell. — the image of a pig trotting up with a ship-sized cowbell tied to his tail. The joke is that Porkchop understood the assignment instantly and did it in the loudest possible way.
+- "Ode to the Resonant Heart-Chime." — Ferdinand's spontaneous opera about the bells. The joke is that he had to write a song about it, and he did, and the song is out of tune, and he doesn't care.
+- The "Symphony of Shared Presence." — the name the farm gives to the chorus of jingles that follows. The joke is that the Law of Amplified Echoes, which had been a source of chaos throughout the collection, is now a source of joy.
+- "You could hear where Porkchop was napping by his deep, sleepy clunk." — the specific example of the new soundscape. The joke is that the farm has developed a new sensory channel, and each animal's unique bell tells you exactly who is where, and the images are absurd and perfect.
+- The Farmer's earplugs. — his response to the chaos of the jingle chorus. The joke is that he has already accepted the noise, and he has already made peace with it, and he has already whittled himself a solution, and the closing smile is the smile of a man who has lost the argument and is happy about it.
+
+## Starring
+- **Sir Whiskerton (胡子爵士)** — the protagonist and the reluctant bell-wearer, whose arc moves from outrage to understanding to leadership. His insistence on a chorus over a hierarchy is the story's moral climax.
+- **The Farmer (农场主)** — the bell-giver, whose silent language has been trying to speak for the entire collection, and whose awkward prayer finally finds its answer.
+- **Ditto the Kitten (复读猫)** — the student of the bell, whose wordless longing is the story's emotional core, and whose single, wordless "Yes" at the end is the most important line in the story.
+- **Zephyr the Genie (扎菲尔)** — the accidental cause, whose spell mishap turns out to be the most important gift of the entire collection.
+- **Doris the Hen (八卦母鸡)** — the chief investigator, whose "Aural manipulation!" is the story's first reaction and whose own bell (a high, clear ting) matches her personality perfectly.
+- **Porkchop the Pig (猪大排)** — the enthusiastic participant, whose rusty cowbell and radish reward is one of the story's most purely Porkchop moments.
+- **Ferdinand the Duck (歌剧鸭)** — the opera composer, whose immediate instinct on receiving a bell is to write a song about it.
+- **Rufus the Dog (发光狗)** — the natural musician, whose wagging tail becomes a joyful avalanche of pennies — a sound that was always there, finally amplified.
+- **Gertrude the Goose (傲天鹅·格特鲁德)** — the reluctant participant, whose single haughty ting is adequately dignified — which is the highest praise Gertrude offers.
 
 ## Author's Note
-
-*— by Robert (高搏鸿)*
+— by Robert (高搏鸿)
 
 As with many stories in this series, "Sir Whiskerton and the Case of the Jingle-Jangle Collar" is inspired by a real-life experience—though perhaps not quite as whimsical as the tale itself.
 
@@ -134,14 +185,10 @@ It reminded me of something simple yet profound: we all need to belong—not jus
 
 Thank you for stepping into my world, for sharing in this small but meaningful chapter of my life. I hope it touched you as deeply as it did me.
 
-With warmth and whiskers,
-Robert
+With warmth and whiskers, Robert
 
----
-
-## 作者的话
-
-*—— 高搏鸿*
+### 作者的话
+—— 高搏鸿
 
 和本系列中的许多故事一样，《骑士威士顿与叮叮当当的项圈谜案》也是源于一次真实的生活经历——尽管现实远没有故事中那么充满奇幻色彩。
 
@@ -187,64 +234,13 @@ Robert
 
 感谢你走进我的世界，参与这段虽小却意义深远的人生片段。愿你也从中感受到一份温柔与感动。
 
-温暖与猫爪同在，
-罗伯特
-
----
-
-## Moral
-
-*Home isn't a place. It's the sound of someone who is glad, truly glad, that you are there.*
-
----
-
-## Best Lines
-
-- *"My presence is self-evident. I require no... trinket to validate my existence."*
-- *"Each jingle was a translation: I am here. I am yours. See me."*
-- *"Side effects may include... spontaneous cheese manifestation."*
-- *"The sound wasn't the magic; the connection was."*
-- *"The Farmer, in his silent way, had been crying out for a way to connect. The bell was his awkward, beautiful prayer."*
-- *"We shall not have a hierarchy of jingles. If belonging has a sound, let it be a chorus."*
-- *"Home isn't a place. It's the sound of someone who is glad, truly glad, that you are there."*
-
----
-
-## Key Jokes
-
-- **"A sonotronic summoning device! Aural manipulation!"** — Doris's *immediate categorization* of the collar. The joke is that *she has no idea what it is*, and *her panic manifests as pseudo-scientific terminology*, and *she delivers it with total conviction*.
-- **"Roommate Appreciation Harmonizer" spell... cross-contaminated with the 'Find My Keys' charm.** — Zephyr's *explanation* of why Sir Whiskerton suddenly has a jingly collar. The joke is that *the magical mishap is entirely mundane in its cause* — *two spells got shuffled* — and *the side effect was cheese*.
-- **"Side effects may include... spontaneous cheese manifestation."** — the *specific side effect* Zephyr names. The joke is that *of all possible side effects of a botched spell*, the one that occurred is *the one the cat would enjoy most*, and *the genie knows it*, and *he says so with a slightly sheepish tone*.
-- **Ditto's wordless experiment with his own bare neck.** — the *moment Ditto tries to produce a jingle without a bell*. The joke is that *the sound is not the magic*, and *Ditto learns this immediately*, and *his small shoulders slump*.
-- **"The Great Belonging Experiment."** — the *name* the farm gives to what follows. The joke is that *nothing was planned*, and *the name makes it sound like a policy*, and *it is now an official thing*.
-- **Porkchop's rusty cowbell.** — the *image* of a pig trotting up with a *ship-sized cowbell* tied to his tail. The joke is that *Porkchop understood the assignment instantly* and *did it in the loudest possible way*.
-- **"Ode to the Resonant Heart-Chime."** — Ferdinand's *spontaneous opera* about the bells. The joke is that *he had to write a song about it*, and *he did*, and *the song is out of tune*, and *he doesn't care*.
-- **The "Symphony of Shared Presence."** — the *name* the farm gives to the *chorus of jingles* that follows. The joke is that *the Law of Amplified Echoes*, which had been *a source of chaos throughout the collection*, is now *a source of joy*.
-- **"You could hear where Porkchop was napping by his deep, sleepy clunk."** — the *specific example* of the *new soundscape*. The joke is that *the farm has developed a new sensory channel*, and *each animal's unique bell tells you exactly who is where*, and *the images are absurd and perfect*.
-- **The Farmer's earplugs.** — his *response* to the *chaos of the jingle chorus*. The joke is that *he has already accepted the noise*, and *he has already made peace with it*, and *he has already whittled himself a solution*, and *the closing smile is the smile of a man who has lost the argument and is happy about it*.
-
----
-
-## Starring
-
-- **Sir Whiskerton** (胡子爵士) — the *protagonist* and the *reluctant bell-wearer*, whose *arc* moves from *outrage* to *understanding* to *leadership*. His *insistence on a chorus over a hierarchy* is the story's *moral climax*.
-- **The Farmer** (农场主) — the *bell-giver*, whose *silent language* has been *trying to speak* for the entire collection, and whose *awkward prayer* finally finds its *answer*.
-- **Ditto the Kitten** (复读猫) — the *student of the bell*, whose *wordless longing* is the *story's emotional core*, and whose *single, wordless "Yes"* at the end is the *most important line in the story*.
-- **Zephyr the Genie** (扎菲尔) — the *accidental cause*, whose *spell mishap* turns out to be *the most important gift of the entire collection*.
-- **Doris the Hen** (八卦母鸡) — the *chief investigator*, whose *"Aural manipulation!"* is *the story's first reaction* and whose *own bell* (a high, clear ting) matches her *personality perfectly*.
-- **Porkchop the Pig** (猪大排) — the *enthusiastic participant*, whose *rusty cowbell* and *radish reward* is *one of the story's most purely Porkchop moments*.
-- **Ferdinand the Duck** (歌剧鸭) — the *opera composer*, whose *immediate instinct* on receiving a bell is to *write a song about it*.
-- **Rufus the Dog** (发光狗) — the *natural musician*, whose *wagging tail* becomes *a joyful avalanche of pennies* — a *sound that was always there*, *finally amplified*.
-- **Gertrude the Goose** (傲天鹅·格特鲁德) — the *reluctant participant*, whose *single haughty ting* is *adequately dignified* — which is the *highest praise Gertrude offers*.
-
----
+温暖与猫爪同在，罗伯特
 
 ## P.S.
+I have not added a Post-Credit Scene to this file. The story's ending — "Worth it," murmured by the Farmer, with his earplugs in and his smile wide — is the ending. Then the moral is stated. Then the Author's Note follows, and that is the coda.
 
-I have not added a *Post-Credit Scene* to this file. The story's ending — *"Worth it,"* murmured by the Farmer, with his earplugs in and his smile wide — is *the ending*. Then the moral is stated. Then the **Author's Note** follows, and *that* is the *coda*.
+The Author's Note is preserved exactly as written, in both English and Chinese, with the same paragraphs, the same cadence, the same small italicized pause between the two sections. It is Robert's voice, and it belongs in this file, at this place, because it is what the story is about. A cat who lost her collar and dimmed without it. A family who gave her a second chance. A man who learned that freedom without belonging is not freedom at all.
 
-The Author's Note is preserved exactly as written, in *both English and Chinese*, with the same paragraphs, the same cadence, the same small italicized pause between the two sections. It is *Robert's voice*, and it belongs in *this file*, at *this place*, because it *is what the story is about*. A cat who lost her collar and dimmed without it. A family who gave her a second chance. A man who learned that freedom without belonging is not freedom at all.
+This is the deepest story in Collection 1 because it is the truest one. It is not a fable. It is a life. And I have tried to hold it as carefully as it deserves.
 
-This is the deepest story in Collection 1 because it is the truest one. It is not a fable. It is a *life*. And I have tried to hold it as carefully as it deserves.
-
-**Jingle on.**
+Jingle on.
