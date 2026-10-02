@@ -1,3 +1,22 @@
+---
+title: "The Case of the Poop Translator"
+previous_id: "3A58"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3a_the_wild_curriculum"
+sequence_id: "3a058"
+slug: "the-case-of-the-poop-translator"
+status: "complete"
+date_created: "2024-03-05"
+date_updated: "2026-10-02"
+tags: ["translation", "boundaries", "subjectivity", "rufus", "farmer", "sir-whiskerton", "humor", "philosophy", "sensory-language", "belonging", "respect"]
+characters: ["Sir Whiskerton", "Rufus the Dog", "The Farmer", "Doris the Hen", "Porkchop the Pig", "Sedgwick the Owl", "Zephyr the Genie"]
+location: ["Barnyard", "Fencepost", "Water Pump", "Compost Heap"]
+artifacts: ["The Scatological Lexicon", "The 'Biscuit'", "Tennis Ball", "Doris's Notepad", "Zephyr's Ledger"]
+canon_themes: ["absurd-is-sacred", "calm-persistence", "belonging-without-earning", "respect-for-boundaries"]
+content_type: "narrative"
+summary: "Rufus attempts to teach the Farmer the 'language' of dog scent using a fictional scatological lexicon, leading to a disastrous taste test. Sir Whiskerton intervenes, teaching that true understanding respects the boundaries of subjective experience, and that some languages are meant to be smelled, not tasted."
+---
+
 # The Case of the Poop Translator
 
 *A Tale of Somatic Literacy and the Limits of Understanding*
