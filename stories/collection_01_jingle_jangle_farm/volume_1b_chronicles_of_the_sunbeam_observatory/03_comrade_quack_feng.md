@@ -1,4 +1,24 @@
+---
+title: "Sir Whiskerton and the Great Farm Debate"
+previous_id: "113 & 133"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c133"
+slug: "the-great-farm-debate"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["debate", "structure", "freedom", "quack-feng", "lucifer", "jazzpurr", "zephyr", "community", "philosophy", "gentle-humor", "compromise"]
+characters: ["Sir Whiskerton", "Comrade Quack Feng", "Lucifer the Chipmunk", "Jazzpurr the Beatnik Cat", "Zephyr the Genie", "The Valley Chicks", "The Farmer", "Doris the Hen", "Bessie the Cow", "Porkchop the Pig", "Percy the Porcupine", "Beatrice"]
+location: ["Barnyard", "Rooftop Perch", "Blackberry Bushes", "Oak Tree", "Henhouse", "Mud Pit", "Fence Post"]
+artifacts: ["Red Armband", "Weathered Clipboard", "Sparkling Bedazzling Kit", "Red Sequin", "Two-Minute Plan", "Tea Mugs", "Hand-Drawn Flag"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "Quack Feng's rigid structure and Lucifer's chaotic freedom clash in a farm-wide debate. Zephyr the Genie shows both extremes fail, leading to a harmonious compromise where plans bend and spontaneity rests, proving the farm thrives on holding both order and freedom together."
+---
+
 # Sir Whiskerton and the Great Farm Debate
+
 
 *A Parable of Plans and Peace*
 
