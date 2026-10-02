@@ -1,3 +1,22 @@
+---
+title: "TBF03 — The Friend Who Moved On"
+previous_id: "TBF03"
+collection: "tales_by_firefly"
+volume: "tales_by_firefly"
+sequence_id: "tbf03"
+slug: "the-friend-who-moved-on"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["dragons", "friendship", "longwei", "an-yi", "transition", "witnessing", "presence", "fire", "sunken-glade", "gentle-humor", "belonging", "change-of-form"]
+characters: ["Longwei the Dragon", "An Yi the Dragon", "Sir Whiskerton", "Doris the Hen", "Harriet the Hen", "Lillian the Hen", "Bessie the Cow", "Porkchop the Pig", "Rufus the Dog", "The Rabbits of the Sunken Glade"]
+location: ["West Field", "Sunken Glade", "Birch Wood", "Barn Roof", "Pasture Edge"]
+artifacts: ["Orange-Gold Fire", "An Yi's Shell", "Evening Breeze", "Granite Boulders", "Blueberry Bushes", "Low Boulder"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "transition-and-form"]
+content_type: "narrative"
+summary: "Longwei's old friend An Yi arrives at the farm to say goodbye. Through fire, memory, and quiet presence, the farm witnesses An Yi's transition into smoke and shell, learning that those we love don't leave us—they change form, and witnessing is the greatest gift."
+---
+
 # TBF03 — The Friend Who Moved On
 
 *A Sir Whiskerton Story*
