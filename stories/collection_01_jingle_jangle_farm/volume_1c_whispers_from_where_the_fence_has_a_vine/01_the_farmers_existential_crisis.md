@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Farmer's Existential Crisis"
+previous_id: "98"
+collection: "collection_01_jingle_jangle_farm"
+volume: "volume_1c_the_phantoms_and_the_philosophy"
+sequence_id: "1c098"
+slug: "sir-whiskerton-and-the-farmers-existential-crisis"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["existentialism", "philosophy", "farmer", "beatrice", "sir-whiskerton", "mindfulness", "gentle-humor", "meaning", "li-hua"]
+characters: ["The Farmer", "Sir Whiskerton", "Beatrice", "Porkchop the Pig", "Ditto the Kitten", "Bessie the Cow", "Doris the Hen", "Rufus the Dog", "Li Hua", "Percival the Draft Horse"]
+location: ["Disneyland of Debris", "Kitchen", "Vegetable Garden", "Chicken Coop", "Fence Line", "Porch"]
+artifacts: ["The Meaning of Life Book", "Chipped Teacup", "Work Boot", "Checkered Cloth", "Fresh Honey", "Li Hua's Letters"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred"]
+content_type: "narrative"
+summary: "The Farmer finds a philosophy book and becomes lost in existential questions, disrupting the farm's rhythm. Sir Whiskerton and Beatrice guide him back to the present through tangible reality and a shared picnic, teaching him that meaning is found in living, not just examining."
+---
+
 # Sir Whiskerton and the Farmer's Existential Crisis
 
 *A Tale of a Cracked Cup, a Lost Shoe, and the Nectar of the Now*
