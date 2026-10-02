@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Great Farmyard Noir Talent Show"
+previous_id: "3C64"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3c_where_the_wild_things_are_known"
+sequence_id: "3c064"
+slug: "the-great-farmyard-noir-talent-show"
+status: "complete"
+date_created: "2024-05-15"
+date_updated: "2026-10-02"
+tags: ["noir", "talent-show", "identity", "ratso", "ferdinand", "elvis", "porkchop", "doris", "echo", "artifice", "gentle-humor", "belonging", "authenticity"]
+characters: ["Sir Whiskerton", "Ratso the Rat", "Echo the Kitten", "Ferdinand the Duck", "Elvis the Rooster", "Porkchop the Pig", "Doris the Hen", "Chef Remy LeRaccoon", "Bartholomew the Piñata"]
+location: ["Barn Stage", "Rafters", "Wings", "Barn Door", "Prize Basket"]
+artifacts: ["Saxophone", "Ukulele", "Prop Microphone", "Glow-in-the-Dark Cheese Wheel", "Trench Coat", "Stage Rags", "Autographed Eggs Booth"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "authenticity"]
+content_type: "narrative"
+summary: "Ferdinand hosts a talent show to celebrate authenticity, but Ratso's noir narration hijacks the performances into tragic clichés. Sir Whiskerton and Echo break the spell, teaching the farm that true talent isn't performance—it's the courage to be exactly who you are without a script."
+---
+
 # Sir Whiskerton and the Great Farmyard Noir Talent Show
 
 *Was 3C64*
