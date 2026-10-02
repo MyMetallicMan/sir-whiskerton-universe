@@ -1,3 +1,49 @@
+---
+title: "Sir Whiskerton and the Case of the Perilous Porkchop Puffs"
+previous_id: "2A181"
+collection: "collection_02_symphony_of_the_soil"
+volume: "volume_2a_parables_of_the_present_past"
+sequence_id: "2a181"
+slug: "sir-whiskerton-and-the-case-of-the-perilous-porkchop-puffs"
+status: "complete"
+date_created: "2024-05-20"
+date_updated: "2026-10-01"
+tags:
+  - atmosphere
+  - diplomacy
+  - digestion
+  - gentle-humor
+  - porkchop
+  - bessie
+characters:
+  - "Porkchop"
+  - "Sir Whiskerton"
+  - "Bessie"
+  - "Ferdinand"
+  - "The Valley Chicks"
+  - "Doris"
+  - "Bigcat"
+  - "Catnip"
+  - "Beatrice"
+  - "Martha"
+  - "The Farmer"
+location:
+  - "Barnyard"
+  - "The Wallow"
+  - "The Borders"
+artifacts:
+  - "Efficiency Mash"
+  - "Mood Ring"
+  - "Shiny Bottle Cap"
+canon_themes:
+  - "belonging-without-earning"
+  - "calm-persistence"
+  - "shared-vulnerability"
+  - "joy-as-resistance"
+content_type: "narrative"
+summary: "When the Farmer's experimental 'Efficiency Mash' turns Porkchop into an accidental weapon of mass atmospheric disruption, Sir Whiskerton must navigate a gastro-geopolitical crisis with neighboring factions, proving that true harmony requires understanding the weather we create for one another."
+---
+
 # Sir Whiskerton and the Case of the Perilous Porkchop Puffs
 
 *A Tale of Atmospheres, Alliances, and the Air We Share*
