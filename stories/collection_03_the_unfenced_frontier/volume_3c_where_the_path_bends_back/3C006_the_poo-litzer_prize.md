@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Poo-litzer Prize"
+previous_id: "3C386"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3c_where_the_wild_things_are_known"
+sequence_id: "3c386"
+slug: "the-poo-litzer-prize"
+status: "complete"
+date_created: "2023-11-15"
+date_updated: "2026-10-02"
+tags: ["chromatography", "compost", "bigcat", "catnip", "professor-quackenstein", "porkchop", "bessie", "gentle-humor", "value", "absurdity", "mobsters"]
+characters: ["Sir Whiskerton", "Professor Quackenstein", "Doctor Notoriouso", "Bessie the Cow", "Porkchop the Pig", "Bigcat", "Catticus", "Catnip", "Bonbo", "Grumbles", "Doris the Hen", "Harriet the Hen", "Lillian the Hen", "Rufus the Dog", "The Farmer"]
+location: ["Professor's Laboratory", "Trading Field", "Shady Porch", "Compost Heap"]
+artifacts: ["Chromato-Crap-O-Matic 5000", "Color-Charged Feed", "Melted Rainbow Sludge", "Wheelbarrow", "Watering Can"]
+canon_themes: ["absurd-is-sacred", "joy-as-resistance", "calm-persistence", "value-over-appearance"]
+content_type: "narrative"
+summary: "Professor Quackenstein invents a machine that turns waste into colorful poop. Bigcat and Catnip attempt to trade it, but the heat melts their stinky currency. The Farmer calmly composts the mess, teaching the farm that true value isn't about appearance, and that some experiments are best left to the soil."
+---
+
 # Sir Whiskerton and the Poo-litzer Prize
 
 *Was 3C386*
