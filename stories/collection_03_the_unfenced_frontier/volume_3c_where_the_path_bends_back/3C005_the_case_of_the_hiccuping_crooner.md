@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Case of the Hiccuping Crooner"
+previous_id: "3C283"
+collection: "collection_03_the_unfenced_frontier"
+volume: "volume_3c_where_the_wild_things_are_known"
+sequence_id: "3c283"
+slug: "sir-whiskerton-and-the-case-of-the-hiccuping-crooner"
+status: "complete"
+date_created: "2024-02-15"
+date_updated: "2026-10-02"
+tags: ["hiccups", "ferdinand", "music", "debate", "porkchop", "doris", "gertrude", "gentle-humor", "artistic-identity", "belonging", "balance"]
+characters: ["Sir Whiskerton", "Ferdinand the Duck", "Porkchop the Pig", "Doris the Hen", "Gertrude the Goose", "Harriet the Hen", "Lillian the Hen", "Rufus the Dog", "Barry the Beaver", "Count Catula"]
+location: ["Barn Roof", "Pond", "Henhouse", "Bridge Site"]
+artifacts: ["Moldy Bread", "Glass of Water", "Hiccup Harmony Bridge (Collapsed)", "Tambourine", "Water Bucket"]
+canon_themes: ["joy-as-resistance", "calm-persistence", "absurd-is-sacred", "belonging-without-earning"]
+content_type: "narrative"
+summary: "Ferdinand the duck develops hiccups from eating moldy bread, sparking a farm-wide debate between artistic innovation and musical tradition. Sir Whiskerton mediates the chaos and enlists Porkchop's unconventional cure, teaching the farm that balance respects both spontaneity and peace."
+---
+
 # Sir Whiskerton and the Case of the Hiccuping Crooner
 
 *Was 3C283*
