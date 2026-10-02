@@ -1,7 +1,7 @@
 ---
 title: "Sir Whiskerton and the Case of the Red Revelation"
 previous_id: "2B194"
-collection: "collection_02_the_unfenced_frontier"
+collection: "collection_02_symphony_of_the_soil"
 volume: "volume_2b_diplomacies_of_the_heart_and_hearth"
 sequence_id: "2b194"
 slug: "sir-whiskerton-and-the-case-of-the-red-revelation"
