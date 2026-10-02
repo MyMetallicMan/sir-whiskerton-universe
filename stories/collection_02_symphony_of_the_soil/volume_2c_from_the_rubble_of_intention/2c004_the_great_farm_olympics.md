@@ -1,3 +1,22 @@
+---
+title: "Sir Whiskerton and the Great Farm Olympics"
+previous_id: "2C186"
+collection: "collection_02_the_symphony_of_the_soil"
+volume: "volume_2c_from_the_rubble_of_intention"
+sequence_id: "2c186"
+slug: "sir-whiskerton-and-the-great-farm-olympics"
+status: "complete"
+date_created: "2024-02-20"
+date_updated: "2026-10-02"
+tags: ["olympics", "competition", "bigcat", "catnip", "community", "gentle-humor", "philosophy", "belonging", "interpretive-agriculture", "systems-under-stress"]
+characters: ["Sir Whiskerton", "Porkchop the Pig", "Hamlet the Piglet", "Ewenice the Sheep", "Bessie the Cow", "Doris the Hen", "Ditto the Kitten", "Bigcat", "Reginald the Crow", "Catnip the Stray Cat"]
+location: ["Farmyard", "Judging Table", "Duck Pond", "Buttercup Meadow", "Sunbeam Observatory"]
+artifacts: ["Olympiad Scroll", "Hay Bales", "Scorecards", "Turnip Hurdle", "Wash Water Bucket", "Buttercup Picnic Spread"]
+canon_themes: ["belonging-without-earning", "joy-as-resistance", "calm-persistence", "absurd-is-sacred", "community-as-garden"]
+content_type: "narrative"
+summary: "Bigcat challenges the farm to the First Inter-Farm Olympiad. Instead of conforming to his rigid standards, Sir Whiskerton leads the animals to compete as themselves, turning athletic events into philosophical statements, spiritual retreats, and acts of joyful absurdity, proving that true strength lies in embracing peculiar normalcy over foreign metrics."
+---
+
 # Sir Whiskerton and the Great Farm Olympics
 
 *A Tale of Hierarchies, Hysteria, and the Humor That Holds the Sky Up*
