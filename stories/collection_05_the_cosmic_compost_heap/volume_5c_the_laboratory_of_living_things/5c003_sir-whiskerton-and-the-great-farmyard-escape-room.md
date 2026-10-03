@@ -126,4 +126,78 @@ The map was useless. Big Red had eaten the corner with the barn on it. Speaking 
 
 Chaos is what happens when earnest effort meets incomprehensible design. 
 
-Ferdinand the Duck, attempting to be helpful, began to sing a soaring, dramatic aria about the longing for open skies, hoping the frequency would resonate with the lock. It did not. It did, however
+Ferdinand the Duck, attempting to be helpful, began to sing a soaring, dramatic aria about the longing for open skies, hoping the frequency would resonate with the lock. It did not. It did, however, cause Count Catula (who had snuck in to watch) to swoon against the wall, declaring it “the sound of hope dying beautifully.” 
+
+Bessie began a grounding meditation that involved slow, sweeping kicks. One such kick connected with what Hank had called a “non-load-bearing hay bale,” which turned out to be very load-bearing for the wall’s integrity. The structure groaned ominously.
+
+Outside, we could hear the soft *scratch-scratch* of chalk. Peering through a knothole, I saw Catnip. He had erected a small chalkboard. It read: **MINUTES SINCE LAST INTERNAL MELTDOWN: 3**. He was updating it gleefully.
+
+“He’s… scoring our despair,” I muttered, a cold fury settling in my chest. This was no longer Hank’s folly. This was a deliberate act of smug, theatrical imprisonment.
+
+The final straw was the “word lock” on the main door—a cheap contraption with four rotating letter wheels. The clue beside it, written on a splinter of wood, said: *“It’s what you all lack. (Hint: It’s not treats.)”*
+
+The animals threw out guesses, their frustration boiling over. 
+“BRAIN!” yelled Doris.
+“PATIENCE!” mooed Bessie.
+“DIGESTIVE FORTITUDE!” groaned Big Red.
+
+I stared at the lock, then at the bickering, frantic creatures around me. I looked at the shoddy walls, the eaten clues, the smug cat outside. A profound, weary realization dawned.
+
+“We are attempting to solve Hank’s puzzle,” I announced, my voice cutting through the din. “But Hank did not lock the door. Catnip did. And Catnip’s puzzle is not on the walls. It is *us*.”
+
+Silence fell, heavy and thick. 
+
+“He doesn’t care about Hank’s clues,” I continued. “He’s waiting to see if we can do the one thing he believes farm animals cannot: cooperate without a common, simple enemy. We are trying to escape a room, when we need to escape our own assumptions.”
+
+It was a horrifying concept. Cooperation required vulnerability. It required admitting that Ferdinand’s aria held no answers, that Doris’s gossip was not a clue, that Bessie’s mood ring was just a wet rock, and that my fishbone lockpick was a temporary trick, not a solution.
+
+Porkchop broke the tension. “So… we work together? Like, for real? Not just ‘you stand on that while I push this’?”
+
+“Precisely.”
+
+What followed was not elegant. It was a symphony of sheer, pragmatic effort. 
+
+Bessie’s mood ring, when thrown by Ferdinand’s precise wing, jammed the cheap mechanism of the word lock. Doris, realizing her true power, positioned herself at the knothole and launched into a torrent of scandalous, distracting gossip about Catnip’s secret fondness for crocheted blankets. 
+
+Outside, we heard Catnip’s scoff turn into a sputter of indignation. “I do not have a ‘granny-square addiction’! That is slander!”
+
+In that moment of distracted fury, Porkchop took a running start. Big Red, seeing the target, braced himself. With a coordinated heave, they became a single, porcine-canine battering ram. 
+
+The door, which was never more than a suggestion of solidity, exploded outward in a cloud of splinters, twine, and disappointment. 
+
+We tumbled into the sweet, free air, just as Hank’s Escape Room gave a final, weary sigh and collapsed in on itself behind us.
+
+## The Moral (and the Post-Credit Whisper)
+
+**Moral:**  
+The most confining prisons are often built from our own stubborn independence and the low expectations of others. True escape rarely comes from solving every riddle on the wall; it comes from the sudden, ungraceful, collective decision to stop playing the game as designed, and instead, to lean on the living, breathing, splinter-riddled puzzle-solvers standing right beside you.
+
+**Post-Credit Scene:**  
+Catnip stood frozen, a piece of chalk held in mid-air before his chalkboard, which now read: **MINUTES SINCE LAST INTERNAL MELTDOWN: 0 (THEY CHEATED).**
+
+He recovered with feline grace, dusting invisible lint from his shoulder. “Ah. I meant for you to figure out the teamwork angle. It was the ultimate clue. You passed. Just… more destructively than anticipated.”
+
+I walked over, my fur dusty but my dignity, for once, secondary. “The ‘smuggest feline in a five-mile radius’ award is yours, Catnip. But you made one error in your puzzle. You assumed we lacked what was needed. We didn’t lack teamwork. We just needed a reason to remember it that wasn’t a bowl of food or a setting sun. Sometimes, a common nuisance is all the reason required.”
+
+He had no retort. He simply flicked his tail and disappeared back into the woods, though I noted he took the chalkboard with him.
+
+Hank, who had returned with a “Hints & Helps” manual, looked at the pile of rubble that was his masterpiece. “Well, I’ll be. Y’all solved it *and* the demolition puzzle! That was the bonus round!”
+
+We did not have the heart to correct him.
+
+---
+
+**Starring (as always):**  
+• **Sir Whiskerton** – The Reluctant Warden, Master of the Fishbone Lockpick  
+• **Handy Hank** – The Aspirational Tinkerer, Who Accidentally Built a Demolition Derby  
+• **Catnip** – The Smug Architect of Despair, Defender of the Granny-Square Accusation  
+• **Doris** – The Dramaturge of Puns, Who Weaponized Gossip  
+• **Bessie** – The Tie-Dye Bodhisattva, Whose Wet Mood Ring Jammed the Lock  
+• **Porkchop & Big Red** – The Porcine-Canine Battering Ram, Eaters of Wooden Clues  
+
+---
+
+*Jingle on, dear friends.*  
+(Or, in the language of splinters and solidarity: *Click… jam… gossip… belong.*)  
+In this barnyard, even a rigged puzzle is just an excuse to break a door down together.  
+And every creature—trapped, splintered, or quietly judging from the woods—is already home.
