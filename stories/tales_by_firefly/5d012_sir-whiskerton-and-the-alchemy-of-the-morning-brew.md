@@ -6,7 +6,7 @@ was collection: "collection_05_the_cosmic_compost_heap"
 is now in collection: "tales_by_firefly"
 was volume: "volume_5d_the_workshop_of_wobbly_time"
 is volume: "tales_by_firefly"
-was sequence_id: "5d012"
+<!-- was sequence_id: "5d012" -->
 is now sequence "TBF10"
 slug: "sir-whiskerton-and-the-alchemy-of-the-morning-brew"
 status: "complete"
